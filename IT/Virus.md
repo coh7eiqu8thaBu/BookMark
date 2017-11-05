@@ -1,0 +1,63 @@
+# Virus and other malware
+## AntiAV et Sandbox :
+* https://www.exploit-db.com/docs/40900.pdf
+* https://www.exploit-db.com/docs/34591.pdf
+* Sandbox Evasion Techniques 
+  1. https://www.vmray.com/blog/sandbox-evasion-techniques-part-1/
+  1. https://www.vmray.com/blog/sandbox-evasion-techniques-part-2/
+  1. https://www.vmray.com/blog/sandbox-evasion-techniques-part-3/
+  1. https://www.vmray.com/blog/sandbox-evasion-techniques-part-4/
+* Malware Analysis
+  1. https://www.vmray.com/analyses/663306/report/overview.html
+  2. https://www.vmray.com/analyses/663310/report/overview.html
+  3. https://www.vmray.com/analyses/663313/report/overview.html
+* http://theinvisiblethings.blogspot.de/2006/06/introducing-blue-pill.html
+* VMWare port: https://kb.vmware.com/selfservice/microsites/search.do?language=en_US&cmd=displayKC&externalId=1009458
+* https://www.blackhat.com/docs/asia-14/materials/Li/Asia-14-Li-Comprehensive-Virtual-Appliance-Detection.pdf
+* https://www.brokenbrowser.com/detecting-apps-mimetype-malware/
+* https://www.symantec.com/avcenter/reference/Virtual_Machine_Threats.pdf
+* https://www.vmray.com/blog/analyzing-environment-sensitive-malware/
+* HERCULES is a special payload generator that can bypass antivirus softwares : https://github.com/EgeBalci/HERCULES
+* Art of Anti Detection
+  * Part 2 – PE Backdoor Manufacturing : https://pentest.blog/art-of-anti-detection-2-pe-backdoor-manufacturing/
+  * Part 3 : https://www.exploit-db.com/docs/41640.pdf   
+* Command Injection/Elevation – Environment Variables Revisited : http://breakingmalware.com/vulnerabilities/command-injection-and-elevation-environment-variables-revisited/
+* https://n0where.net/antivirus-evasion-framework-veil-framework/ - Antivirus Evasion Framework: Veil Framework replaced by https://github.com/Veil-Framework/Veil
+* IDPS & SandBox & AntiVirus STEALTH KILLER. MorphAES is the world's first polymorphic shellcode engine, with metamorphic properties and capability to bypass sandboxes, which makes it undetectable for an IDPS, it's cross-platform as well and library-independent. https://github.com/cryptolok/MorphAES
+*  A framework that create an advanced stealthy dropper that bypass most AVs and have a lot of tricks - https://github.com/D4Vinci/Dr0p1t-Framework
+* Undetectable Windows Payload Generation with extras Running on Python2.7 https://github.com/nccgroup/winpayloads
+* Bypass PowerShell execution policy by encoding ps script into bat file - https://github.com/artkond/bat-armor
+* A framework that create an advanced stealthy dropper that bypass most AVs and have a lot of tricks https://github.com/D4Vinci/Dr0p1t-Framework
+* An example of infected Word doc : http://blog.talosintelligence.com/2017/10/cyber-conflict-decoy-document.html
+* A tool to create a JScript file which loads a .NET v2 assembly from memory - https://github.com/tyranid/DotNetToJScript
+* CACTUSTORCH: Payload Generation for Adversary Simulations https://www.mdsec.co.uk/2017/07/payload-generation-with-cactustorch/ / https://www.mdsec.co.uk/2017/07/payload-generation-with-cactustorch/
+* Modifying Metasploit x64 template for AV evasion - https://www.blackhillsinfosec.com/modifying-metasploit-x64-template-for-av-evasion/
+* AntiVirus Evasion Tool https://github.com/govolution/avet
+* HTML/JS drops & executes base64 encoded executable with PowerShell > HTML/JS no AV detection > Dropped EXE detected https://www.hybrid-analysis.com/sample/3b66f0172d5700924f4749db2b7a6f07eb5b5a18033dc379e48d938789f6bf75?environmentId=100 https://twitter.com/cyb3rops/status/907236450248413190?s=09
+*  OWASP ZSC - Shellcode/Obfuscate Code Generator http://www.kitploit.com/2017/09/owasp-zsc-shellcodeobfuscate-code.html
+  * OWASP Page: https://www.owasp.org/index.php/OWASP_ZSC_Tool_Project
+  * Documents: https://www.gitbook.com/book/ali-razmjoo/owasp-zsc/details
+  * Home: http://zsc.z3r0d4y.com/
+  * Features: http://zsc.z3r0d4y.com/table.html
+  * Github: https://github.com/Ali-Razmjoo/OWASP-ZSC
+  * Archive: https://github.com/Ali-Razmjoo/ZCR-Shellcoder-Archive
+  * Mailing List: https://groups.google.com/d/forum/owasp-zsc
+  * API: http://api.z3r0d4y.com
+* Exe2Png : https://github.com/OsandaMalith/Exe2Image/releases A simple utility to convert EXE files to PNG images and vice versa.
+* How to Create Linux Self Extracting Archive https://n0where.net/how-to-create-self-extracting-archive/ https://gist.github.com/coh7eiqu8thaBu/f2cafb13c1961b6a73853060c987c8af or http://megastep.org/makeself/makeself-2.1.5.run
+* VirusTotal Wanna Be - Now with 100% more Hipster https://malice.io - https://github.com/maliceio/malice
+* Command line tool for scanning streams within office documents plus xor db attack https://github.com/tylabs/quicksand_lite
+
+
+## Backdoor download
+* https://www.peerlyst.com/posts/transferring-backdoor-payloads-by-dns-aaaa-records-and-ipv6-address-damon-mohammadbagher
+
+## IoC
+* https://github.com/sroberts/awesome-iocs
+
+## AV Check and malware analysis
+* No redistribut to AV - https://nodistribute.com/
+* VirusTotal - https://www.virustotal.com/
+* A source for pcap files and malware samples... http://malware-traffic-analysis.net/
+* maltran - A command line tool to download malware exercises from malware-traffic-analysis.net - https://github.com/MalwareReverseBrasil/maltran
+* http://malwareanalysis.tools/ Malware Analysis Tools (mega bookmark !)
