@@ -1,0 +1,3 @@
+# VPN and more
+*  Streisand sets up a new server running L2TP/IPsec, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, a Tor bridge, and WireGuard. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists. https://github.com/jlund/streisand
+* VPN Pivot sends and receive a fully encrypted TCP/IP stack over TCP stream socket, then the peers forward it into the desired device/host. The attacker explores the internal network as he belongs to it within a local IP address taken from the dhcp server or statically configured. www.kitploit.com/2017/09/vpnpivot-explore-internal-networks.html https://github.com/0x36/VPNPivot

@@ -10,6 +10,9 @@
 ## Combo !
 * The complete list of Infosec related cheat sheets https://www.peerlyst.com/posts/the-complete-list-of-infosec-related-cheat-sheets-claus-cramon
 
+## Windows
+* Penetration Testing Cheat Sheet For Windows Machine – Intrusion Detection https://techincidents.com/penetration-testing-cheat-sheet/
+
 ## Divers
 * Modern JavaScript Cheatsheet https://github.com/mbeaudru/modern-js-cheatsheet
 * TLS/SSL Vulnerabilities Sheet Cheat : https://www.gracefulsecurity.com/tls-ssl-vulnerabilities/

