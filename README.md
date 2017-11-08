@@ -78,13 +78,13 @@ A trier ...
 * Autonomous (self-hosted) BitTorrent DHT search engine suite. http://labs.boramalper.org/magnetico/ https://github.com/boramalper/magnetico
 * Subjack is a Hostile Subdomain Takeover tool written in Go designed to scan a list of subdomains concurrently and identify ones that are able to be hijacked. With Go's speed and efficiency, this tool really stands out when it comes to mass-testing. Always double check the results manually to rule out false positives. https://github.com/haccer/subjack
 * Python telnet honeypot for catching botnet binaries https://github.com/Phype/telnet-iot-honeypot
-* It's a tool to manage vulnerables packages in your *nix server, in a centralized way https://github.com/mthbernardes/heimdall_webserver
+* It's a tool to manage vulnerables packages in your nix server, in a centralized way https://github.com/mthbernardes/heimdall_webserver
 * Stream Movies like a Hacker :
   * Step 1 - Install
     * Peerflix - https://www.npmjs.com/package/peerflix130
     * Pirate-get https://github.com/vikstrous/pirate-get142
     * Mpv (Repos)
   * Step 2 - Rejoice `pirate-get -C "peerflix %s --mpv" moviename`
-
+* PHP Secure Configuration Checker https://github.com/sektioneins/pcc
 
 
