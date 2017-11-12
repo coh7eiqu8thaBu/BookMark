@@ -17,9 +17,13 @@ open sources to design personalised cyber attacks.
 ```
 * http://oism.org/nwss/nwss.pdf Nuclear War Survival Skils
 * BlockChain en Bande Dessinnées : http://www.ledieu-avocats.fr/protocole-blockchain/
+* 12 Python Resources for Data Science https://www.datasciencecentral.com/profiles/blogs/the-guide-to-learning-python-for-data-science
 
 # Guides
 * http://www.computersecuritystudent.com/HOME/index.html ComputerSecurityStudent (CSS)
 * Blue Team Training Toolkit https://www.bt3.no/
 * This repository is to make life of the pentester easy as it is a collection of the websites that can be used by pentesters for day to day studies and to remain updated. https://github.com/HSIS007/Useful_Websites_For_Pentester
-*  A collection of various awesome lists for hackers, pentesters and security researchers https://github.com/Hack-with-Github/Awesome-Hacking 
+* A collection of various awesome lists for hackers, pentesters and security researchers https://github.com/Hack-with-Github/Awesome-Hacking 
+* How to solve the Malwarebytes CrackMe: a step-by-step tutorial : https://blog.malwarebytes.com/malwarebytes-news/2017/11/how-to-solve-the-malwarebytes-crackme-a-step-by-step-tutorial/
+* A penetration tester’s guide to sub-domain enumeration https://blog.appsecco.com/a-penetration-testers-guide-to-sub-domain-enumeration-7d842d5570f6
+* How to use GIT like a pro https://github.com/k88hudson/git-flight-rules

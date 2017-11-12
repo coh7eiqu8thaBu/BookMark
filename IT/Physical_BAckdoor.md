@@ -40,6 +40,7 @@
 * Evolution : https://slides.com/zettain/bad-usb/embed
 * Poor's man Ducky : http://slides.com/davidgouveia/poor-man-s#/4
 * Study of IOC of Ducky : https://www.slideshare.net/bsmuir/ducky-usb-indicators-of-compromise-iocs
+* Inside a low budget consumer hardware espionage implant https://ha.cking.ch/s8_data_line_locator/
 ## Bunny Bash
 * https://hakshop.com/products/bash-bunny
 * Video de presentation : https://www.youtube.com/watch?v=kkgjqudFS9Q / https://www.youtube.com/watch?v=CFM-XjNvfFQ

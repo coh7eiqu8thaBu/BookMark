@@ -86,5 +86,7 @@ A trier ...
     * Mpv (Repos)
   * Step 2 - Rejoice `pirate-get -C "peerflix %s --mpv" moviename`
 * PHP Secure Configuration Checker https://github.com/sektioneins/pcc
+* Backup of Darkc0ded : http://rafale.org/~mattoufoutu/darkc0de.com/
+* A simple shell script I run to keep my MacBook clean and patched. https://github.com/jgamblin/MacOS-Maid
 
 

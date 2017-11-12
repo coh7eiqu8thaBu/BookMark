@@ -5,4 +5,5 @@
 * Analyzing Malicious Documents Cheat Sheet https://zeltser.com/analyzing-malicious-documents/ https://zeltser.com/media/docs/analyzing-malicious-document-files.pdf
 * pcap-grapher - Create an intuitive and interactive graph of a client's IP traffic. https://github.com/yotamho/pcap-grapher
 * Read a packet capture, extract HTTP requests and turn them into cURL commands for replay. https://github.com/jullrich/pcap2curl
+* Heuristics File System Secret Search: blueflower https://n0where.net/heuristics-file-system-secret-search-blueflower/ https://github.com/veorq/blueflower
 

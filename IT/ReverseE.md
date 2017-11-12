@@ -5,6 +5,9 @@
 * This tools search for code cave in binaries (Elf, Mach-o, Pe), and inject code in them. https://github.com/Antonin-Deniau/cave_miner
 * Automated static analysis tools for binary programs https://github.com/cmu-sei/pharos
 * pestudio 8.68 now available at https://winitor.com/binaries.html  with more hints to ease malware initial assessment
+* Reverse Engineering Cross Platform Disassembler: Panopticon https://n0where.net/reverse-engineering-cross-platform-disassembler-panopticon/ and https://github.com/das-labor/panopticon
+* Convert Hex To Assembly Using Simple Python Script https://haiderm.com/convert-hex-assembly-using-simple-python-script/
+*  Capstone disassembly/disassembler framework: Core (Arm, Arm64, M68K, Mips, PPC, Sparc, SystemZ, X86, X86_64, XCore) + bindings (Python, Java, Ocaml, PowerShell) http://www.capstone-engine.org/ https://github.com/aquynh/capstone/
 
 ## VM Analysis
 * https://github.com/Cisco-Talos/pyrebox PyREBox is a Python scriptable Reverse Engineering sandbox. It is based on QEMU, and its goal is to aid reverse engineering by providing dynamic analysis and debugging capabilities from a different perspective. PyREBox allows to inspect a running QEMU VM, modify its memory or registers, and to instrument its execution, by creating simple scripts in python to automate any kind of analysis. QEMU (when working as a whole-system-emulator) emulates a complete system (CPU, memory, devices...). By using VMI techniques, it does not require to perform any modification into the guest operating system, as it transparently retrieves information from its memory at run-time.
