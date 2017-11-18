@@ -11,6 +11,7 @@
 * Intel opcode :
   * Instructions from A-M (http://www.intel.com/assets/pdf/manual/253666.pdf)
   * Instructions from N-Z (http://www.intel.com/assets/pdf/manual/253667.pdf)
+* Introduction to UNIX assembly programming http://asm.sourceforge.net/intro/Assembly-Intro.html
 
 ## Linux Kernel
 * Writing a Linux Kernel Module

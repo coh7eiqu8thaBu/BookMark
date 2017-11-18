@@ -88,5 +88,8 @@ A trier ...
 * PHP Secure Configuration Checker https://github.com/sektioneins/pcc
 * Backup of Darkc0ded : http://rafale.org/~mattoufoutu/darkc0de.com/
 * A simple shell script I run to keep my MacBook clean and patched. https://github.com/jgamblin/MacOS-Maid
-
-
+* How to exploit BlueBorne (CVE-2017-0781) RCE on Android 6.0.1 https://jesux.es/exploiting/blueborne-android-6.0.1-english/ 
+* A small library for mapping and unmapping PE files. https://github.com/hasherezade/libpeconv
+* Bash script for renewing Let's Encrypt certificates including a staging period https://github.com/albocc/letsencrypt-smart-renewal-with-staging
+* kernel privilege escalation enumeration and exploitation framework https://github.com/spencerdodd/kernelpop
+* Parrot Security 3.9 - Security GNU/Linux Distribution Designed with Cloud Pentesting and IoT Security in Mind https://www.parrotsec.org/download.fx

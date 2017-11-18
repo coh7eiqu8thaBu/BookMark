@@ -1,4 +1,5 @@
 # Virus and other malware
+
 ## AntiAV et Sandbox :
 * https://www.exploit-db.com/docs/40900.pdf
 * https://www.exploit-db.com/docs/34591.pdf
@@ -58,12 +59,21 @@ waitfor /s 127.0.0.1 /si persist
 # example de charge (http://bit.ly/L3g1t)
 Write-Host SUCCESSFULLY EXECUTED POWERSHELL CODE FROM REMOTE LOCATION -ForegroundColor Green
 ```
+### Genetic Malware
+* Obowla https://github.com/Genetic-Malware/Ebowla
+* GoGreen https://github.com/leoloobeek/GoGreen / https://adapt-and-attack.com/2017/11/15/keying-payloads-for-scripting-languages/
+
 
 ## Backdoor download
 * https://www.peerlyst.com/posts/transferring-backdoor-payloads-by-dns-aaaa-records-and-ipv6-address-damon-mohammadbagher
 
 ## IoC
 * https://github.com/sroberts/awesome-iocs
+* Open Indicators of Compromise: OpenIOC https://n0where.net/open-indicators-of-compromise-openioc/ http://www.openioc.org/
+  * IOC Finder https://www.fireeye.com/services/freeware/ioc-finder.html
+  * IOC Editor https://www.fireeye.com/services/freeware/ioc-editor.htm
+  * IOC Writer https://github.com/mandiant/ioc_writer
+ 
 
 ## AV Check and malware analysis
 * No redistribut to AV - https://nodistribute.com/
