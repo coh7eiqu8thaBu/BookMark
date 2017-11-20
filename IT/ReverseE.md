@@ -1,5 +1,6 @@
 # Reverse Enginering
 *  Memory scanner for Linux https://github.com/scanmem/scanmem
+
 ## Binary analysis
 * https://github.com/m4b/bingrep/
 * This tools search for code cave in binaries (Elf, Mach-o, Pe), and inject code in them. https://github.com/Antonin-Deniau/cave_miner
@@ -21,6 +22,7 @@
 
 ## Guide
 * RE guide for beginners: Methodology and tools : https://0x00sec.org/t/re-guide-for-beginners-methodology-and-tools/2242 
+* List of awesome reverse engineering resources https://github.com/wtsxDev/reverse-engineering
 
 ## SSL Proxy
 * Decrypts and logs a process's SSL traffic. - https://github.com/google/ssl_logger
