@@ -28,3 +28,4 @@ open sources to design personalised cyber attacks.
 * How to solve the Malwarebytes CrackMe: a step-by-step tutorial : https://blog.malwarebytes.com/malwarebytes-news/2017/11/how-to-solve-the-malwarebytes-crackme-a-step-by-step-tutorial/
 * A penetration tester�s guide to sub-domain enumeration https://blog.appsecco.com/a-penetration-testers-guide-to-sub-domain-enumeration-7d842d5570f6
 * How to use GIT like a pro https://github.com/k88hudson/git-flight-rules
+* Awesome Windows Exploitation https://github.com/enddo/awesome-windows-exploitation
