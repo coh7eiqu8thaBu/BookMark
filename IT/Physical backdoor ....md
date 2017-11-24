@@ -44,6 +44,7 @@
 * Micropython code to implement a GSM mobile phone. The functionality includes voice and SMS. The hardware consists of a pyboard, an LCD160CR colour touch screen and a SIM800L module as pictured below. It is mounted on a homebrew matrix board skin which plugs into a pyboard. Below the SIM800L is a lipo charger - see below. https://github.com/jeffmer/micropython-upyphone
   * https://fr.aliexpress.com/wholesale?catId=0&SearchText=SIM800L
 * P4wnP1 is a highly customizable USB attack platform, based on a low cost Raspberry Pi Zero or Raspberry Pi Zero W. https://github.com/mame82/P4wnP1
+* TEMPEST with an SDR / Remote video eavesdropping using a software-defined radio platform
   
 
 ## Bunny Bash
