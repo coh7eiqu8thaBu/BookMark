@@ -40,7 +40,7 @@ A database of common, interesting or useful commands, in one handy referable for
 
 ## iPhone
 * all crypto Key https://www.theiphonewiki.com/wiki/Category:IPhone_5s_(iPhone6,1)_Key_Page
-* Hacker Decrypts Apple's Secure Enclave Processor (SEP) Firmware http://www.iclarified.com/62025/hacker-decrypts-apples-secure-enclave-processor-sep-firmware
+* [Hacker Decrypts Apple's Secure Enclave Processor (SEP) Firmware](http://www.iclarified.com/62025/hacker-decrypts-apples-secure-enclave-processor-sep-firmware)
 	* [img4lib](https://github.com/xerub/img4lib)
 	* [SEP firmware split tool](https://gist.github.com/xerub/0161aacd7258d31c6a27584f90fa2e8c)
 
