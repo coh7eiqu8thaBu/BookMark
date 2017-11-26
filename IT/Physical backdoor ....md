@@ -46,6 +46,10 @@
 * P4wnP1 is a highly customizable USB attack platform, based on a low cost Raspberry Pi Zero or Raspberry Pi Zero W. https://github.com/mame82/P4wnP1
 * TEMPEST with an SDR / Remote video eavesdropping using a software-defined radio platform https://github.com/rtlsdrblog/TempestSDR and https://www.rtl-sdr.com/tempestsdr-a-sdr-tool-for-eavesdropping-on-computer-screens-via-unintentionally-radiated-rf/
 * HiTag2 Cracking Suite https://github.com/ApertureLabsLtd/RFIDler/tree/master/hitag2crack
+* SWORD dropbox: A $15 OpenWRT based DIY disposable pen-test tool.
+	* https://github.com/tomacwrt/tomacwrt.github.io
+	* https://medium.com/@tomac/a-15-openwrt-based-diy-pen-test-dropbox-26a98a5fa5e5
+	* https://www.aliexpress.com/wholesale?SearchText=NEXX+WT3020F
   
 
 ## Bunny Bash
