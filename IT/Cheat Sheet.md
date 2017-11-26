@@ -11,11 +11,12 @@
 * The complete list of Infosec related cheat sheets https://www.peerlyst.com/posts/the-complete-list-of-infosec-related-cheat-sheets-claus-cramon
 
 ## Windows
-* Penetration Testing Cheat Sheet For Windows Machine – Intrusion Detection https://techincidents.com/penetration-testing-cheat-sheet/
+* Penetration Testing Cheat Sheet For Windows Machine - Intrusion Detection https://techincidents.com/penetration-testing-cheat-sheet/
 
 ## Divers
 * Modern JavaScript Cheatsheet https://github.com/mbeaudru/modern-js-cheatsheet
 * TLS/SSL Vulnerabilities Sheet Cheat : https://www.gracefulsecurity.com/tls-ssl-vulnerabilities/
 * A cheatsheet of modern C++ language and library features. https://github.com/AnthonyCalandra/modern-cpp-features
-* https://zeltser.com/reverse-engineering-malicious-code-tips/ Tips for Reverse-Engineering Malicious Code – A New Cheat Sheet
+* https://zeltser.com/reverse-engineering-malicious-code-tips/ Tips for Reverse-Engineering Malicious Code - A New Cheat Sheet
+* http://pentestmonkey.net/category/cheat-sheet
 
