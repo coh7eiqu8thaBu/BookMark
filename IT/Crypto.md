@@ -29,9 +29,18 @@ A database of common, interesting or useful commands, in one handy referable for
 * Decoding XOR shellcode without a Key, by Chris Jordan. https://playingwithothers.com/2012/12/20/decoding-xor-shellcode-without-a-key/
 * UnXor, by Tomchop. https://github.com/tomchop/unxor
 * Deobfuscating Embedded Malware using Probable-Plaintext Attacks (KANDI tool), by Christian Wressnegger, Frank Boldewin, and Konrad Rieck. https://www.tu-braunschweig.de/Medien-DB/sec/pubs/2013-raid.pdf
+
 ## Hide my Shell
 *  Encrypted exploit delivery for the masses https://github.com/Mrgeffitas/Ironsquirrel
+
 ## Stegano
 * Stego in TCP/IP made easy (Part-1): https://www.exploit-db.com/docs/40891.pdf  (pdf) 
 * Part 2 - The Phantom Shell : https://www.exploit-db.com/docs/40897.pdf  (pdf)
 * Python Steganography Tool: Matroschka https://github.com/fbngrm/Matroschka
+
+## iPhone
+* all crypto Key https://www.theiphonewiki.com/wiki/Category:IPhone_5s_(iPhone6,1)_Key_Page
+* Hacker Decrypts Apple's Secure Enclave Processor (SEP) Firmware http://www.iclarified.com/62025/hacker-decrypts-apples-secure-enclave-processor-sep-firmware
+	* [img4lib](https://github.com/xerub/img4lib)
+	* [SEP firmware split tool](https://gist.github.com/xerub/0161aacd7258d31c6a27584f90fa2e8c)
+
