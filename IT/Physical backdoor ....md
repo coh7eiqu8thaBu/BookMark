@@ -55,6 +55,8 @@
 	* https://hackaday.io/project/26991-esp32-board-wifi-lora-32
 	* https://github.com/espressif/arduino-esp32
 	* https://robotzero.one/heltec-wifi-kit-32/
+	* https://robotzero.one/heltec-wifi-lora-32/
+	* https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series
   
 
 ## Bunny Bash
