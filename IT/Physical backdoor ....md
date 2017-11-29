@@ -57,6 +57,8 @@
 	* https://robotzero.one/heltec-wifi-kit-32/
 	* https://robotzero.one/heltec-wifi-lora-32/
 	* https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series
+	* https://hackaday.io/project/27791-esp32-lora-oled-module
+	* http://www.diymalls.com/files/FZ2835-FZ2836-FZ2837-ESP32-ESP8266.zip
   
 
 ## Bunny Bash
