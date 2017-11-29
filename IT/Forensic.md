@@ -12,4 +12,4 @@
 * fatcat - FAT Filesystems Explore, Extract, Repair, And Forensic Tool http://www.kitploit.com/2017/11/fatcat-fat-filesystems-explore-extract.html https://github.com/Gregwar/fatcat
 * Docker container in your browser: codetainer https://n0where.net/docker-container-codetainer/ https://github.com/codetainerapp/codetainer
 * ZipJail is a usermode sandbox for unpacking archives using the unzip, rar, 7z, and unace utilities.  https://github.com/jbremer/tracy/tree/master/src/zipjail
-
+* Acquiring a Memory Dump from Fleeting Malware https://digital-forensics.sans.org/blog/2017/11/27/acquiring-a-memory-dump-from-fleeting-malware
