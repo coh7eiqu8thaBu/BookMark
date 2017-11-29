@@ -51,6 +51,8 @@
 	* https://medium.com/@tomac/a-15-openwrt-based-diy-pen-test-dropbox-26a98a5fa5e5
 	* https://www.aliexpress.com/wholesale?SearchText=NEXX+WT3020F
 * Malduino : https://malduino.com/
+* ESP32
+	* 
   
 
 ## Bunny Bash
