@@ -33,4 +33,5 @@
 	* APK Deobfuscation
 	* APK Analysis
 	* APK Manifest Analysis
-	* 
+	* Domain Analysis
+	* Security Analysis
