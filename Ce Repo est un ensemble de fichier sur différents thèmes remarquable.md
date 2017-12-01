@@ -94,3 +94,4 @@ A trier ...
 * kernel privilege escalation enumeration and exploitation framework https://github.com/spencerdodd/kernelpop
 * Parrot Security 3.9 - Security GNU/Linux Distribution Designed with Cloud Pentesting and IoT Security in Mind https://www.parrotsec.org/download.fx
 * DumpsterFire - "Security Incidents In A Box!" A modular, menu-driven, cross-platform tool for building customized, time-delayed, distributed security events. Easily create custom event chains for Blue Team drills and sensor / alert mapping. Red Teams can create decoy incidents, distractions, and lures to support and scale their operations. Build event sequence…  http://www.kitploit.com/2017/11/dumpsterfire-security-incidents-in-box.html https://github.com/TryCatchHCF/DumpsterFire
+* A lot of vuln for training : https://www.vulnhub.com/
