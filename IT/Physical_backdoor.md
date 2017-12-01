@@ -51,6 +51,14 @@
 	* https://medium.com/@tomac/a-15-openwrt-based-diy-pen-test-dropbox-26a98a5fa5e5
 	* https://www.aliexpress.com/wholesale?SearchText=NEXX+WT3020F
 * Malduino : https://malduino.com/
+* ESP32 Board - WiFi LoRa 32
+	* https://hackaday.io/project/26991-esp32-board-wifi-lora-32
+	* https://github.com/espressif/arduino-esp32
+	* https://robotzero.one/heltec-wifi-kit-32/
+	* https://robotzero.one/heltec-wifi-lora-32/
+	* https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series
+	* https://hackaday.io/project/27791-esp32-lora-oled-module
+	* http://www.diymalls.com/files/FZ2835-FZ2836-FZ2837-ESP32-ESP8266.zip
   
 
 ## Bunny Bash
