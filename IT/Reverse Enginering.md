@@ -26,3 +26,11 @@
 
 ## SSL Proxy
 * Decrypts and logs a process's SSL traffic. - https://github.com/google/ssl_logger
+
+## Mobile
+* [Mobile Application Reverse engineering and Analysis Framework](https://n0where.net/mobile-application-reverse-engineering-mara/) [GitHub](https://github.com/xtiankisutsa/MARA_Framework)
+	* APK Reverse Engineering
+	* APK Deobfuscation
+	* APK Analysis
+	* APK Manifest Analysis
+	* 
