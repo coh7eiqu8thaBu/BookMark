@@ -17,6 +17,7 @@
 * Writing a Linux Kernel Module
    * (Part 1 - Introduction) : https://t.co/Rx8JHFjOAD ,
    * (Part 2 - A Character Device ): https://t.co/1CNOU8qvQA
+  * How programs get run https://lwn.net/Articles/630727/
 
 ## Python et DataScience :
 * https://github.com/jakevdp/PythonDataScienceHandbook
