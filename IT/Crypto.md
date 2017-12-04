@@ -1,8 +1,10 @@
-# Crypto
-## Livres
-## Library
+Crypto
+=======
+
+# Livres
+# Library
 * https://github.com/jedisct1/libsodium  A modern and easy-to-use crypto library. https://libsodium.org
-## Use
+# Use
 * Comprendre les grands principes de la cryptologie et du chiffrement https://www.cnil.fr/fr/comprendre-les-grands-principes-de-la-cryptologie-et-du-chiffrement
 * decrypt a password with an external key (usb)
 ```
@@ -23,22 +25,22 @@ EOF)
 ```
 * RTFM: 
 A database of common, interesting or useful commands, in one handy referable form https://necurity.co.uk/osprog/2017-02-27-RTFM-Pythonized/ - https://github.com/leostat/rtfm
-## Decryption / encryption algorithms
+# Decryption / encryption algorithms
 * Principles and practice of x-raying, great and maybe the first article about this, by Peter Ferrie. https://vallejocc.files.wordpress.com/2017/08/x-raying.pdf
 * XorSearch, by Didier Stevens. https://blog.didierstevens.com/programs/xorsearch/
 * Decoding XOR shellcode without a Key, by Chris Jordan. https://playingwithothers.com/2012/12/20/decoding-xor-shellcode-without-a-key/
 * UnXor, by Tomchop. https://github.com/tomchop/unxor
 * Deobfuscating Embedded Malware using Probable-Plaintext Attacks (KANDI tool), by Christian Wressnegger, Frank Boldewin, and Konrad Rieck. https://www.tu-braunschweig.de/Medien-DB/sec/pubs/2013-raid.pdf
 
-## Hide my Shell
+# Hide my Shell
 *  Encrypted exploit delivery for the masses https://github.com/Mrgeffitas/Ironsquirrel
 
-## Stegano
+# Stegano
 * Stego in TCP/IP made easy (Part-1): https://www.exploit-db.com/docs/40891.pdf  (pdf) 
 * Part 2 - The Phantom Shell : https://www.exploit-db.com/docs/40897.pdf  (pdf)
 * Python Steganography Tool: Matroschka https://github.com/fbngrm/Matroschka
 
-## iPhone
+# iPhone
 * all crypto Key https://www.theiphonewiki.com/wiki/Category:IPhone_5s_(iPhone6,1)_Key_Page
 * [Hacker Decrypts Apple's Secure Enclave Processor (SEP) Firmware](http://www.iclarified.com/62025/hacker-decrypts-apples-secure-enclave-processor-sep-firmware)
 	* [img4lib](https://github.com/xerub/img4lib)

@@ -1,5 +1,7 @@
-# Arduino
-## ESP8266
+Arduino
+======
+
+# ESP8266
 * http://www.instructables.com/id/Getting-Started-with-the-ESP8266-ESP-12/
 * http://www.seeedstudio.com/blog/2014/09/11/getting-started-with-esp8266/
 * A Python-based, open source, platform independent, utility to communicate with the ROM bootloader in Espressif ESP8266 & ESP32 chips. - https://github.com/espressif/esptool
@@ -14,21 +16,21 @@
 * http://www.instructables.com/id/Programming-ESP8266-ESP-12E-NodeMCU-Using-Arduino-/ Programming ESP8266 ESP-12E NodeMCU Using Arduino IDE - a Tutorial
 * Deauthentication attack and other exploits using an ESP8266! https://github.com/spacehuhn/esp8266_deauther
 
-## Examples
+# Examples
 * https://github.com/esp8266/Arduino/blob/master/libraries/ESP8266WiFi/examples/WiFiScan/WiFiScan.ino
 * http://www.esp8266basic.com/
 * http://www.esp8266.com/ : ESP8266 Community Forum
 * https://github.com/esp8266/Basic/tree/NewWebSockets
 * https://projetsdiy.fr/scanner-wifi-oled-portbale-esp8266-force-signal-serveur/
 
-### NodeMCU
+## NodeMCU
 ![Photo](https://cdn.instructables.com/F7K/RNQQ/IVO7WQ8V/F7KRNQQIVO7WQ8V.LARGE.jpg) and ![Pins](https://dziadalnfpolx.cloudfront.net/blog/wp-content/uploads/2015/09/esp8266-nodemcu-dev-kit-v3-pins.jpg)
 * http://daker.me/2016/08/flashing-lolin-v3-nodemcu-firmware.html Flashing LOLin V3 NodeMCU firmware
 * Comparison of ESP8266 NodeMCU development boards https://frightanic.com/iot/comparison-of-esp8266-nodemcu-development-boards/
 * Mise en route d’une carte WeMos-LoLin avec le firmware NodeMCU et un module WiFi ESP8266 http://ouilogique.com/NodeMCU_esp8266/
 * A firmware Flash tool for nodemcu https://github.com/nodemcu/nodemcu-flasher
 
-## WinX (ESP32)
+# WinX (ESP32)
 * https://www.hackerarsenal.com/collections/frontpage/products/winx
 * http://hackerarsenal.com.s3.amazonaws.com/winxuploadfirmware.pdf
 * Firmware Downloads:
