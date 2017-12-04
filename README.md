@@ -101,3 +101,4 @@ A trier ...
 * Replacement of TeamViewer :
 	* Tmate https://www.metal3d.org/ticket/adieu-teamviewer
 	* DWService https://www.dwservice.net/
+	* Guacamole https://guacamole.apache.org/
