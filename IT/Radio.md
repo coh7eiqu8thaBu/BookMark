@@ -22,6 +22,8 @@ Radio
 * A Software Defined Radio Attack Tool
 	* [GitHub](https://github.com/cclabsInc/RFCrack)
 	* Videos
-		* [Video Demo 0x01](https://www.youtube.com/watch?v=3dtAII7Mm7Y)
+		* [HackRF Simple Software Defined Radio Replay Attacks - 0x01](https://www.youtube.com/watch?v=3dtAII7Mm7Y)
+		* [Hacking and Disabling Motion Sensor](https://www.youtube.com/watch?v=rofpPi-ApzI)
+		* [YardStick One Unleashed RFCat and Python Part 1 - 0x05](https://www.youtube.com/watch?v=dfM0UlQzx7E)
 		* [Video Demo 0x07](https://www.youtube.com/watch?v=H7-g15YZBiI)
 	* 
