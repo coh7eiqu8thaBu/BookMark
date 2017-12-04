@@ -23,7 +23,9 @@ Radio
 	* [GitHub](https://github.com/cclabsInc/RFCrack)
 	* Videos
 		* [HackRF Simple Software Defined Radio Replay Attacks - 0x01](https://www.youtube.com/watch?v=3dtAII7Mm7Y)
-		* [Hacking and Disabling Motion Sensor](https://www.youtube.com/watch?v=rofpPi-ApzI)
+		* [Hacking and Disabling Motion Sensors - 0x03](https://www.youtube.com/watch?v=rofpPi-ApzI)
+		* [RF Jamming Attacks For Disabling Devices - 0x04](https://www.youtube.com/watch?v=JoMKT-59ilw)
 		* [YardStick One Unleashed RFCat and Python Part 1 - 0x05](https://www.youtube.com/watch?v=dfM0UlQzx7E)
-		* [Video Demo 0x07](https://www.youtube.com/watch?v=H7-g15YZBiI)
+		* [YardStick One Unleashed RFCat and Python Part 2 - 0x06](https://www.youtube.com/watch?v=m0yZlFShIVA)
+		* [RFCrack Release Tutorial 0x07](https://www.youtube.com/watch?v=H7-g15YZBiI)
 	* 
