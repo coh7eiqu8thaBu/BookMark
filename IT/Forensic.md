@@ -13,3 +13,4 @@
 * Docker container in your browser: codetainer https://n0where.net/docker-container-codetainer/ https://github.com/codetainerapp/codetainer
 * ZipJail is a usermode sandbox for unpacking archives using the unzip, rar, 7z, and unace utilities.  https://github.com/jbremer/tracy/tree/master/src/zipjail
 * Acquiring a Memory Dump from Fleeting Malware https://digital-forensics.sans.org/blog/2017/11/27/acquiring-a-memory-dump-from-fleeting-malware
+* Memory Map Viewer https://github.com/zodiacon/KernelExplorer/releases/tag/memmapview-0.1-beta
