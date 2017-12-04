@@ -34,3 +34,7 @@ Developpement
   * Part 1 : https://www.exploit-db.com/docs/40900.pdf
   * Part 2 : https://www.exploit-db.com/docs/41129.pdf
 * "Hiding Registry keys" or "Add autorun entry unreadeable by user" : https://posts.specterops.io/hiding-registry-keys-with-psreflect-b18ec5ac8353 = https://gist.github.com/brianreitz/feb4e14bd45dd2e4394c225b17df5741 + https://github.com/brianreitz/PSReflect-Functions 
+
+# .NET
+* [An Introduction to Writing .NET Executables for Pentesters](https://www.peew.pw/blog/2017/11/24/an-introduction-to-writing-net-executables-for-pentesters)
+* [Writing .NET Executables for Pentesters - Part 2](https://www.peew.pw/blog/2017/12/4/writing-net-executables-for-penteters-part-2)
