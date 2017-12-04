@@ -19,7 +19,8 @@ Radio
 	* [Presentation](https://www.rtl-sdr.com/tempestsdr-a-sdr-tool-for-eavesdropping-on-computer-screens-via-unintentionally-radiated-rf/)
 
 # SDR
-* A Software Defined Radio Attack Tool
+* Blog of Console CowBoys https://console-cowboys.blogspot.com/
+* RFCrack : A Software Defined Radio Attack Tool
 	* [GitHub](https://github.com/cclabsInc/RFCrack)
 	* Videos
 		* [HackRF Simple Software Defined Radio Replay Attacks - 0x01](https://www.youtube.com/watch?v=3dtAII7Mm7Y)
@@ -28,4 +29,4 @@ Radio
 		* [YardStick One Unleashed RFCat and Python Part 1 - 0x05](https://www.youtube.com/watch?v=dfM0UlQzx7E)
 		* [YardStick One Unleashed RFCat and Python Part 2 - 0x06](https://www.youtube.com/watch?v=m0yZlFShIVA)
 		* [RFCrack Release Tutorial 0x07](https://www.youtube.com/watch?v=H7-g15YZBiI)
-	* 
+* Replay Attack with GNU Radio and Hack RF (Tutorial) https://www.youtube.com/watch?v=RnAgqGR-D-8
