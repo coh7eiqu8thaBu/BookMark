@@ -2,8 +2,10 @@ Crypto
 =======
 
 # Livres
+
 # Library
 * https://github.com/jedisct1/libsodium  A modern and easy-to-use crypto library. https://libsodium.org
+
 # Use
 * Comprendre les grands principes de la cryptologie et du chiffrement https://www.cnil.fr/fr/comprendre-les-grands-principes-de-la-cryptologie-et-du-chiffrement
 * decrypt a password with an external key (usb)
@@ -25,6 +27,7 @@ EOF)
 ```
 * RTFM: 
 A database of common, interesting or useful commands, in one handy referable form https://necurity.co.uk/osprog/2017-02-27-RTFM-Pythonized/ - https://github.com/leostat/rtfm
+
 # Decryption / encryption algorithms
 * Principles and practice of x-raying, great and maybe the first article about this, by Peter Ferrie. https://vallejocc.files.wordpress.com/2017/08/x-raying.pdf
 * XorSearch, by Didier Stevens. https://blog.didierstevens.com/programs/xorsearch/
