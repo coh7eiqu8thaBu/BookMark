@@ -22,3 +22,5 @@ Forensic
 * Post-Intrusion Concealment and Log Alteration - David Dittrich / The Honeynet Project / dittrich@cac.washington.edu https://staff.washington.edu/dittrich/talks/conceal/
 * Detection and recovery of NSA’s covered up tracks https://blog.fox-it.com/2017/12/08/detection-and-recovery-of-nsas-covered-up-tracks/
 * This site summarizes the results of examining logs recorded in Windows upon execution of the 49 tools which are likely to be used by the attacker that has infiltrated a network. The following logs were examined. Note that it was confirmed that traces of tool execution is most likely to be left in event logs. Accordingly, examination of event logs is the main focus here. https://jpcertcc.github.io/ToolAnalysisResultSheet/
+* Research Report Released: Detecting Lateral Movement through Tracking Event Logs (Version 2) http://blog.jpcert.or.jp/2017/12/research-report-released-detecting-lateral-movement-through-tracking-event-logs-version-2.html
+* SIFT – SANS Investigative Forensic Toolkit https://n0where.net/sift/ and [GitHub](https://github.com/sans-dfir/sift-bootstrap)

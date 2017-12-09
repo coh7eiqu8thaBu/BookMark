@@ -49,3 +49,6 @@ A database of common, interesting or useful commands, in one handy referable for
 	* [img4lib](https://github.com/xerub/img4lib)
 	* [SEP firmware split tool](https://gist.github.com/xerub/0161aacd7258d31c6a27584f90fa2e8c)
 
+# Crypto Money
+## Ether
+* https://etherscripter.com/0-5-1/ EtherScripter

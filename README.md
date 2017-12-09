@@ -107,3 +107,4 @@ A trier ...
 	* Guacamole https://guacamole.apache.org/
 * A mega grapher of system.  Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/ [GitHub](https://github.com/firehol/netdata/)
 *  Impacket is a collection of Python classes for working with network protocols. https://github.com/CoreSecurity/impacket/tree/relay-experimental
+*  https://gist.github.com/Neo23x0/9fe88c0c5979e017a389b90fd19ddfee  Linux Auditd Best Practice Configuration
