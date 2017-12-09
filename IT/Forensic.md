@@ -19,3 +19,6 @@ Forensic
 * A Java 8 Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More) 
 	* https://bytecodeviewer.com
 	* [GitHub](https://github.com/Konloch/bytecode-viewer)
+* Post-Intrusion Concealment and Log Alteration - David Dittrich / The Honeynet Project / dittrich@cac.washington.edu https://staff.washington.edu/dittrich/talks/conceal/
+* Detection and recovery of NSA’s covered up tracks https://blog.fox-it.com/2017/12/08/detection-and-recovery-of-nsas-covered-up-tracks/
+* This site summarizes the results of examining logs recorded in Windows upon execution of the 49 tools which are likely to be used by the attacker that has infiltrated a network. The following logs were examined. Note that it was confirmed that traces of tool execution is most likely to be left in event logs. Accordingly, examination of event logs is the main focus here. https://jpcertcc.github.io/ToolAnalysisResultSheet/
