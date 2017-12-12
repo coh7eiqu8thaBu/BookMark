@@ -30,4 +30,4 @@ Radio
 		* [YardStick One Unleashed RFCat and Python Part 2 - 0x06](https://www.youtube.com/watch?v=m0yZlFShIVA)
 		* [RFCrack Release Tutorial 0x07](https://www.youtube.com/watch?v=H7-g15YZBiI)
 * Replay Attack with GNU Radio and Hack RF (Tutorial) https://www.youtube.com/watch?v=RnAgqGR-D-8
-*  SDR Rx/Tx software for Airspy, BladeRF, HackRF, LimeSDR, PlutoSDR, RTL-SDR, SDRplay RSP1 and FunCube https://github.com/f4exb/sdrangel
+* SDR Rx/Tx software for Airspy, BladeRF, HackRF, LimeSDR, PlutoSDR, RTL-SDR, SDRplay RSP1 and FunCube https://github.com/f4exb/sdrangel
