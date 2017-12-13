@@ -49,7 +49,8 @@
 * SWORD dropbox: A $15 OpenWRT based DIY disposable pen-test tool.
 	* https://github.com/tomacwrt/tomacwrt.github.io
 	* https://medium.com/@tomac/a-15-openwrt-based-diy-pen-test-dropbox-26a98a5fa5e5
-	* https://www.aliexpress.com/wholesale?SearchText=NEXX+WT3020F
+	* [Buy Wireless router with USB port and 3G dongle support](https://www.aliexpress.com/wholesale?SearchText=NEXX+WT3020F)
+	* [Install OpenWRT on WT3020](https://wiki.openwrt.org/toh/nexx/wt3020#installation)
 * Malduino : https://malduino.com/
 * ESP32 Board - WiFi LoRa 32
 	* https://hackaday.io/project/26991-esp32-board-wifi-lora-32
@@ -59,7 +60,6 @@
 	* https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series
 	* https://hackaday.io/project/27791-esp32-lora-oled-module
 	* http://www.diymalls.com/files/FZ2835-FZ2836-FZ2837-ESP32-ESP8266.zip
-  
 
 ## Bunny Bash
 * https://hakshop.com/products/bash-bunny

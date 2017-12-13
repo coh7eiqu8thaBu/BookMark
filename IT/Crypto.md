@@ -25,8 +25,10 @@ Ozr1hr5mCa+QkUSymxiUrRncRhyqSP0ok5j4rjwSJu9vmHTEUapiyQMQaEIF2e2S
 -----END PGP MESSAGE-----
 EOF)
 ```
-* RTFM: 
-A database of common, interesting or useful commands, in one handy referable form https://necurity.co.uk/osprog/2017-02-27-RTFM-Pythonized/ - https://github.com/leostat/rtfm
+* RTFM: A database of common, interesting or useful commands, in one handy referable form https://necurity.co.uk/osprog/2017-02-27-RTFM-Pythonized/ - https://github.com/leostat/rtfm
+
+# Protect my secret
+* [DIY Portable Secrets Manager With a Raspberry Pi Zero and ARC](https://www.evilsocket.net/2017/12/07/DIY-Portable-Secrets-Manager-with-a-RPI-Zero-and-the-ARC-Project/)
 
 # Decryption / encryption algorithms
 * Principles and practice of x-raying, great and maybe the first article about this, by Peter Ferrie. https://vallejocc.files.wordpress.com/2017/08/x-raying.pdf
@@ -34,6 +36,7 @@ A database of common, interesting or useful commands, in one handy referable for
 * Decoding XOR shellcode without a Key, by Chris Jordan. https://playingwithothers.com/2012/12/20/decoding-xor-shellcode-without-a-key/
 * UnXor, by Tomchop. https://github.com/tomchop/unxor
 * Deobfuscating Embedded Malware using Probable-Plaintext Attacks (KANDI tool), by Christian Wressnegger, Frank Boldewin, and Konrad Rieck. https://www.tu-braunschweig.de/Medien-DB/sec/pubs/2013-raid.pdf
+* [Attacking encrypted systems with qemu and volatility](https://diablohorn.com/2017/12/12/attacking-encrypted-systems-with-qemu-and-volatility/)
 
 # Hide my Shell
 *  Encrypted exploit delivery for the masses https://github.com/Mrgeffitas/Ironsquirrel

@@ -36,7 +36,11 @@ Developpement
 * PE Backdoor 
   * Part 1 : https://www.exploit-db.com/docs/40900.pdf
   * Part 2 : https://www.exploit-db.com/docs/41129.pdf
-* "Hiding Registry keys" or "Add autorun entry unreadeable by user" : https://posts.specterops.io/hiding-registry-keys-with-psreflect-b18ec5ac8353 = https://gist.github.com/brianreitz/feb4e14bd45dd2e4394c225b17df5741 + https://github.com/brianreitz/PSReflect-Functions 
+* "Hiding Registry keys" or "Add autorun entry unreadeable by user" : 
+	* https://posts.specterops.io/hiding-registry-keys-with-psreflect-b18ec5ac8353
+	* https://gist.github.com/brianreitz/feb4e14bd45dd2e4394c225b17df5741
+	* https://github.com/brianreitz/PSReflect-Functions 
+* [Reflective DLL Injection](https://0x00sec.org/t/reflective-dll-injection/3080)
 
 # .NET
 * [An Introduction to Writing .NET Executables for Pentesters](https://www.peew.pw/blog/2017/11/24/an-introduction-to-writing-net-executables-for-pentesters)
