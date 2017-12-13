@@ -106,5 +106,9 @@ A trier ...
 	* DWService https://www.dwservice.net/
 	* Guacamole https://guacamole.apache.org/
 * A mega grapher of system.  Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/ [GitHub](https://github.com/firehol/netdata/)
-*  Impacket is a collection of Python classes for working with network protocols. https://github.com/CoreSecurity/impacket/tree/relay-experimental
-*  https://gist.github.com/Neo23x0/9fe88c0c5979e017a389b90fd19ddfee  Linux Auditd Best Practice Configuration
+* Impacket is a collection of Python classes for working with network protocols. https://github.com/CoreSecurity/impacket/tree/relay-experimental
+* https://gist.github.com/Neo23x0/9fe88c0c5979e017a389b90fd19ddfee  Linux Auditd Best Practice Configuration
+* A free Keylogger : http://www.spyrix.com/spyrix-free-keylogger.php
+* [Minimal Linux Live](https://github.com/ivandavidov/minimal) is a set of Linux shell scripts which automatically build minimal Live Linux OS based on Linux kernel and BusyBox. All necessary source codes are automatically downloaded and all build operations are fully encapsulated in the scripts.
+	* [Official site](http://minimal.idzona.com/)
+	* https://n0where.net/minimal-linux-live/
