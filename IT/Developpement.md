@@ -16,7 +16,8 @@ Developpement
 * Introduction to UNIX assembly programming http://asm.sourceforge.net/intro/Assembly-Intro.html
 
 # JAVA
-*  A modern Java bytecode editor https://github.com/Col-E/Recaf
+* A modern Java bytecode editor https://github.com/Col-E/Recaf
+* [How to Debug HTTP(S) Traffic for Android Apps with Burp Proxy](https://android.jlelse.eu/how-to-debug-http-s-traffic-for-android-apps-with-burp-proxy-73f906821283)
 
 # Linux Kernel
 * Writing a Linux Kernel Module
