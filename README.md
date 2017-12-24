@@ -112,3 +112,4 @@ A trier ...
 * [Minimal Linux Live](https://github.com/ivandavidov/minimal) is a set of Linux shell scripts which automatically build minimal Live Linux OS based on Linux kernel and BusyBox. All necessary source codes are automatically downloaded and all build operations are fully encapsulated in the scripts.
 	* [Official site](http://minimal.idzona.com/)
 	* https://n0where.net/minimal-linux-live/
+* Windows 10 and Windows Server 2016 security auditing and monitoring reference https://download.microsoft.com/download/7/9/F/79F3E0B9-4A00-4D15-9953-045BC9BE9338/Windows%2010%20and%20Windows%20Server%202016%20Security%20Auditing%20and%20Monitoring%20Reference.docx

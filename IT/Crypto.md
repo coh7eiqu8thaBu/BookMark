@@ -5,6 +5,7 @@ Crypto
 
 # Library
 * https://github.com/jedisct1/libsodium  A modern and easy-to-use crypto library. https://libsodium.org
+* LibreCrypt: Transparent on-the-fly disk encryption for Windows. LUKS compatible. http://LibreCrypt.eu [GitHub](https://github.com/t-d-k/LibreCrypt]
 
 # Use
 * Comprendre les grands principes de la cryptologie et du chiffrement https://www.cnil.fr/fr/comprendre-les-grands-principes-de-la-cryptologie-et-du-chiffrement

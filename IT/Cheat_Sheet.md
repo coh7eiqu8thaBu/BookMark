@@ -15,6 +15,9 @@ Cheat Sheet
 # Windows
 * Penetration Testing Cheat Sheet For Windows Machine - Intrusion Detection https://techincidents.com/penetration-testing-cheat-sheet/
 
+# BigData
+* [Python & R codes for common Machine Learning Algorithms](https://www.analyticsvidhya.com/blog/2015/09/full-cheatsheet-machine-learning-algorithms/) [PDF](https://www.analyticsvidhya.com/wp-content/uploads/2016/08/MLalgorithms-.pdf)
+
 # Divers
 * Modern JavaScript Cheatsheet https://github.com/mbeaudru/modern-js-cheatsheet
 * TLS/SSL Vulnerabilities Sheet Cheat : https://www.gracefulsecurity.com/tls-ssl-vulnerabilities/

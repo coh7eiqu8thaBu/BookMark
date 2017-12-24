@@ -43,6 +43,9 @@ Developpement
 	* https://github.com/brianreitz/PSReflect-Functions 
 * [Reflective DLL Injection](https://0x00sec.org/t/reflective-dll-injection/3080)
 
-# .NET
+# Microsoft Docs
+* This [GitHub](https://github.com/MicrosoftDocs/windows-itpro-docs) is used for contributions to the Windows 10 content for IT professionals on docs.microsoft.com.
+## .NET
 * [An Introduction to Writing .NET Executables for Pentesters](https://www.peew.pw/blog/2017/11/24/an-introduction-to-writing-net-executables-for-pentesters)
 * [Writing .NET Executables for Pentesters - Part 2](https://www.peew.pw/blog/2017/12/4/writing-net-executables-for-penteters-part-2)
+
