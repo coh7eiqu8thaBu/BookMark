@@ -40,4 +40,5 @@ Reverse Enginering
 	* APK Manifest Analysis
 	* Domain Analysis
 	* Security Analysis
-*  Droidefense: Advance Android Malware Analysis Framework https://github.com/droidefense/engine
+* Droidefense: Advance Android Malware Analysis Framework https://github.com/droidefense/engine
+* Intercepting HTTPS Traffic from Apps on Android 7+ using Magisk & Burp https://blog.nviso.be/2017/12/22/intercepting-https-traffic-from-apps-on-android-7-using-magisk-burp/
