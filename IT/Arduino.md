@@ -15,6 +15,11 @@ Arduino
 * Flasher : https://github.com/nodemcu/nodemcu-flasher (https://nodemcu.readthedocs.io/en/master/en/flash/)
 * http://www.instructables.com/id/Programming-ESP8266-ESP-12E-NodeMCU-Using-Arduino-/ Programming ESP8266 ESP-12E NodeMCU Using Arduino IDE - a Tutorial
 * Deauthentication attack and other exploits using an ESP8266! https://github.com/spacehuhn/esp8266_deauther
+* Building a Thermal Camera https://damow.net/building-a-thermal-camera/
+* ESP8266 WiFi Repeater (NAT Router) 
+	* [Video](https://www.youtube.com/watch?v=OM2FqnMFCLw)
+	* [GitHub](https://github.com/martin-ger/esp_wifi_repeater)
+	* [Step by Step](http://runtimeprojects.com/2017/03/extend-wifi-with-an-esp8266/)
 
 # Examples
 * https://github.com/esp8266/Arduino/blob/master/libraries/ESP8266WiFi/examples/WiFiScan/WiFiScan.ino

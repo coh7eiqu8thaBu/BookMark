@@ -31,6 +31,7 @@ Forensic
 * pcap-grapher - Create an intuitive and interactive graph of a client's IP traffic. https://github.com/yotamho/pcap-grapher
 * Read a packet capture, extract HTTP requests and turn them into cURL commands for replay. https://github.com/jullrich/pcap2curl
 * PcapViz - Visualize Network Topologies and Collect Graph Statistics Based on PCAP Files https://t.co/zT1jjoJTWn #Capture #DATA * Database https://t.co/8TYIB4U2Qd
+* netstat without netstat https://staaldraad.github.io/2017/12/20/netstat-without-netstat/
 
 # Android
 * [Android Forensics with ADB](https://blog.nviso.be/2017/12/22/intercepting-https-traffic-from-apps-on-android-7-using-magisk-burp/)

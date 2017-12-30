@@ -20,6 +20,8 @@ Reverse Enginering
 * Convert Hex To Assembly Using Simple Python Script https://haiderm.com/convert-hex-assembly-using-simple-python-script/
 * Capstone disassembly/disassembler framework: Core (Arm, Arm64, M68K, Mips, PPC, Sparc, SystemZ, X86, X86_64, XCore) + bindings (Python, Java, Ocaml, PowerShell) http://www.capstone-engine.org/ https://github.com/aquynh/capstone/
 * Basic Malware Analysis Lab: Packer-Malware [GitHub](https://github.com/m-dwyer/packer-malware) Packer templates for creating a basic malware analysis lab, as per the recommended setup in Practical Malware Analysis, but using VirtualBox instead of VMware.
+* If the only thing you like about Windows is ollydbg, check out EDB, an Olly clone for Linux. https://github.com/eteran/edb-debugger
+* A Qt and C++ GUI for radare2 reverse engineering framework https://github.com/radareorg/cutter
 
 # Registry
 * New tool that compares snapshots of Windows Registry http://blog.nirsoft.net/2017/07/14/new-tool-that-compares-snapshots-of-windows-registry/

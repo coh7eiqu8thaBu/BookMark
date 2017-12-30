@@ -31,6 +31,10 @@ Radio
 		* [RFCrack Release Tutorial 0x07](https://www.youtube.com/watch?v=H7-g15YZBiI)
 * Replay Attack with GNU Radio and Hack RF (Tutorial) https://www.youtube.com/watch?v=RnAgqGR-D-8
 * SDR Rx/Tx software for Airspy, BladeRF, HackRF, LimeSDR, PlutoSDR, RTL-SDR, SDRplay RSP1 and FunCube https://github.com/f4exb/sdrangel
+* A cross-platform java application for decoding, monitoring, recording and streaming trunked mobile and related radio protocols using Software Defined Radios (SDR). Website: https://github.com/DSheirer/sdrtrunk
+* Outernet 3.0 Coming Soon: Free 30kbps – 100kbps satellite data downlink for news, weather, audio etc https://www.rtl-sdr.com/outernet-3-0-coming-soon-free-30kbps-100kbps-satellite-data-downlink-for-news-weather-audio-etc/
+* SatNOGS GNU Radio Out-Of-Tree Module https://satnogs.org/ https://github.com/satnogs/gr-satnogs
+
 
 # NFC / RFID
 * [RFID Hacking with The Proxmark 3](https://blog.kchung.co/rfid-hacking-with-the-proxmark-3/)

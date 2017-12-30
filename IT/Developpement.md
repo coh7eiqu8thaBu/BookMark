@@ -1,6 +1,8 @@
 Developpement
 ==========
 
+* Web Developer Security Checklist https://simplesecurity.sensedeep.com/web-developer-security-checklist-f2e4f43c9c56
+
 # C++
 * https://www.ossblog.org/master-c-programming-with-open-source-books/
 * https://www.tutorialspoint.com/cplusplus/cpp_while_loop.htm
@@ -24,6 +26,7 @@ Developpement
    * (Part 1 - Introduction) : https://t.co/Rx8JHFjOAD ,
    * (Part 2 - A Character Device ): https://t.co/1CNOU8qvQA
   * How programs get run https://lwn.net/Articles/630727/
+* The 101 of ELF Binaries on Linux: Understanding and Analysis https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/
 
 # Python et DataScience :
 * https://github.com/jakevdp/PythonDataScienceHandbook
