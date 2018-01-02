@@ -1,6 +1,10 @@
 Arduino
 ======
 
+# Arduino
+* USB HID keyboard with V-USB http://codeandlife.com/2012/06/18/usb-hid-keyboard-with-v-usb/
+* USB-Keyboard with Arduino and V-USB library, an example https://blog.petrockblock.com/2012/05/19/usb-keyboard-with-arduino-and-v-usb-library-an-example/
+
 # ESP8266
 * http://www.instructables.com/id/Getting-Started-with-the-ESP8266-ESP-12/
 * http://www.seeedstudio.com/blog/2014/09/11/getting-started-with-esp8266/

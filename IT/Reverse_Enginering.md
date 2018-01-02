@@ -22,6 +22,7 @@ Reverse Enginering
 * Basic Malware Analysis Lab: Packer-Malware [GitHub](https://github.com/m-dwyer/packer-malware) Packer templates for creating a basic malware analysis lab, as per the recommended setup in Practical Malware Analysis, but using VirtualBox instead of VMware.
 * If the only thing you like about Windows is ollydbg, check out EDB, an Olly clone for Linux. https://github.com/eteran/edb-debugger
 * A Qt and C++ GUI for radare2 reverse engineering framework https://github.com/radareorg/cutter
+* A simple utility to convert EXE files to JPEG images and vice versa. https://github.com/OsandaMalith/Exe2Image
 
 # Registry
 * New tool that compares snapshots of Windows Registry http://blog.nirsoft.net/2017/07/14/new-tool-that-compares-snapshots-of-windows-registry/
@@ -44,3 +45,4 @@ Reverse Enginering
 	* Security Analysis
 * Droidefense: Advance Android Malware Analysis Framework https://github.com/droidefense/engine
 * Intercepting HTTPS Traffic from Apps on Android 7+ using Magisk & Burp https://blog.nviso.be/2017/12/22/intercepting-https-traffic-from-apps-on-android-7-using-magisk-burp/
+* IOS Kernel Debugging http://www.instructables.com/id/IOS-Kernel-Debugging/

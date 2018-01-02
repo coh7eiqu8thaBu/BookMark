@@ -45,6 +45,7 @@ Developpement
 	* https://gist.github.com/brianreitz/feb4e14bd45dd2e4394c225b17df5741
 	* https://github.com/brianreitz/PSReflect-Functions 
 * [Reflective DLL Injection](https://0x00sec.org/t/reflective-dll-injection/3080)
+* Cloak generates a python payload via msfvenom and then intelligently injects it into the python script you specify. https://github.com/UltimateHackers/Cloak
 
 # Microsoft Docs
 * This [GitHub](https://github.com/MicrosoftDocs/windows-itpro-docs) is used for contributions to the Windows 10 content for IT professionals on docs.microsoft.com.

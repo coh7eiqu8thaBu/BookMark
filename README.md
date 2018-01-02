@@ -1,14 +1,18 @@
 README
 ======
 
+![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 Ce Repo est un ensemble de fichier sur différents thèmes remarquable
 
 **WARNING**
-**Cette liste de bookmark, peux contenir des liens vers des sites pouvant être considérés comme illicite par des filtrages d'URL**
+**This bookmark list can contain suspicious links, so think before act ...**
 
 -------------
 
-A trier ...
+Need to be sorted ...
 ============
 
 # Supervision / monitor :
@@ -16,8 +20,6 @@ A trier ...
 
 
 # Divers
-* Testeur de Regexp http://regexr.com/
-* You Should Learn Regex https://blog.patricktriest.com/you-should-learn-regex/
 * Open source secret manager with sharing capability https://github.com/secretin/secretin-app
 * http://thehappyhoodedhacker.tumblr.com/
 * Decrypted content of eqgrp-auction-file.tar.xz https://github.com/x0rz/EQGRP/

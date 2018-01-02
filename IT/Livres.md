@@ -23,6 +23,10 @@ open sources to design personalised cyber attacks.
 * 12 Python Resources for Data Science https://www.datasciencecentral.com/profiles/blogs/the-guide-to-learning-python-for-data-science
 * Social engineering tricks and payloads presentation slides https://github.com/bhdresh/SocialEngineeringPayloads/blob/master/Social%20engineering%20tricks%20and%20payloads%20presentation%20slides.pdf
 
+# Zines
+* International Journal of PoC||GTFO https://www.sultanik.com/pocorgtfo/ (English)
+* Rafale http://rafale.org/ (French)
+
 # Guides
 * http://www.computersecuritystudent.com/HOME/index.html ComputerSecurityStudent (CSS)
 * Blue Team Training Toolkit https://www.bt3.no/
@@ -33,6 +37,8 @@ open sources to design personalised cyber attacks.
 * How to use GIT like a pro https://github.com/k88hudson/git-flight-rules
 * Awesome Windows Exploitation https://github.com/enddo/awesome-windows-exploitation
 * Did you know that the CIA released a free PDF on how to analyze #osint? Well, it wasn't JUST for OSINT. It discusses bias and how to keep an open mind when performing analyses. Worth a download and read. PDF is here: https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/books-and-monographs/psychology-of-intelligence-analysis
+* https://www.hackthebox.eu/ Hack The Box :: Penetration Testing Labs
+* 34C3 Junior CTF pwnables https://github.com/tharina/34c3ctf
 
 # Conferences
 * Many PDFs of #Botconf2017 slide decks have been uploaded https://www.botconf.eu/botconf-2017/programme/botconf-2017-talks/

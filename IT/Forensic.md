@@ -39,3 +39,7 @@ Forensic
 	* https://bytecodeviewer.com
 	* [GitHub](https://github.com/Konloch/bytecode-viewer)
 * ab_decrypt.py, an educational python tool to decrypt Android backups https://github.com/lclevy/ab_decrypt
+* Debugging arm apps with just qemu (no VM): 
+	1 `qemu-arm-static -L /usr/arm-linux-gnueabi/ -g 1234 ../vuln &`
+	2 Install pwndbg (https://github.com/bkerler/pwndbg  for add. fixes) or gef 
+	3 `gdb-multiarch ../vuln` In GDB: set endian little, set architecture arm, target remote :1234
