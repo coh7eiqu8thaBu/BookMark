@@ -34,7 +34,12 @@ Radio
 * A cross-platform java application for decoding, monitoring, recording and streaming trunked mobile and related radio protocols using Software Defined Radios (SDR). Website: https://github.com/DSheirer/sdrtrunk
 * Outernet 3.0 Coming Soon: Free 30kbps – 100kbps satellite data downlink for news, weather, audio etc https://www.rtl-sdr.com/outernet-3-0-coming-soon-free-30kbps-100kbps-satellite-data-downlink-for-news-weather-audio-etc/
 * SatNOGS GNU Radio Out-Of-Tree Module https://satnogs.org/ https://github.com/satnogs/gr-satnogs
-
+* Salamandra - Spy Microphone Detection Tool https://github.com/eldraco/Salamandra
 
 # NFC / RFID
 * [RFID Hacking with The Proxmark 3](https://blog.kchung.co/rfid-hacking-with-the-proxmark-3/)
+
+# Other
+* Game of Drones - Detecting Streamed POI from Encrypted FPV Channel https://arxiv.org/pdf/1801.03074.pdf
+* [wifi-txpower-unlocker](https://github.com/hiruna/wifi-txpower-unlocker) A bash script that generates a modified regulatory.bin from Central Regulatory Domain Agent and Wireles Regulatory Database sources and patches the kernel. This unlocks the maximum WiFi TX power (on 2.4 Ghz) of the region BO according to the dBm value you specify in the script.
+
