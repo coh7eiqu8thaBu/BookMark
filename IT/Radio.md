@@ -35,6 +35,7 @@ Radio
 * Outernet 3.0 Coming Soon: Free 30kbps – 100kbps satellite data downlink for news, weather, audio etc https://www.rtl-sdr.com/outernet-3-0-coming-soon-free-30kbps-100kbps-satellite-data-downlink-for-news-weather-audio-etc/
 * SatNOGS GNU Radio Out-Of-Tree Module https://satnogs.org/ https://github.com/satnogs/gr-satnogs
 * Salamandra - Spy Microphone Detection Tool https://github.com/eldraco/Salamandra
+* Impersonating a remote using SDR and GNURadio https://foo-manroot.github.io/post/gnuradio/sdr/2018/01/15/gnuradio-ook-transmit.html
 
 # NFC / RFID
 * [RFID Hacking with The Proxmark 3](https://blog.kchung.co/rfid-hacking-with-the-proxmark-3/)

@@ -9,6 +9,12 @@ Unsorted bookmark, but IT
 * DNSFS. Store your files in others DNS resolver caches
 	* [Paper](https://blog.benjojo.co.uk/post/dns-filesystem-true-cloud-storage-dnsfs)
 	* [DNSFS GitHub](https://github.com/benjojo/dnsfs)
+* Open Source Security Compliance Solution: OpenSCAP https://www.open-scap.org/
+* Simple DNS Rebinding Service https://github.com/taviso/rbndr
+* Audio Adversarial Examples: Targeted Attacks on Speech-to-Text
+	* [Paper](https://arxiv.org/abs/1801.01944) and more : http://nicholas.carlini.com/papers/
+	* [Examples](http://nicholas.carlini.com/code/audio_adversarial_examples/)
+* Open Source CAN Network Analysis: BUSMASTER https://n0where.net/open-source-can-network-analysis-busmaster
 
 # Regex
 * Testing Regexp http://regexr.com/

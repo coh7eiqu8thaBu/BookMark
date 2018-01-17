@@ -22,6 +22,7 @@ Forensic
 * Analyzing Malicious Documents Cheat Sheet 
 	* https://zeltser.com/analyzing-malicious-documents/
 	* https://zeltser.com/media/docs/analyzing-malicious-document-files.pdf
+* LogViewer for viewing and searching large text files... https://github.com/woanware/LogViewer
 
 # Memory
 * Memory Map Viewer https://github.com/zodiacon/KernelExplorer/releases/tag/memmapview-0.1-beta
