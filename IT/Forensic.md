@@ -11,6 +11,7 @@ Forensic
 * Research Report Released: Detecting Lateral Movement through Tracking Event Logs (Version 2) http://blog.jpcert.or.jp/2017/12/research-report-released-detecting-lateral-movement-through-tracking-event-logs-version-2.html
 * SIFT – SANS Investigative Forensic Toolkit https://n0where.net/sift/ and [GitHub](https://github.com/sans-dfir/sift-bootstrap)
 * Microsoft windows registry hive extraction library for Linux : https://github.com/libguestfs/hivex
+* Incident Response Forensic Framework: nightHawk Response https://github.com/biggiesmallsAG/nightHawkResponse
 
 # Filesystem
 * Heuristics File System Secret Search: blueflower https://n0where.net/heuristics-file-system-secret-search-blueflower/ https://github.com/veorq/blueflower
