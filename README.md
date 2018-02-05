@@ -116,4 +116,7 @@ Need to be sorted ...
 	* https://n0where.net/minimal-linux-live/
 * Windows 10 and Windows Server 2016 security auditing and monitoring reference https://download.microsoft.com/download/7/9/F/79F3E0B9-4A00-4D15-9953-045BC9BE9338/Windows%2010%20and%20Windows%20Server%202016%20Security%20Auditing%20and%20Monitoring%20Reference.docx
 * Analyzing One Million robots.txt Files https://intoli.com/blog/analyzing-one-million-robots-txt-files/
-
+* Securing Domain Admins Groups in Active Directory https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/appendix-f--securing-domain-admins-groups-in-active-directory
+* SAMRi10 - Hardening SAM Remote Access in Windows 10/Server 2016 https://gallery.technet.microsoft.com/SAMRi10-Hardening-Remote-48d94b5b
+* Net Cease - Hardening Net Session Enumeration https://gallery.technet.microsoft.com/Net-Cease-Blocking-Net-1e8dcb5b
+* Classic MS Paint in ... JavaScript https://github.com/1j01/jspaint

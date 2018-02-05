@@ -2,6 +2,7 @@ Developpement
 ==========
 
 * Web Developer Security Checklist https://simplesecurity.sensedeep.com/web-developer-security-checklist-f2e4f43c9c56
+* Roadmap to becoming a web developer in 2018 https://github.com/kamranahmedse/developer-roadmap
 
 # C++
 * https://www.ossblog.org/master-c-programming-with-open-source-books/
@@ -53,3 +54,10 @@ Developpement
 * [An Introduction to Writing .NET Executables for Pentesters](https://www.peew.pw/blog/2017/11/24/an-introduction-to-writing-net-executables-for-pentesters)
 * [Writing .NET Executables for Pentesters - Part 2](https://www.peew.pw/blog/2017/12/4/writing-net-executables-for-penteters-part-2)
 
+# Virtualization
+* Virtualization Internals
+  * Part 1 https://saferwall.com/blog/virtualization-internals-part-1-intro-to-virtualization
+  * Part 2
+  * Part 3
+  * Part 4
+  * Part 5

@@ -39,6 +39,8 @@ open sources to design personalised cyber attacks.
 * Did you know that the CIA released a free PDF on how to analyze #osint? Well, it wasn't JUST for OSINT. It discusses bias and how to keep an open mind when performing analyses. Worth a download and read. PDF is here: https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/books-and-monographs/psychology-of-intelligence-analysis
 * https://www.hackthebox.eu/ Hack The Box :: Penetration Testing Labs
 * 34C3 Junior CTF pwnables https://github.com/tharina/34c3ctf
+* Ten Immutable Laws Of Security (Version 2.0) https://technet.microsoft.com/library/hh278941.aspx
 
 # Conferences
 * Many PDFs of #Botconf2017 slide decks have been uploaded https://www.botconf.eu/botconf-2017/programme/botconf-2017-talks/
+* Active Directory: What can make your million dollar SIEM go blind? https://www.dropbox.com/s/baypdb6glmvp0j9/Buehat%20IL%20v2.3.pdf

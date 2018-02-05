@@ -23,6 +23,9 @@ Reverse Enginering
 * If the only thing you like about Windows is ollydbg, check out EDB, an Olly clone for Linux. https://github.com/eteran/edb-debugger
 * A Qt and C++ GUI for radare2 reverse engineering framework https://github.com/radareorg/cutter
 * A simple utility to convert EXE files to JPEG images and vice versa. https://github.com/OsandaMalith/Exe2Image
+* Reverse Engineering With Radare - Fundamentals and Basics https://pixl.dy.fi/posts/2018-01-22-reverse-engineering-basics-with-radare-fundamentals-and-basics/
+* Binary data diffing for multiple objects or streams of data https://github.com/juhakivekas/multidiff
+* The freeware version of IDA v7.0 has the following limitations: https://www.hex-rays.com/products/ida/support/download_freeware.shtml
 
 # Registry
 * New tool that compares snapshots of Windows Registry http://blog.nirsoft.net/2017/07/14/new-tool-that-compares-snapshots-of-windows-registry/
