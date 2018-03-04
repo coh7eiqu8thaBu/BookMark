@@ -24,4 +24,4 @@ Cheat Sheet
 * A cheatsheet of modern C++ language and library features. https://github.com/AnthonyCalandra/modern-cpp-features
 * https://zeltser.com/reverse-engineering-malicious-code-tips/ Tips for Reverse-Engineering Malicious Code - A New Cheat Sheet
 * Pentest Cheat Sheet http://pentestmonkey.net/category/cheat-sheet
-
+* OAuth Security https://github.com/snyff/oauthsecurity

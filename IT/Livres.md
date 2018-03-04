@@ -22,6 +22,7 @@ open sources to design personalised cyber attacks.
 * BlockChain en Bande Dessinn�es : http://www.ledieu-avocats.fr/protocole-blockchain/
 * 12 Python Resources for Data Science https://www.datasciencecentral.com/profiles/blogs/the-guide-to-learning-python-for-data-science
 * Social engineering tricks and payloads presentation slides https://github.com/bhdresh/SocialEngineeringPayloads/blob/master/Social%20engineering%20tricks%20and%20payloads%20presentation%20slides.pdf
+* Browser Security White Paper https://browser-security.x41-dsec.de/X41-Browser-Security-White-Paper.pdf
 
 # Zines
 * International Journal of PoC||GTFO https://www.sultanik.com/pocorgtfo/ (English)
