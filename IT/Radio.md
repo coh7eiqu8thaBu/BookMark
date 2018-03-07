@@ -5,6 +5,7 @@ Radio
 * IMSI Catcher https://arxiv.org/pdf/1702.04434.pdf
 * Using an RTL-SDR as a Simple IMSI Catcher http://www.rtl-sdr.com/using-an-rtl-sdr-as-a-simple-imsi-catcher/ https://github.com/Oros42/IMSI-catcher
 * Dissecting GSM encryption and Location update process http://payatu.com/dissecting-gsm-encryption-location-update-process/
+* GSM Hacking: Topguw https://github.com/bastienjalbert/topguw
 
 # Tetra
 * Tetra Live https://github.com/sq5bpf/telive/ and https://www.rtl-sdr.com/rtl-sdr-tutorial-listening-tetra-radio-channels/
