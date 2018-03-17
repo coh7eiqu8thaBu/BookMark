@@ -3,6 +3,7 @@ Developpement
 
 * Web Developer Security Checklist https://simplesecurity.sensedeep.com/web-developer-security-checklist-f2e4f43c9c56
 * Roadmap to becoming a web developer in 2018 https://github.com/kamranahmedse/developer-roadmap
+* ![Stack Pivoting explaned](https://pbs.twimg.com/media/DYazigQUMAAuttg.jpg)
 
 # C++
 * https://www.ossblog.org/master-c-programming-with-open-source-books/
@@ -28,6 +29,7 @@ Developpement
    * (Part 2 - A Character Device ): https://t.co/1CNOU8qvQA
   * How programs get run https://lwn.net/Articles/630727/
 * The 101 of ELF Binaries on Linux: Understanding and Analysis https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/
+* [Interactive map of Linux Kernel](http://www.makelinux.net/kernel_map/)
 
 # Python et DataScience :
 * https://github.com/jakevdp/PythonDataScienceHandbook
@@ -56,8 +58,8 @@ Developpement
 
 # Virtualization
 * Virtualization Internals
-  * Part 1 https://saferwall.com/blog/virtualization-internals-part-1-intro-to-virtualization
-  * Part 2
-  * Part 3
-  * Part 4
-  * Part 5
+  * [Part 1 - Intro to Virtualization ](https://saferwall.com/blog/virtualization-internals-part-1-intro-to-virtualization)
+  * [Part 2 - VMWare and Full Virtualization using Binary Translation]()
+  * [Part 3 - Xen and Paravirtualization]()
+  * [Part 4 - KVM and Qemu]()
+  * [Part 5 - Virtualization with Intel VT-x]()

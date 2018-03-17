@@ -28,6 +28,11 @@ Reverse Enginering
 * The freeware version of IDA v7.0 has the following limitations: https://www.hex-rays.com/products/ida/support/download_freeware.shtml
 	* IDAtropy is a plugin for Hex-Ray's IDA Pro designed to generate charts of entropy and histograms using the power of idapython and matplotlib. https://github.com/danigargu/IDAtropy
 
+# Hardware
+* Aigo Chinese encrypted HDD 
+	* [Part 1: taking it apart](https://syscall.eu/blog/2018/03/12/aigo_part1/)
+	* [Part 2: Dumping the Cypress PSoC 1](https://syscall.eu/blog/2018/03/12/aigo_part2/)
+
 # Registry
 * New tool that compares snapshots of Windows Registry http://blog.nirsoft.net/2017/07/14/new-tool-that-compares-snapshots-of-windows-registry/
 
@@ -49,7 +54,12 @@ Reverse Enginering
 	* Security Analysis
 * Droidefense: Advance Android Malware Analysis Framework https://github.com/droidefense/engine
 * Intercepting HTTPS Traffic from Apps on Android 7+ using Magisk & Burp https://blog.nviso.be/2017/12/22/intercepting-https-traffic-from-apps-on-android-7-using-magisk-burp/
-* IOS Kernel Debugging http://www.instructables.com/id/IOS-Kernel-Debugging/
+* [IOS Kernel Debugging](http://www.instructables.com/id/IOS-Kernel-Debugging/)
+* Easy network monitoring on non jailbroken iOS: 
+	1 connect your iOS device to your macOS via USB 
+	2 rvictl -s <UDID>
+	3 tcpdump|wireshark -i rvi0
+	4 cry
 
 # ARM
 * Reversing ARM Binaries : https://zygosec.com/post1.html

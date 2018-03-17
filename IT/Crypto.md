@@ -1,11 +1,9 @@
 Crypto
 =======
 
-# Livres
-
 # Library
 * https://github.com/jedisct1/libsodium  A modern and easy-to-use crypto library. https://libsodium.org
-* LibreCrypt: Transparent on-the-fly disk encryption for Windows. LUKS compatible. http://LibreCrypt.eu [GitHub](https://github.com/t-d-k/LibreCrypt]
+* LibreCrypt: Transparent on-the-fly disk encryption for Windows. LUKS compatible. http://LibreCrypt.eu [GitHub](https://github.com/t-d-k/LibreCrypt)
 
 # Use
 * Comprendre les grands principes de la cryptologie et du chiffrement https://www.cnil.fr/fr/comprendre-les-grands-principes-de-la-cryptologie-et-du-chiffrement
@@ -52,6 +50,8 @@ EOF)
 * [Hacker Decrypts Apple's Secure Enclave Processor (SEP) Firmware](http://www.iclarified.com/62025/hacker-decrypts-apples-secure-enclave-processor-sep-firmware)
 	* [img4lib](https://github.com/xerub/img4lib)
 	* [SEP firmware split tool](https://gist.github.com/xerub/0161aacd7258d31c6a27584f90fa2e8c)
+# Miselianous
+* [list of useful commands, shells and notes related to OSCP](https://github.com/crsftw/OSCP-cheat-sheet)
 
 # Crypto Money
 ## Ether
