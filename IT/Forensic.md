@@ -14,6 +14,11 @@ Forensic and Incident Response
 * [Incident Response Forensic Framework: nightHawk Response](https://github.com/biggiesmallsAG/nightHawkResponse)
 * [Remediation – Tools and utilities for remediation and incident-response handling](https://seclist.us/remediation-tools-and-utilities-for-remediation-and-incident-response-handling.html)
 	* [jewelRunner.py - quickly analyze tcp/ip traffic for a target host and create host-based firewall rules in support of micro segmentation activities.](https://github.com/pjhartlieb/remediation)
+* USB Detective
+	* Article : https://df-stream.com/2018/03/usb-detective/
+	* Tool : https://usbdetective.com/version-comparison/
+* An easy-to-deploy virtual machine that can provide flexible man-in-the-middle capabilities. : https://github.com/praetorian-inc/mitm-vm
+
 
 # Filesystem
 * Heuristics File System Secret Search: blueflower https://n0where.net/heuristics-file-system-secret-search-blueflower/ https://github.com/veorq/blueflower

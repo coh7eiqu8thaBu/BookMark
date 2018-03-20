@@ -38,7 +38,8 @@ Radio
 * Salamandra - Spy Microphone Detection Tool https://github.com/eldraco/Salamandra
 * Impersonating a remote using SDR and GNURadio https://foo-manroot.github.io/post/gnuradio/sdr/2018/01/15/gnuradio-ook-transmit.html
 * Analyse de l'ouverture radio de la trappe de charge sur @Tesla avec #URH et #rtl433. Résultats: les trames sont les mêmes pour tou/te/s les supercharger / voitures. Un simple module 433mhz et un microcontrôleur permettent d'ouvrir la trappe à distance en rejouant la séquence !
-![SDR analysis](https://pbs.twimg.com/media/DU35chuWkAE998m.jpg)
+* ![SDR analysis](https://pbs.twimg.com/media/DU35chuWkAE998m.jpg)
+* [Turning Broadcom Wi-Fi chips into SDRs](https://github.com/seemoo-lab/mobisys2018_nexmon_software_defined_radio)
 
 # NFC / RFID
 * [RFID Hacking with The Proxmark 3](https://blog.kchung.co/rfid-hacking-with-the-proxmark-3/)

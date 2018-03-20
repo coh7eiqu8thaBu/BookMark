@@ -18,7 +18,11 @@ Arduino
 * How-to: Building esptool.py into esptool.exe in Windows https://www.esp32.com/viewtopic.php?t=1029
 * Flasher : https://github.com/nodemcu/nodemcu-flasher (https://nodemcu.readthedocs.io/en/master/en/flash/)
 * http://www.instructables.com/id/Programming-ESP8266-ESP-12E-NodeMCU-Using-Arduino-/ Programming ESP8266 ESP-12E NodeMCU Using Arduino IDE - a Tutorial
-* Deauthentication attack and other exploits using an ESP8266! https://github.com/spacehuhn/esp8266_deauther
+* [Deauthentication attack and other exploits using an ESP8266](https://github.com/spacehuhn/esp8266_deauther)
+* [Upload, save and run keystroke injection payloads with an ESP8266 + ATMEGA32U4](https://github.com/spacehuhn/wifi_ducky)
+* [Detect deauthentication frames using an ESP8266](https://github.com/spacehuhn/DeauthDetector)
+* [Creates up to a thousand WiFi access points with custom SSIDs](https://github.com/spacehuhn/esp8266_beaconSpam)
+* [ DIY Arduino Wi-Fi Keylogger (Proof of Concept) MiTM USB](https://github.com/spacehuhn/wifi_keylogger)
 * Building a Thermal Camera https://damow.net/building-a-thermal-camera/
 * ESP8266 WiFi Repeater (NAT Router) 
 	* [Video](https://www.youtube.com/watch?v=OM2FqnMFCLw)
