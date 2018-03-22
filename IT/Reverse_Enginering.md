@@ -27,6 +27,7 @@ Reverse Enginering
 * Binary data diffing for multiple objects or streams of data https://github.com/juhakivekas/multidiff
 * The freeware version of IDA v7.0 has the following limitations: https://www.hex-rays.com/products/ida/support/download_freeware.shtml
 	* IDAtropy is a plugin for Hex-Ray's IDA Pro designed to generate charts of entropy and histograms using the power of idapython and matplotlib. https://github.com/danigargu/IDAtropy
+* Reversing iBank Trojan [Injection Phase] https://secrary.com/ReversingMalware/iBank/
 
 # Hardware
 * Aigo Chinese encrypted HDD 
