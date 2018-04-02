@@ -45,3 +45,4 @@ open sources to design personalised cyber attacks.
 # Conferences
 * Many PDFs of #Botconf2017 slide decks have been uploaded https://www.botconf.eu/botconf-2017/programme/botconf-2017-talks/
 * Active Directory: What can make your million dollar SIEM go blind? https://www.dropbox.com/s/baypdb6glmvp0j9/Buehat%20IL%20v2.3.pdf
+* Server Tailgating – A Chosen - Plaintext Attack on RDP https://www.blackhat.com/docs/asia-18/asia-18-Karni-Zinar-Blachman-Server-Tailgating-A-Chosen-Plaintext-Attack-on-RDP.pdf
