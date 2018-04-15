@@ -36,6 +36,7 @@ Forensic and Incident Response
 # Memory
 * Memory Map Viewer https://github.com/zodiacon/KernelExplorer/releases/tag/memmapview-0.1-beta
 * Acquiring a Memory Dump from Fleeting Malware https://digital-forensics.sans.org/blog/2017/11/27/acquiring-a-memory-dump-from-fleeting-malware
+* [FileAccessErrorView](https://www.nirsoft.net/utils/file_access_error_view.html) is a diagnostic tool for Windows that displays information about errors occur while programs running on your system try to open/read/write/delete a file. FileAccessErrorView displays the filename that the application tried to open/read/write/delete, the process id/name of the application, the error code (NTSTATUS code), the description of the error code, the number of times that this error occurred, and the timestamp of this error. 
 
 # Network
 * Best pCap Tools : https://n0where.net/best-pcap-tools
