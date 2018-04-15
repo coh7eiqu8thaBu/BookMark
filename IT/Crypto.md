@@ -44,6 +44,7 @@ EOF)
 * Stego in TCP/IP made easy (Part-1): https://www.exploit-db.com/docs/40891.pdf  (pdf) 
 * Part 2 - The Phantom Shell : https://www.exploit-db.com/docs/40897.pdf  (pdf)
 * Python Steganography Tool: Matroschka https://github.com/fbngrm/Matroschka
+* How to make high spatial frequency checkerboard + low frequency images: https://trmm.net/Checkerboard `convert -size 1024x1024 pattern:checkerboard -auto-level -level 0,100 cb.png; convert -resize x1024 -crop 1024x1024+0+0 -monochrome holly.jpg holly.png; composite -dissolve 90 cb.png holly.png out.png; convert +append cb.png holly.png tri.png`
 
 # iPhone
 * all crypto Key https://www.theiphonewiki.com/wiki/Category:IPhone_5s_(iPhone6,1)_Key_Page
