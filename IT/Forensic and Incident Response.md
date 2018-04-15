@@ -18,6 +18,7 @@ Forensic and Incident Response
 	* Article : https://df-stream.com/2018/03/usb-detective/
 	* Tool : https://usbdetective.com/version-comparison/
 * An easy-to-deploy virtual machine that can provide flexible man-in-the-middle capabilities. : https://github.com/praetorian-inc/mitm-vm
+* Binary Analysis Platform: angr https://github.com/angr/angr and https://n0where.net/binary-analysis-platform-angr
 
 
 # Filesystem
@@ -37,6 +38,7 @@ Forensic and Incident Response
 * Memory Map Viewer https://github.com/zodiacon/KernelExplorer/releases/tag/memmapview-0.1-beta
 * Acquiring a Memory Dump from Fleeting Malware https://digital-forensics.sans.org/blog/2017/11/27/acquiring-a-memory-dump-from-fleeting-malware
 * A small utility to convert Unix lsof output to a graph showing FIFO and UNIX interprocess communication. https://github.com/zevv/lsofgraph
+* [ProcessMonitorAnalyzeMalware](https://github.com/MotiBa/ProcessMonitorAnalyzeMalware) : Script to parse Process Monitor XML log file, and give you a summary report. The report conaints sections dedicated to Processes Created, File Activity, Registry Activity, Network Traffic, and Unique Hosts
 
 # Network
 * Best pCap Tools : https://n0where.net/best-pcap-tools
