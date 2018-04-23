@@ -40,6 +40,7 @@ Radio
 * Analyse de l'ouverture radio de la trappe de charge sur @Tesla avec #URH et #rtl433. Résultats: les trames sont les mêmes pour tou/te/s les supercharger / voitures. Un simple module 433mhz et un microcontrôleur permettent d'ouvrir la trappe à distance en rejouant la séquence !
 * ![SDR analysis](https://pbs.twimg.com/media/DU35chuWkAE998m.jpg)
 * [Turning Broadcom Wi-Fi chips into SDRs](https://github.com/seemoo-lab/mobisys2018_nexmon_software_defined_radio)
+* osmo-fl2k: Using cheap USB 3.0 VGA adapters as SDR transmitter http://people.osmocom.org/steve-m/fl2k_slides/osmo-fl2k.html and https://osmocom.org/projects/osmo-fl2k/wiki/Wiki
 
 # NFC / RFID
 * [RFID Hacking with The Proxmark 3](https://blog.kchung.co/rfid-hacking-with-the-proxmark-3/)

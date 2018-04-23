@@ -4,6 +4,7 @@ Arduino
 # Arduino
 * USB HID keyboard with V-USB http://codeandlife.com/2012/06/18/usb-hid-keyboard-with-v-usb/
 * USB-Keyboard with Arduino and V-USB library, an example https://blog.petrockblock.com/2012/05/19/usb-keyboard-with-arduino-and-v-usb-library-an-example/
+* P4nwP1 – Une distrib sécu pour Raspberry Pi Zero https://korben.info/p4nwp1-une-distrib-secu-pour-raspberry-pi-zero.html and https://github.com/mame82/P4wnP1
 
 # ESP8266
 * http://www.instructables.com/id/Getting-Started-with-the-ESP8266-ESP-12/
@@ -28,6 +29,13 @@ Arduino
 	* [Video](https://www.youtube.com/watch?v=OM2FqnMFCLw)
 	* [GitHub](https://github.com/martin-ger/esp_wifi_repeater)
 	* [Step by Step](http://runtimeprojects.com/2017/03/extend-wifi-with-an-esp8266/)
+
+# Digispark ATTINY85
+* Buy :
+	* http://seytonic.com/2016/12/03/links-to-buy-arduino-ducky-stuff/
+	* https://www.aliexpress.com/item/1pcs-Digispark-kickstarter-development-board-ATTINY85-module-for-Arduino-usb/32584084654.html
+	* https://www.youtube.com/watch?v=fGmGBa-4cYQ
+
 
 # Examples
 * https://github.com/esp8266/Arduino/blob/master/libraries/ESP8266WiFi/examples/WiFiScan/WiFiScan.ino
