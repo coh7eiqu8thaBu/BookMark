@@ -25,6 +25,9 @@ Ozr1hr5mCa+QkUSymxiUrRncRhyqSP0ok5j4rjwSJu9vmHTEUapiyQMQaEIF2e2S
 EOF)
 ```
 * RTFM: A database of common, interesting or useful commands, in one handy referable form https://necurity.co.uk/osprog/2017-02-27-RTFM-Pythonized/ - https://github.com/leostat/rtfm
+* Se faire une carte à puce OpenPGP https://rodolphe.breard.tf/post/se-faire-une-carte-a-puce-openpgp/
+	* https://rodolphe.breard.tf/post/se-faire-une-carte-a-puce-openpgp/
+	* https://fr.aliexpress.com/item/-/32856082491.html
 
 # Protect my secret
 * [DIY Portable Secrets Manager With a Raspberry Pi Zero and ARC](https://www.evilsocket.net/2017/12/07/DIY-Portable-Secrets-Manager-with-a-RPI-Zero-and-the-ARC-Project/)

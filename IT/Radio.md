@@ -44,6 +44,7 @@ Radio
 
 # NFC / RFID
 * [RFID Hacking with The Proxmark 3](https://blog.kchung.co/rfid-hacking-with-the-proxmark-3/)
+* An Android App for RFID Card Cloning: Project Walrus https://n0where.net/an-android-app-for-rfid-card-cloning-project-walrus and  https://github.com/megabug/Walrus
 
 # Other
 * Game of Drones - Detecting Streamed POI from Encrypted FPV Channel https://arxiv.org/pdf/1801.03074.pdf

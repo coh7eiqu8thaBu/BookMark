@@ -19,6 +19,7 @@ Forensic and Incident Response
 	* Tool : https://usbdetective.com/version-comparison/
 * An easy-to-deploy virtual machine that can provide flexible man-in-the-middle capabilities. : https://github.com/praetorian-inc/mitm-vm
 * Binary Analysis Platform: angr https://github.com/angr/angr and https://n0where.net/binary-analysis-platform-angr
+* Sources, configuration and how to detect evil things utilizing Microsoft Sysmon. https://github.com/MHaggis/sysmon-dfir
 
 
 # Filesystem
