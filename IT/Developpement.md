@@ -19,6 +19,10 @@ Developpement
   * Instructions from A-M (http://www.intel.com/assets/pdf/manual/253666.pdf)
   * Instructions from N-Z (http://www.intel.com/assets/pdf/manual/253667.pdf)
 * Introduction to UNIX assembly programming http://asm.sourceforge.net/intro/Assembly-Intro.html
+* Intro to x86 Assembly Language.
+	* Youtube : https://www.youtube.com/playlist?list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe
+	* GitHub : https://github.com/code-tutorials/assembly-intro
+
 
 # JAVA
 * A modern Java bytecode editor https://github.com/Col-E/Recaf

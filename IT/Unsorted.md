@@ -15,6 +15,7 @@ Unsorted bookmark, but IT
 	* [Paper](https://arxiv.org/abs/1801.01944) and more : http://nicholas.carlini.com/papers/
 	* [Examples](http://nicholas.carlini.com/code/audio_adversarial_examples/)
 * Open Source CAN Network Analysis: BUSMASTER https://n0where.net/open-source-can-network-analysis-busmaster
+* The Data Stack – Download the most complete overview of the data centric landscape. https://www.liip.ch/en/blog/data-stack http://bit.ly/data_stack
 
 # Regex
 * Testing Regexp http://regexr.com/
