@@ -10,6 +10,12 @@ Developpement
 * https://www.ossblog.org/master-c-programming-with-open-source-books/
 * https://www.tutorialspoint.com/cplusplus/cpp_while_loop.htm
 * Inline Hooking for Programmers (Part 2: Writing a Hooking Engine) https://www.malwaretech.com/2015/01/inline-hooking-for-programmers-part-2.html https://github.com/MalwareTech/BasicHook/
+* Modern C++ for C Programmers
+	* Part 1 - https://ds9a.nl/articles/posts/c++-1/
+	* Part 2 - https://ds9a.nl/articles/posts/cpp-2/
+	* Part 3 - https://ds9a.nl/articles/posts/cpp-3/
+	* Part 4 - https://ds9a.nl/articles/posts/cpp-4/
+	* Part 5 - https://ds9a.nl/articles/posts/cpp-5/
 
 # Assembleur :
 * https://www.codeproject.com/articles/1116188/basic-practices-in-assembly-language-programming
@@ -22,6 +28,12 @@ Developpement
 * Intro to x86 Assembly Language.
 	* Youtube : https://www.youtube.com/playlist?list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe
 	* GitHub : https://github.com/code-tutorials/assembly-intro
+* Binary Analysis Course:
+	* release notes 0x01 https://maxkersten.nl/2018/07/07/binary-analysis-course-release-notes-0x01/
+	* release notes 0x02 https://maxkersten.nl/2018/08/17/binary-analysis-course-release-notes-0x02/
+	* release notes 0x03 https://maxkersten.nl/2018/08/31/binary-analysis-course-release-notes-0x03/
+	* release notes 0x04 https://maxkersten.nl/2018/09/14/binary-analysis-course-release-notes-0x04/
+	* release notes 0x05 https://maxkersten.nl/2018/09/27/binary-analysis-course-release-notes-0x05/
 
 
 # JAVA

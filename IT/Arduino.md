@@ -5,6 +5,7 @@ Arduino
 * USB HID keyboard with V-USB http://codeandlife.com/2012/06/18/usb-hid-keyboard-with-v-usb/
 * USB-Keyboard with Arduino and V-USB library, an example https://blog.petrockblock.com/2012/05/19/usb-keyboard-with-arduino-and-v-usb-library-an-example/
 * P4nwP1 – Une distrib sécu pour Raspberry Pi Zero https://korben.info/p4nwp1-une-distrib-secu-pour-raspberry-pi-zero.html and https://github.com/mame82/P4wnP1
+* Ducky-Exploit - Arduino Rubber Ducky Framework https://www.kitploit.com/2018/08/ducky-exploit-arduino-rubber-ducky.html et https://github.com/itsmehacker/Ducky-Exploit
 
 # ESP8266
 * http://www.instructables.com/id/Getting-Started-with-the-ESP8266-ESP-12/

@@ -1,6 +1,9 @@
 Reverse Enginering
 ==============
 
+# Collection of links
+* https://github.com/michalmalik/linux-re-101
+
 # Live Analysis
 *  Memory scanner for Linux https://github.com/scanmem/scanmem
 

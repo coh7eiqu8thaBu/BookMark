@@ -28,6 +28,12 @@ EOF)
 * Se faire une carte à puce OpenPGP https://rodolphe.breard.tf/post/se-faire-une-carte-a-puce-openpgp/
 	* https://rodolphe.breard.tf/post/se-faire-une-carte-a-puce-openpgp/
 	* https://fr.aliexpress.com/item/-/32856082491.html
+* SSL/TLS for dummies :
+	* Part 1 - [SSL/TLS for dummies](https://www.wst.space/ssl-part1-ciphersuite-hashing-encryption/)
+	* Part 2 - [Understanding key exchange algorithm](https://www.wst.space/ssl-part-2-diffie-hellman-key-exchange/)
+	* Part 3 - [Understanding Certificate Authority](https://www.wst.space/ssl-part-3-certificate-authority/)
+	* Part 4 - [Understanding the TLS Handshake Protocol](https://www.wst.space/ssl-part-4-tls-handshake-protocol/)
+* Awesome Crypto Papers https://github.com/pFarb/awesome-crypto-papers
 
 # Protect my secret
 * [DIY Portable Secrets Manager With a Raspberry Pi Zero and ARC](https://www.evilsocket.net/2017/12/07/DIY-Portable-Secrets-Manager-with-a-RPI-Zero-and-the-ARC-Project/)
