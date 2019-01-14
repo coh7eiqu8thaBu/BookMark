@@ -549,3 +549,108 @@ https://github.com/danielmiessler/SecLists/tree/master/Discovery/DNS
 
 An hourly updated list of subdomains gathered from certificate transparency logs
 https://github.com/internetwache/CT_subdomains
+
+getting an MD5 collision of these 2 images is now trivial and instant
+https://github.com/corkami/pocs/blob/master/collisions/
+
+I wrote a script to collide 2 Portable Executables.
+Generic, instant - even works with files of different architectures.
+https://github.com/corkami/pocs/blob/master/collisions/README.md#portable-executable
+
+Windows Driver Signing Enforcement bypass
+https://github.com/theevilbit/workshops/
+
+script to do instant MD5 collisions of any pair of PDFs
+https://github.com/corkami/pocs
+
+https://grumpy-sec.blogspot.com/2018/12/i-csharp-your-clipboard-contents.html
+I C(Sharp) Your Clipboard Contents 
+
+http://www.sectechno.com/winpmem-memory-acquisition-tool/
+WinPmem – Memory Acquisition Tool
+
+https://www.kitploit.com/2018/12/malcom-malware-communications-analyzer.html https://github.com/tomchop/malcom
+Malcom - Malware Communications Analyzer
+
+https://github.com/Voorivex/pentest-guide
+Penetration Test Guide based on the OWASP + Extra
+
+https://wildfire.blazeinfosec.com/fuzzing-proprietary-protocols-with-scapy-radamsa-and-a-handful-of-pcaps/
+Fuzzing proprietary protocols with Scapy, radamsa and a handful of PCAPs
+
+https://arxiv.org/pdf/1812.00140.pdf
+Fuzzing: Art, Science, and Engineering
+
+https://github.com/evict/poc_CVE-2018-1002105#unauthenticated-poc
+PoC for CVE-2018-1002105.
+
+https://support.portswigger.net/customer/portal/articles/2945928-using-burp-collaborator-client
+Using Burp Collaborator Client
+
+https://github.com/Voorivex/pentest-guide
+Penetration tests cases, resources and guidelines.
+
+Automating Simple Buffer Overflow with Winappdbg and Python 
+* [part 1](https://mohitdabas.wordpress.com/2017/10/19/automating-simple-buffer-overflow-with-winappdbg-and-python-part-1/)
+
+https://github.com/trimstray/OpenProxy
+OpenProxy is an open source http proxy stack that is a combination of Varnish Cache and Nginx.
+
+https://0x00-0x00.github.io/research/2018/11/06/Recovering-Plaintext-Domain-Credentials-From-WPA2-Enterprise-on-a-compromised-host.html
+Recovering Plaintext Domain Credentials from WPA2 Enterprise on a Compromised Host
+
+https://mohitdabas.wordpress.com/2018/09/18/bypassing-authentication-using-javascript-debugger/
+Bypassing Authentication Using Javascript Debugger
+
+https://techvomit.net/web-application-penetration-testing-notes/
+Web Application Penetration Testing Notes
+
+https://github.com/yeyintminthuhtut/Awesome-Red-Teaming
+List of Awesome Red Teaming Resources
+
+https://github.com/JusticeRage/freedomfighting/blob/master/README.md#boot_checkpy
+This repository contains scripts which may come in handy during your freedom fighting activities. It will be updated occasionally, when I find myself in need of something I can't find online. Everything here is distributed under the terms of the GPL v3 License.
+
+https://www.zdnet.com/article/eastern-european-banks-lose-tens-of-millions-of-dollars-in-hollywood-style-hacks/
+Eastern European banks lose tens of millions of dollars in Hollywood-style hacks
+
+https://github.com/NytroRST/XSSFuzzer
+XSS Fuzzer is a tool which generates XSS payloads based on user-defined vectors and fuzzing lists.
+
+https://tsurugi-linux.org/index.php
+The new DFIR Linux distribution
+
+https://medium.com/@adam.toscher/top-five-ways-i-got-domain-admin-on-your-internal-network-before-lunch-2018-edition-82259ab73aaa
+Top Five Ways I Got Domain Admin on Your Internal Network before Lunch (2018 Edition)
+
+https://www.kitploit.com/2018/11/mcreator-encoded-reverse-shell.html https://github.com/blacknbunny/mcreator
+Mcreator - Encoded Reverse Shell Generator With Techniques To Bypass AV's 
+
+https://www.netsparker.com/whitepaper-http-security-headers/
+Whitepaper: HTTP Security Headers and How They Work
+
+https://github.com/felixweyne/ProcessSpawnControl
+Process Spawn Control is a Powershell tool which aims to help in the behavioral (process) analysis of malware. PsC suspends newly launched processes, and gives the analyst the option to either keep the process suspended, or to resume it.
+
+https://medium.com/@agussetyar/local-file-inclusion-via-phpinfo-exploit-race-condition-to-remote-code-execution-6d5470445afe
+Local File Inclusion via phpinfo() Exploit (Race Condition) to Remote Code Execution
+
+https://medium.com/@Bank_Security/undetectable-c-c-reverse-shells-fab4c0ec4f15
+Undetectable C# & C++ Reverse Shells
+
+https://zydis.re/
+Disassemble Directly In Your Browser
+
+https://github.com/M4cs/BabySploit
+BabySploit Beginner Pentesting Toolkit/Framework Written in Python
+
+https://techblog.mediaservice.net/2018/11/universal-android-ssl-pinning-bypass-2/
+Universal Android SSL Pinning Bypass #2
+
+https://www.kitploit.com/2018/11/pacu-aws-exploitation-framework.html https://github.com/RhinoSecurityLabs/pacu
+Pacu - The AWS Exploitation Framework, Designed For Testing The Security Of Amazon Web Services Environments 
+
+https://twitter.com/elkentaro/status/1073637687939088386
+Deep penetration testing covert option..... now what?
+
+
