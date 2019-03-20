@@ -640,3 +640,101 @@ Pacu - The AWS Exploitation Framework, Designed For Testing The Security Of Amaz
 https://twitter.com/elkentaro/status/1073637687939088386
 Deep penetration testing covert option..... now what?
 
+https://code.google.com/archive/p/pentest-bookmarks/wikis/BookmarksList.wiki | Google Code Archive - Long-term storage for Google Code Project Hosting.
+https://www.pingcastle.com/PingCastleFiles/ad_hc_test.mysmartlogon.com.html | test.mysmartlogon.com PingCastle 2019-01-19
+https://www.bleepingcomputer.com/news/microsoft/microsoft-365-suffers-massive-two-day-outage-outlook-and-exchange-down/ | Microsoft 365 Suffers Massive Two Day Outage, Outlook and Exchange Down
+https://0xrick.github.io/lists/stego/ | Steganography - A list of useful tools and resources | 0xRick Owned Root !
+https://medium.com/@int0x33/day-26-the-complete-list-of-windows-post-exploitation-commands-no-powershell-999b5433b61e | Day 26: The Complete List of Windows Post-Exploitation Commands (No Powershell)
+https://gist.github.com/mehaase/63e45c17bdbbd59e8e68d02ec58f4ca2 | SSHtranger Things Exploit POC
+https://www.kitploit.com/2019/01/jok3r-network-and-web-pentest-framework.html | Jok3R - Network And Web Pentest Framework - KitPloit - PenTest & Hacking Tools for your CyberSecurity Kit ☣
+https://www.eventbrite.com/e/adversary-tactics-red-team-operations-training-course-dc-april-2019-tickets-54735183407 | Adversary Tactics - Red Team Operations Training Course - D.C. April 2019 Tickets, Tue, Apr 23, 2019 at 9:00 AM | Eventbrite
+https://gamephreakers.com/2019/01/anti-debugging-tricks-5-inlined-timing/ | Anti Debugging Tricks #5 – Inlined Timing - Game Phreakers
+https://jivoi.github.io/2015/07/03/offensive-security-bookmarks/ | Offensive Security Bookmarks – EK
+https://insert-script.blogspot.com/2019/01/adobe-reader-pdf-callback-via-xslt.html | InsertScript: Adobe Reader - PDF callback via XSLT stylesheet in XFA
+https://github.com/trailofbits/rellic/blob/master/docs/NoMoreGotos.pdf | rellic/NoMoreGotos.pdf at master · trailofbits/rellic
+https://github.com/NytroRST/ShellcodeCompiler | NytroRST/ShellcodeCompiler: Shellcode Compiler
+https://payloads.online/archivers/2019-01-26/1 | Windows 2019 Bypass (UAC、Defender) to Metasploit · 倾旋的博客
+https://www.kitploit.com/2019/01/recaf-modern-java-bytecode-editor.html | Recaf - A Modern Java Bytecode Editor - KitPloit - PenTest & Hacking Tools for your CyberSecurity Kit ☣
+https://gosecure.net/2017/02/16/introducing-malboxes-a-tool-to-build-malware-analysis-virtual-machines/ | Introducing Malboxes: a Tool to Build Malware Analysis Virtual Machines :: GoSecure
+https://www.a12d404.net/windows/2019/01/13/persistance-via-path-directories.html | Windows 10 Persistence via PATH directories - CDPSvc - marpie (a12d404.net)
+https://framapiaf.org/@Framasoft/101402239926929740 | Framasoft : "Les données que récolte Google, document complet …" - Framapiaf
+https://medium.com/@madrobot/ssrf-server-side-request-forgery-types-and-ways-to-exploit-it-part-1-29d034c27978 | SSRF - Server Side Request Forgery (Types and ways to exploit it) Part-1
+https://github.com/maestron/botnets | maestron/botnets: This is a collection of #botnet source codes, unorganized. For EDUCATIONAL PURPOSES ONLY
+https://www.kitploit.com/2019/01/h8mail-email-osint-and-password-breach.html | H8Mail - Email OSINT And Password Breach Hunting - KitPloit - PenTest & Hacking Tools for your CyberSecurity Kit ☣
+https://github.com/BusesCanFly/PRETty | BusesCanFly/PRETty: "PRinter Exploitation Toolkit" LAN automation tool
+https://www.kitploit.com/2018/12/stoq-open-source-framework-for.html | stoQ - An Open Source Framework For Enterprise Level Automated Analysis - KitPloit - PenTest & Hacking Tools for your CyberSecurity Kit ☣
+https://twitter.com/soaj1664ashar/status/1079791723889475586 | 𝔸𝕤𝕙𝕒𝕣 𝕁𝕒𝕧𝕖𝕕 sur Twitter : "Server-Side Request Forgery #SSRF Tools/Stuff https://t.co/Klcxbn7OM8 https://t.co/Pruy3KtHdD https://t.co/bjFjveIwrd https://t.co/yrshScjBEX https://t.co/V2UfVq3Ww6 https://t.co/iHTo6HxW9E https://t.co/sXZTRJssJA https://t.co/1fTRoxrnXZ https://t.co/QDJiUZ4utv"
+https://github.com/bhavsec/reconspider | bhavsec/reconspider: 🔎 Most Advanced Open Source Intelligence (OSINT) Framework for scanning IP Address, Emails, Websites, Organizations.
+https://duckduckgo.com/?q=proxy+%2F+reverse+proxy&t=ffnt&atb=v66-6&ia=web | proxy / reverse proxy at DuckDuckGo
+https://www.commentcamarche.net/contents/610-serveur-proxy-et-reverse-proxy | Serveur proxy et reverse proxy
+https://fr.wikipedia.org/wiki/S%C3%A9curit%C3%A9_des_syst%C3%A8mes_d%27information | Sécurité des systèmes d'information — Wikipédia
+https://ctfs.github.io/resources/ | Introduction | CTF Resources
+
+https://blog.webernetz.net/passphrase-generation-tools/ Passphrase Generation Tools
+http://shop.lambdaconcept.com/home/36-usb2sniffer-jtag-serial-pack.html USB2Sniffer & JTAG Serial Pack
+Eric Barbry @ebarbry à la #jssi19 : « Dire qu’on est pauvre ne marche pas pour la protection des données. Il faut évaluer le ratio Coût du projet / Coût de la sécurité »
+Bitcoin #Abuse #Database - Tracking #bitcoin addresses used by #ransomware, blackmailers, fraudsters, etc.: https://www.bitcoinabuse.com
+https://www.kitploit.com/2018/12/cameradar-v210-hacks-its-way-into-rtsp.html?amp=0  Cameradar v2.1.0 - Hacks Its Way Into RTSP Videosurveillance Cameras
+oletools - python tools to analyze MS OLE2 files (Structured Storage, Compound File Binary Format) and MS Office documents, for malware analysis, forensics and debugging. http://www.decalage.info/python/oletools
+Using HTTP Pipelining to hide requests https://digi.ninja/blog/pipelining.php
+BINDIFF uses a unique graph-theoretical approach to compare executables by identifying identical and similar functions https://www.zynamics.com/software.html
+https://twitter.com/nixcraft/status/1105095466641813504 Social engineering illustrated. I work as a sysadmin and developers/users hands out their API credentials, ssh keys, passwords like candy whenever they have an issue without asking about such info. I just don't trust end users ... 
+Cat-Nip - Automated Basic Pentest Tool (Designed For Kali Linux) https://www.kitploit.com/2019/03/cat-nip-automated-basic-pentest-tool.html https://github.com/baguswiratmaadi/catnip
+
+car hacking part 1 https://twitter.com/intx0x80/status/1104853927151976454 https://github.com/jgamblin/CarHackingTools
+Rooting all IOT ... https://www.exploitee.rs/
+PASSWORD HASH LOOKUP/CRACKING ONLINE: https://hashkiller.co.uk/Cracker  https://www.cmd5.org/  https://crack.sh/  https://gpuhash.me/  https://crackstation.net/  https://www.onlinehashcrack.com/  https://hash.help/  https://passwordrecovery.io/  http://cracker.offensive-security.com/ 
+GHIDRA : https://www.nsa.gov/resources/everyone/ghidra/ Ghidra is a software reverse engineering (SRE) framework developed by NSA's Research Directorate for NSA's cybersecurity mission. It helps analyze malicious code and malware like viruses, and can give cybersecurity professionals a better understanding of potential vulnerabilities in their networks and systems. https://ghidra-sre.org/
+	https://ghidra-sre.org/CheatSheet.html
+Arm Heap Exploitation - Part 1: Understanding the Glibc Heap Implementation https://azeria-labs.com/heap-exploitation-part-1-understanding-the-glibc-heap-implementation/
+ Phantom Evasion - Python AV Evasion Tool Capable To Generate FUD Executable Even With The Most Common 32 Bit Metasploit Payload (Exe/Elf/Dmg/Apk)  https://www.kitploit.com/2019/03/phantom-evasion-python-av-evasion-tool.html https://github.com/oddcod3/Phantom-Evasion
+Wipe, reinstall or restore your system from running GNU/Linux distribution. Via SSH, without rebooting. https://github.com/trimstray/reload.sh
+ Reko - A General Purpose Binary Decompiler https://github.com/uxmal/reko https://www.kitploit.com/2019/02/reko-general-purpose-binary-decompiler.html
+File upload vulnerability scanner and exploitation tool. https://github.com/almandin/fuxploider
+ANDRAX The first and unique Penetration Testing platform for Android smartphones https://github.com/The-Cracker-Technology/ANDRAX-Mobile-Pentest https://andrax.thecrackertechnology.com/
+VSHG - Hardware resistance & enhanced security for GnuPG https://www.kitploit.com/2019/03/vshg-hardware-resistance-enhanced.html https://github.com/RichardRMatthews/VSHG
+
+https://github.com/houjingyi233/CPU-vulnerabiility-collections CPU-vulnerabiility-collections
+https://github.com/Cillian-Collins/dirscraper Dirscraper is an OSINT scanning tool which assists penetration testers in identifying hidden, or previously unknown, directories on a domain or subdomain. This helps greatly in the recon stage of pentesting as it provide pentesters with a larger attack surface for the specific domain. 
+PHP Security Check List https://github.com/ismailtasdelen/php-security-check-list
+
+https://twitter.com/TinkerSec/status/1098817274495094784 Don't have enough money for a GPU Hashcracker? Spin one up in AWS (p3.16xlarge 8x Tesla V100 GPU Instance)! Guess every 8 character (Upper, Lower, Number, Symbol) password (NTLM (Windows) Hash) in 3 hours, 10 minutes! Not bad for $25 an hour.
+
+How to steal NTDS.dit and SYSTEM file without fancy tools.
+	1. cmd 
+	2. vssadmin create shadow /for=C: 
+	3. copy \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy1\windows\ntds\ntds.dit c:\ntds.dit 
+	4. copy \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy1\windows\system32\SYSTEM c:\SYSTEM
+	
+ReverShellGenerator - A Tool to Generate Various Ways to Do a Reverse Shell https://www.kitploit.com/2017/12/revershellgenerator-tool-to-generate.html?amp=0
+https://github.com/Ledger-Donjon/lascar LASCAR: A fast, versatile, and open source python3 library designed to facilitate Side-Channel Analysis.
+
+HOW TO CRACK WPA/WPA2 PMKID
+	1. https://github.com/ZerBea/hcxdumptool
+	2. https://github.com/aircrack-ng/aircrack-ng
+	3. Find target BSSID: airodump-ng <int>
+	4. Add BSSID in ‘bssid.txt’ and use ‘hcxdumptool’: hcxdumptool -i <int> --filterlist=bssid.txt --filermode=2 --enable_status=2 -o pmkid.pcap
+	5. Extract PMKID into hashcat format for cracking: https://github.com/ZerBea/hcxtools  hcxpcaptool -z wpa2_pmkid_hash.txt pmkid.pcap
+	6. Crack: hashcat -a 0 -m 16800 -w 4 wpa2_pmkid_hash.txt dict.txt
+	
+Yara Rules of IOC : https://github.com/Neo23x0/signature-base/tree/master/yara
+ new fast and flexible multi-platform IOC and YARA scanner SPARK in a reduced free version named SPARK Core https://www.nextron-systems.com/spark-core/
+https://github.com/Neo23x0/Loki Loki - Simple IOC and Incident Response Scanner https://www.nextron-systems.com/compare-our-scanners/
+
+http://www.jhouseconsulting.com/2015/01/02/script-to-create-an-overview-and-full-report-of-all-group-objects-in-a-domain-1455  Script to Create an Overview and Full Report of all Group Objects in a Domain
+https://www.kitploit.com/2019/02/hontel-telnet-honeypot.html  Hontel - Telnet Honeypot https://github.com/stamparm/hontel
+https://hal.inria.fr/hal-01496958/document State of the art of network protocol reverse engineeringtools
+
+Fwknop - Single Packet Authorization & Port Knocking https://www.kitploit.com/2019/02/fwknop-single-packet-authorization-port.html https://github.com/mrash/fwknop
+ 
+Active Directory Penetration Dojo – Setup of AD Penetration Lab : Part 1 to 4 https://scriptdotsh.com/index.php/category/active-directory-pentesting/
+ 
+Modlishka - An Open Source Phishing Tool With 2FA Authentication  https://github.com/drk1wi/Modlishka https://www.kitploit.com/2019/02/modlishka-open-source-phishing-tool.html
+The Osmocom project is an umbrella project regarding Open source mobile communications. This includes software and tools implementing a variety of mobile communication standards, including GSM, DECT, TETRA and others. https://osmocom.org/
+Windows Privilege Escalation Guide https://www.absolomb.com/2018-01-26-Windows-Privilege-Escalation-Guide/
+
+Yuki Chan - Automate Pentest Tool https://github.com/Yukinoshita47/Yuki-Chan-The-Auto-Pentest https://www.kitploit.com/2017/09/yuki-chan-automate-pentest-tool.html?amp=0
+GL-USB150 OpenWrt Microrouter Looks Like a USB Flash Drive https://www.cnx-software.com/2019/02/02/gl-usb150-openwrt-microrouter-usb-flash-drive/
+Out of Band Exploitation (OOB) CheatSheet https://www.notsosecure.com/oob-exploitation-cheatsheet/
+
+https://ctfs.github.io/resources/ CTF Resources - This repository aims to be an archive of information, tools, and references regarding CTF competitions.
