@@ -841,4 +841,104 @@ Pacu - The AWS Exploitation Framework, Designed For Testing The Security Of Amaz
 https://twitter.com/elkentaro/status/1073637687939088386
 Deep penetration testing covert option..... now what?
 
+https://krebsonsecurity.com/2012/10/the-scrap-value-of-a-hacked-pc-revisited/ The Scrap Value of a Hacked PC, Revisited
+
+https://github.com/KeepWannabe/Remot3d Remot3d v2.0 - Tool Created For Large Pentesters As Well As Just For The Pleasure Of Defacers To Control Server By Backdoors 
+
+Savez-vous à quand remonte la première cyber-attaque ? 1980 ? Non avant. 1950 ? Non, encore avant ! 1920 ? Toujours pas ! C'était en 1834 ! Et cette première cyber-attaque n'a pas eu lieu aux Etats-Unis, mais en France !
+https://twitter.com/Benazdia/status/1110814927768481792
+
+https://github.com/besimorhino/powercat | besimorhino/powercat: netshell features all in version 2 powershell
+
+https://www.kitploit.com/2018/01/snmp-brute-fast-snmp-brute-force.html?amp=0 | SNMP-Brute - Fast SNMP brute force, enumeration, CISCO config downloader and password cracking script - KitPloit - PenTest & Hacking Tools for your CyberSecurity Kit ☣
+
+https://ngailong.wordpress.com/2019/04/07/old-but-gold-dot-dot-slash-to-get-the-flag-uber-microservice/ | Old but GOLD Dot Dot Slash to Get the Flag — Uber Microservice – Ron Chan
+
+https://projetsdiy.fr/comment-installer-raspbian-raspberry-pi-zero-sans-ecran-clavier/#Activer_la_connexion_SSH | Installer Raspbian Stretch sur Raspberry Pi Zero W sans écran ni clavier, configuration WiFi - Domotique et objets connectés à faire soi-même
+
+https://projetsdiy.fr/decouverte-test-configuration-raspberry-pi-3/#Premier_demarrage_du_Rasperry_Pi_sous_Noobs | Débuter avec le Raspberry Pi 3, installer et configurer Raspbian sur la carte SD (Wi-Fi, clavier, Bluetooth...) - Domotique et objets connectés à faire soi-même
+
+https://www.balena.io/blog/build-an-environment-and-air-quality-monitor-with-raspberry-pi/ | Build an air quality monitor with InfluxDB, Grafana, and Docker on a Raspberry Pi
+
+https://www.kitploit.com/2019/03/ffm-freedom-fighting-mode-open-source.html | FFM (Freedom Fighting Mode) - Open Source Hacking Harness - KitPloit - PenTest & Hacking Tools for your CyberSecurity Kit ☣
+
+https://www.kitploit.com/2019/03/winpwn-automation-for-internal-windows.html | WinPwn - Automation For Internal Windows Penetrationtest - KitPloit - PenTest & Hacking Tools for your CyberSecurity Kit ☣
+
+https://www.kitploit.com/2019/03/reconerator-c-targeted-attack.html | Reconerator - C# Targeted Attack Reconnaissance Tools - KitPloit - PenTest & Hacking Tools for your CyberSecurity Kit ☣
+
+https://www.kitploit.com/2019/04/xanxss-simple-xss-finding-tool.html | XanXSS - A Simple XSS Finding Tool - KitPloit - PenTest & Hacking Tools for your CyberSecurity Kit ☣
+
+Disable defender remotely (temp) to execute code :) Invoke-WmiMethod -ComputerName 10.0.1.2 -Class Win32_Process -Name Create -ArgumentList "powershell.exe -C `Set-MpPreference -DisableRealtimeMonitoring $true`"
+
+https://github.com/paralax/awesome-honeypots | paralax/awesome-honeypots: an awesome list of honeypot resources
+https://www.bareos.com/en/company_news/whitepaper-bareos-nextcloud-en.html | New Whitepaper published - Bareos
+https://nextcloud.com/blog/the-issue-with-public-cloud/ | The issue with Public Cloud – Nextcloud
+https://github.com/The-Cracker-Technology/ANDRAX-Mobile-Pentest/ | The-Cracker-Technology/ANDRAX-Mobile-Pentest: ANDRAX The first and unique Penetration Testing platform for Android smartphones
+https://www.youtube.com/watch?v=951CzoJoSn4 | Decorative Concrete Melbourne - Flake Flooring - YouTube
+https://blog.hackster.io/atto-is-or-will-be-the-worlds-smallest-arduino-compatible-board-daff705e0ad2 | ATTO Is — or Will Be — the World’s Smallest Arduino-Compatible Board
+https://medium.com/@jeanmichel.amblat/abusing-certificates-for-data-exfiltration-d6bff2533cd0 | Abusing certificates for data exfiltration – Jean-Michel Amblat – Medium
+https://giammaiot.blogspot.com/2019/06/various-sdr-os-distro-liveos-vitual.html | GiamMa-based researchers SDR R&D IoT: Various SDR OS / Distro / LiveOS / Virtual Machine / Bootable Linux image
+https://github.com/xFreed0m/RDPassSpray | xFreed0m/RDPassSpray: Python3 tool to perform password spraying using RDP
+https://medium.com/@chawdamrunal/penetration-testing-approach-and-methodology-87a196aabe26 | Penetration Testing — Approach and Methodology – Lulzsec -hacking era – Medium
+https://github.com/nolze/msoffcrypto-tool | nolze/msoffcrypto-tool: Python tool and library for decrypting MS Office files with passwords or other keys
+https://www.kitploit.com/2019/06/pcapxray-v25-network-forensics-tool-to.html | PcapXray v2.5 - A Network Forensics Tool To Visualize A Packet Capture Offline As A Network Diagram
+https://0xpatrik.com/subdomain-enumeration-2019/ | Subdomain Enumeration: 2019 Workflow
+https://hal.inria.fr/hal-01575519v2/document | Does disabling Wi-Fi prevent my smartphone from sending Wi-Fi frames? - document
+https://twitter.com/bettercap/status/1135963393633005569 | bettercap sur Twitter : "reminder: bettercap has a very convenient web ui that makes everything way easier, especially when running on mobile or headless on a RPI. Install: > sudo bettercap -eval "caplets.update; ui.update; q" Run: > sudo bettercap -caplet https-ui https://t.co/Z8ZoNwXLXl… https://t.co/OdOrTzKUj9"
+https://pastebin.com/i8Ans4d4 | https://abc.com?a=<a+HREF='javascrip%26%239t:alert%26lpar;document.domain)'>test - Pastebin.com
+https://www.tarlogic.com/en/blog/how-to-attack-kerberos/ | Kerberos (II): How to attack Kerberos? - Tarlogic Security - Cyber Security and Ethical hacking
+https://github.com/algo7/bluekeep_CVE-2019-0708_poc_to_exploit | algo7/bluekeep_CVE-2019-0708_poc_to_exploit: Porting BlueKeep PoC from @Ekultek to actual exploits
+https://www.ostechnix.com/sslh-share-port-https-ssh/ | SSLH - Share A Same Port For HTTPS And SSH - OSTechNix
+http://www.rutschle.net/tech/sslh/download | Download
+https://github.com/sq5bpf/telive | sq5bpf/telive: Tetra live monitor
+
+https://github.com/vitalysim/Awesome-Hacking-Resources | GitHub - vitalysim/Awesome-Hacking-Resources: A collection of hacking / penetration testing resources to make you better!
+https://www.kitploit.com/2019/05/userrecon-py-find-usernames-in-social.html | Userrecon-Py - Find Usernames In Social Networks
+https://github.com/juliocesarfort/public-pentesting-reports | GitHub - juliocesarfort/public-pentesting-reports: Curated list of public penetration test reports released by several consulting firms and academic security groups
+https://www.kitploit.com/2019/06/vthunting-tiny-script-used-to-generate.html | Vthunting - A Tiny Script Used To Generate Report About VirusTotal Hunting And Send It By Email, Slack Or Telegram
+https://etherpad.org/ | Etherpad
+https://www.kitploit.com/2019/06/facebash-facebook-brute-forcer-in.html | Facebash - Facebook Brute Forcer In Shellscript Using TOR
+https://github.com/Neo23x0/sigma | GitHub - Neo23x0/sigma: Generic Signature Format for SIEM Systems
+https://www.instructables.com/id/Hack-Remote-RF-Security-Locks-With-Arduino-and-Usb/ | Hack Remote RF Security Locks With Arduino: 10 Steps
+https://blogs.technet.microsoft.com/secguide/2019/05/23/security-baseline-final-for-windows-10-v1903-and-windows-server-v1903/ | Security baseline (FINAL) for Windows 10 v1903 and Windows Server v1903 – Microsoft Security Guidance blog
+https://twitter.com/binitamshah/status/1134755609008640001 | Binni Shah sur Twitter : "Windows Exploit Development (Primer I) : Debugging Threads & Analyzing Memory : https://t.co/4MzNK4pyqk II : Corrupting Structured Exception Handling & Controlling Memory Pointers : https://t.co/2C7zh9oj25 Exploiting SEH & ROP Chaining : https://t.co/fqqKVT0Xr3 cc @k3170Makan"
+https://github.com/homjxi0e/PowerAvails/blob/master/invoke-Confusion.ps1 | PowerAvails/invoke-Confusion.ps1 at master · homjxi0e/PowerAvails · GitHub
+https://www.microsoft.com/security/blog/2019/05/30/demystifying-password-hash-sync/ | Demystifying Password Hash Sync
+https://www.kitploit.com/2019/05/autopwn-automate-repetitive-tasks-for.html | autoPwn - Automate Repetitive Tasks For Fuzzing
+https://documents.trendmicro.com/assets/white_papers/wp-a-security-analysis-of-radio-remote-controllers.pdf | A Security Analysis of Radio Remote Controllersfor Industrial Applications - wp-a-security-analysis-of-radio-remote-controllers.pdf
+https://elements.wlonk.com/ElementsTable.htm | Interactive Periodic Table of the Elements, in Pictures and Words
+https://cssgrid-generator.netlify.com/ | CSS Grid Generator
+https://www.kitploit.com/2019/05/graffiti-tool-to-generate-obfuscated.html | Graffiti - A Tool To Generate Obfuscated One Liners To Aid In Penetration Testing
+https://www.kitploit.com/2019/05/sshd-poison-tool-to-get-creds-of-pam.html | SSHD-Poison - A Tool To Get Creds Of Pam Based SSHD Authentication
+https://github.com/adulau/ssldump/releases/tag/v1.0 | Release Unofficial ssldump - v1.0 released · adulau/ssldump · GitHub
+https://thehackernews.com/2019/05/cybersecurity-tools-enterprise.html | 5 Cybersecurity Tools Every Business Needs to Know
+https://twitter.com/DissectMalware/status/998797808907046913 | Malwrologist sur Twitter : "If you want to compile/interpret your code on a target but using #csc (c#), #vbc (vb .net), #cscript, #wscript, #jjs ... is too risky/unavail (e.g, #JRE is missing), then consider to compile your #JScript (#net bin) with #jsc compiler (part of .net framework). #lolbin?… https://t.co/aHguAQ2IQN"
+https://github.com/SandboxEscaper/polarbearrepo | GitHub - SandboxEscaper/polarbearrepo
+https://sploitfun.wordpress.com/2015/06/23/integer-overflow/ | Integer Overflow – sploitF-U-N
+https://sploitfun.wordpress.com/2015/05/08/classic-stack-based-buffer-overflow/ | Classic Stack Based Buffer Overflow – sploitF-U-N
+https://sploitfun.wordpress.com/2015/06/26/linux-x86-exploit-development-tutorial-series/ | Linux (x86) Exploit Development Series – sploitF-U-N
+https://medium.com/@ncaproni/d%C3%A9buter-sa-veille-cybers%C3%A9curit%C3%A9-79219555328e | Débuter sa veille cybersécurité – Nicolas Caproni – Medium
+https://www.kitploit.com/2019/05/machinae-v148-security-intelligence.html | Machinae v1.4.8 - Security Intelligence Collector
+https://github.com/foi-oss/ortbot#hide-your-tracks | GitHub - foi-oss/ortbot: Open Red Team Bag of Tricks - Red Teaming and Pentesting cheat sheet and trick book
+https://www.kitploit.com/2019/03/flightsim-utility-to-generate-malicious.html | Flightsim - A Utility To Generate Malicious Network Traffic And Evaluate Controls
+https://github.com/trimstray/the-book-of-secret-knowledge#black_small_square-pentests-bookmarks-collection | GitHub - trimstray/the-book-of-secret-knowledge: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+https://github.com/trimstray/the-book-of-secret-knowledge#black_small_square-web-training-apps-local-installation | GitHub - trimstray/the-book-of-secret-knowledge: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+https://github.com/trimstray/the-book-of-secret-knowledge#black_small_square-labs-ethical-hacking-platformstrainingsctfs | GitHub - trimstray/the-book-of-secret-knowledge: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+https://www.onlyoffice.com/blog/2019/05/onlyoffice-10-is-available-for-server-solutions/ | ONLYOFFICE 10.0 is available for server solutions | ONLYOFFICE Blog
+https://github.com/woanware/LogViewer | GitHub - woanware/LogViewer: LogViewer for viewing and searching large text files...
+https://github.com/drk1wi/Modlishka | GitHub - drk1wi/Modlishka: Modlishka. Reverse Proxy.
+https://twitter.com/danielhbohannon/status/1130833190019653633 | Daniel Bohannon sur Twitter : "My new favorite way to launch powershell.exe :: I think you'll like this one, @vector_sec 🥰… "
+https://github.com/jaxBCD/ReconT | GitHub - jaxBCD/ReconT: reconnaisance - footprinting - information disclosure (0.7)
+https://github.com/Eugeny/terminus | GitHub - Eugeny/terminus: A terminal for a more modern age
+https://github.com/Mr-Un1k0d3r/Shellcoding | GitHub - Mr-Un1k0d3r/Shellcoding: Shellcoding utilities
+https://github.com/patois/dsync | GitHub - patois/dsync: IDAPython plugin that synchronizes disassembler and decompiler views
+https://thewover.github.io/Introducing-Donut/ | Donut - Injecting .NET Assemblies as Shellcode – The Wover – Red Teaming, .NET, and random computing topics
+https://heimdalsecurity.com/security-education-resources | Cyber Security Education Resources by Heimdal Security
+https://github.com/evilmog/ntlmv1-multi | GitHub - evilmog/ntlmv1-multi: NTLMv1 Multitool
+https://github.com/tihmstar/libtakeover | GitHub - tihmstar/libtakeover: call functions in a remote process using Mach API
+https://blog.blazeinfosec.com/love-letters-from-the-red-team-from-e-mail-to-ntlm-hashes-with-microsoft-outlook/ | Love letters from the red team: from e-mail to NTLM hashes with Microsoft Outlook
+https://d4stiny.github.io/Remote-Code-Execution-on-most-Dell-computers/ | Remote Code Execution on most Dell computers – Bill Demirkapi's Blog – The adventures of a 17 year old security researcher.
+https://www.kitploit.com/2019/05/brutedum-brute-force-attacks-ssh-ftp.html | BruteDum - Brute Force Attacks SSH, FTP, Telnet, PostgreSQL, RDP, VNC With Hydra, Medusa And Ncrack
+https://www.sneakymonkey.net/2018/01/21/laps/ | Blue Team Basics - Local Admin Password Administration
+https://www.marcolancini.it/2018/blog-hacker-playbook-mindmap/ | Red Teaming Mind Map from The Hacker Playbook 3 – Marco Lancini
 

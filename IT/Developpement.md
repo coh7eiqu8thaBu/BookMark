@@ -5,6 +5,7 @@ Developpement
 * Roadmap to becoming a web developer in 2018 https://github.com/kamranahmedse/developer-roadmap
 * ![Stack Pivoting explaned](https://pbs.twimg.com/media/DYazigQUMAAuttg.jpg)
 * [Why is storing a plain-text password bad](http://plaintextoffenders.com/faq/devs)
+* [Learn language X in Y minutes](https://learnxinyminutes.com/)
 
 # C++
 * https://www.ossblog.org/master-c-programming-with-open-source-books/
