@@ -841,6 +841,104 @@ Pacu - The AWS Exploitation Framework, Designed For Testing The Security Of Amaz
 https://twitter.com/elkentaro/status/1073637687939088386
 Deep penetration testing covert option..... now what?
 
+GHIDRA : 
+ * https://github.com/NationalSecurityAgency/ghidra
+ * https://thehackernews.com/2019/03/ghidra-reverse-engineering-tool.html
+ * http://ghidra.re/online-courses/
+ * http://ghidra.re/CheatSheet.html
+
+A Pentester’s Guide – Part 1 (OSINT – Passive Recon and Discovery of Assets) - https://www.sequoiacybersolutions.com/a-pentesters-guide-part-1-osint-passive-recon-and-discovery-of-assets/
+A Pentester’s Guide Part 2 (OSINT – LinkedIn is Not Just for Jobs) - https://www.sequoiacybersolutions.com/a-pentesters-guide-part-2-osint-linkedin-is-not-just-for-jobs/
+
+SlideShare of Luca Bongiorni https://www.slideshare.net/iazza
+
+A datasource assessment on an event level to show potential ATT&CK coverage - https://github.com/olafhartong/ATTACKdatamap
+
+Pyrit - The Famous WPA Precomputed Cracker https://www.kitploit.com/2019/04/pyrit-famous-wpa-precomputed-cracker.html https://github.com/JPaulMora/Pyrit
+
+ mXtract v1.2 - Memory Extractor & Analyzer https://www.kitploit.com/2019/04/mxtract-v12-memory-extractor-analyzer.html https://github.com/rek7/mXtract
+
+New Offensive USB Cable Allows Remote Attacks over WiFi https://www.bleepingcomputer.com/news/security/new-offensive-usb-cable-allows-remote-attacks-over-wifi/
+
+GRR Rapid Response: remote live forensics for incident response https://github.com/google/grr
+
+A Post-Exploitation Scanning/Mapping Tool: Scavenger https://n0where.net/a-post-exploitation-scanning-mapping-tool-scavenger https://github.com/SpiderLabs/scavenger
+
+Feodo Tracker offers various blocklist in different formats for different purposes. The blacklists are documented below.
+https://feodotracker.abuse.ch/blocklist/
+https://feodotracker.abuse.ch/browse/
+
+WannaCry, un an après : un virus trop simple à désactiver https://cyberguerre.numerama.com/331-wannacry-un-an-apres-un-virus-tres-trop-simple-a-desactiver.html
+
+Introduction to SpiderMonkey exploitation. https://doar-e.github.io/blog/2018/11/19/introduction-to-spidermonkey-exploitation/
+
+Blazefox exploits for Windows 10 RS5 64-bit. https://github.com/0vercl0k/blazefox
+
+Making Meterpreter Look Google-Signed (Using MSI & JAR Files)
+https://medium.com/forensicitguy/making-meterpreter-look-google-signed-using-msi-jar-files-c0a7970ff8b7
+
+
+Network recon framework. https://ivre.rocks/
+https://github.com/cea-sec/ivre
+
+
+Social Engineering : How to nearly buy Google.com for £8
+https://theantisocialengineer.com/2016/10/21/how-to-nearly-buy-google-com-for-8/
+
+Un scraper Twitter qui dépote https://korben.info/un-scraper-twitter-qui-depote.html
+
+OSINT - Discovery IP Address of the target https://github.com/j3ssie/IPOsint
+
+Alert Wizard plugin for Graylog to manage the alert rules
+https://github.com/airbus-cyber/graylog-plugin-alert-wizard
+
+Population of world...
+https://pudding.cool/2018/10/city_3d/
+
+ANSSI : Bonnes pratiques pour l’acquisition et l’exploitation de noms de domaine
+https://www.ssi.gouv.fr/administration/guide/bonnes-pratiques-pour-lacquisition-et-lexploitation-de-noms-de-domaine/
+
+Search engines for hackers: 
+ * https://censys.io/  
+ * https://www.shodan.io/  
+ * https://viz.greynoise.io/table  
+ * https://www.zoomeye.org/  
+ * https://fofa.so/  
+ * https://www.onyphe.io/  
+ * https://app.binaryedge.io/  
+ * https://hunter.io/  
+ * https://wigle.net/ 
+
+attacks on PDF Signatures
+https://www.pdf-insecurity.org/signature/signature.html
+
+Reko - A General Purpose Binary Decompiler
+https://www.kitploit.com/2019/02/reko-general-purpose-binary-decompiler.html
+https://github.com/uxmal/reko
+
+What the HELK? SIGMA integration via Elastalert
+https://posts.specterops.io/what-the-helk-sigma-integration-via-elastalert-6edf1715b02
+
+Cuteit v0.2.1 - IP Obfuscator Made To Make A Malicious Ip A Bit Cuter 
+https://github.com/D4Vinci/Cuteit
+
+Infinite loop in javascript ...
+<script language="JavaScript">
+for ( ; ; ) {
+window.alert("　∧_∧　ババババ\n（ ・ω・)=つ≡つ\n（っ ≡つ=つ\n`/　　)\n(ノΠＵ\n何回閉じても無駄ですよ～ww\nm9（＾Д＾）プギャー！！\n　byソル (@0_Infinity_)")
+}
+</script>
+
+DNS-Shell - An Interactive Shell Over DNS Channel
+https://github.com/sensepost/DNS-Shell
+
+DOGE - Darknet Osint Graph Explorer 
+https://github.com/pielco11/DOGE
+
+
+Constrained Language Mode + AMSI bypass all in one
+https://github.com/decoder-it/powershellveryless
+
 https://krebsonsecurity.com/2012/10/the-scrap-value-of-a-hacked-pc-revisited/ The Scrap Value of a Hacked PC, Revisited
 
 https://github.com/KeepWannabe/Remot3d Remot3d v2.0 - Tool Created For Large Pentesters As Well As Just For The Pleasure Of Defacers To Control Server By Backdoors 
@@ -941,4 +1039,3 @@ https://d4stiny.github.io/Remote-Code-Execution-on-most-Dell-computers/ | Remote
 https://www.kitploit.com/2019/05/brutedum-brute-force-attacks-ssh-ftp.html | BruteDum - Brute Force Attacks SSH, FTP, Telnet, PostgreSQL, RDP, VNC With Hydra, Medusa And Ncrack
 https://www.sneakymonkey.net/2018/01/21/laps/ | Blue Team Basics - Local Admin Password Administration
 https://www.marcolancini.it/2018/blog-hacker-playbook-mindmap/ | Red Teaming Mind Map from The Hacker Playbook 3 – Marco Lancini
-
