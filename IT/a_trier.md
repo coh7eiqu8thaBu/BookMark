@@ -1044,4 +1044,9 @@ https://www.marcolancini.it/2018/blog-hacker-playbook-mindmap/ | Red Teaming Min
 * https://www.win.tue.nl/hashclash/
 * https://github.com/nneonneo/sha1collider
 * https://shattered.io/
+* https://github.com/corkami/collisions
+
+
+a "PoC or GTFO" mirror with extra article index, direct links and clean PDFs.
+ https://github.com/angea/pocorgtfo
 
