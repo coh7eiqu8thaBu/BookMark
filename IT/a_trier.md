@@ -85,9 +85,6 @@ https://github.com/samyk/keysweeper
 
 Alternative methods of becoming SYSTEM https://blog.xpnsec.com/becoming-system/
 
-NATO OpenSource Intelligence HandBook http://www.au.af.mil/au/awc/awcgate/nato/osint_hdbk.pdf
-
-
 Embeds a PowerShell script in the pixels of a PNG file and generates a oneliner to execute https://github.com/peewpw/Invoke-PSImage
 
 Red Teaming and Pentesting Tips http://synack.blog/posts/red-teaming-and-pentesting-tips/index.html
@@ -205,12 +202,7 @@ https://github.com/decal/werdlists
 
 Dumb trick of the day we got to use again recently in case you didn't know about it: Search AD with a GUI via built in tools. Command line: "C:\Windows\System32\rundll32.exe" dsquery.dll,OpenQueryWindow
 
-Datasploit - An OSINT Framework To Perform Various Recon Techniques On Companies, People, Phone Number, Bitcoin Addresses, Etc., Aggregate All The Raw Data, And Give Data In Multiple Formats
-https://www.kitploit.com/2018/09/datasploit-osint-framework-to-perform.html
-
-Offline OSINT: Using Public Data Sources for Network Enumeration https://www.ubeeri.com/blog/2018/3/27/offline-osint-using-public-data-sources-for-network-enumeration
-
-https://www.ubeeri.com/blog/2018/3/27/offline-osint-using-public-data-sources-for-network-enumeration https://github.com/ubeeri/Invoke-UserSimulator
+Simulates common user behaviour on local and remote Windows hosts. https://github.com/ubeeri/Invoke-UserSimulator
 
 A PowerShell tool which provides an easy way to check for shared passwords between Windows Active Directory accounts https://github.com/ubeeri/Invoke-PWAudit
 
@@ -660,7 +652,6 @@ https://www.a12d404.net/windows/2019/01/13/persistance-via-path-directories.html
 https://framapiaf.org/@Framasoft/101402239926929740 | Framasoft : "Les données que récolte Google, document complet …" - Framapiaf
 https://medium.com/@madrobot/ssrf-server-side-request-forgery-types-and-ways-to-exploit-it-part-1-29d034c27978 | SSRF - Server Side Request Forgery (Types and ways to exploit it) Part-1
 https://github.com/maestron/botnets | maestron/botnets: This is a collection of #botnet source codes, unorganized. For EDUCATIONAL PURPOSES ONLY
-https://www.kitploit.com/2019/01/h8mail-email-osint-and-password-breach.html | H8Mail - Email OSINT And Password Breach Hunting - KitPloit - PenTest & Hacking Tools for your CyberSecurity Kit ☣
 https://github.com/BusesCanFly/PRETty | BusesCanFly/PRETty: "PRinter Exploitation Toolkit" LAN automation tool
 https://www.kitploit.com/2018/12/stoq-open-source-framework-for.html | stoQ - An Open Source Framework For Enterprise Level Automated Analysis - KitPloit - PenTest & Hacking Tools for your CyberSecurity Kit ☣
 https://twitter.com/soaj1664ashar/status/1079791723889475586 | 𝔸𝕤𝕙𝕒𝕣 𝕁𝕒𝕧𝕖𝕕 sur Twitter : "Server-Side Request Forgery #SSRF Tools/Stuff https://t.co/Klcxbn7OM8 https://t.co/Pruy3KtHdD https://t.co/bjFjveIwrd https://t.co/yrshScjBEX https://t.co/V2UfVq3Ww6 https://t.co/iHTo6HxW9E https://t.co/sXZTRJssJA https://t.co/1fTRoxrnXZ https://t.co/QDJiUZ4utv"
@@ -846,9 +837,6 @@ GHIDRA :
  * https://thehackernews.com/2019/03/ghidra-reverse-engineering-tool.html
  * http://ghidra.re/online-courses/
  * http://ghidra.re/CheatSheet.html
-
-A Pentester’s Guide – Part 1 (OSINT – Passive Recon and Discovery of Assets) - https://www.sequoiacybersolutions.com/a-pentesters-guide-part-1-osint-passive-recon-and-discovery-of-assets/
-A Pentester’s Guide Part 2 (OSINT – LinkedIn is Not Just for Jobs) - https://www.sequoiacybersolutions.com/a-pentesters-guide-part-2-osint-linkedin-is-not-just-for-jobs/
 
 SlideShare of Luca Bongiorni https://www.slideshare.net/iazza
 
