@@ -12,6 +12,9 @@ OSINT
 * [Offline OSINT: Using Public Data Sources for Network Enumeration](https://www.ubeeri.com/blog/2018/3/27/offline-osint-using-public-data-sources-for-network-enumeration)
 * [H8Mail](https://www.kitploit.com/2019/01/h8mail-email-osint-and-password-breach.html) - Email OSINT And Password Breach Hunting - KitPloit - PenTest & Hacking Tools for your CyberSecurity Kit ☣ - [GitHub link](https://github.com/khast3x/h8mail)
 
+# List of ressources
+* https://github.com/imuledx/OSINT_sources
+
 
 # Book and guide for OSINT
 * [NATO OpenSource Intelligence HandBook](http://www.au.af.mil/au/awc/awcgate/nato/osint_hdbk.pdf)

@@ -55,6 +55,8 @@ Developpement
 * Python2/3 library providing an easy interface to the Bitcoin data structures and protocol. https://github.com/petertodd/python-bitcoinlib
 * The python graph gallery https://t.co/dOOetYLZxG
 * The R graph gallery http://www.r-graph-gallery.com/ 
+* [Apprenez à programmer en Python](https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python)
+* 
 
 # Backdoor software
 * Inject malicious code into .debs https://github.com/UndeadSec/Debinject
