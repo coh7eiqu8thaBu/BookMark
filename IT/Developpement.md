@@ -6,6 +6,7 @@ Developpement
 * ![Stack Pivoting explaned](https://pbs.twimg.com/media/DYazigQUMAAuttg.jpg)
 * [Why is storing a plain-text password bad](http://plaintextoffenders.com/faq/devs)
 * [Learn language X in Y minutes](https://learnxinyminutes.com/)
+* The importance of knowing how to correctly use the while loop ![Image](https://pbs.twimg.com/media/D_Sq6qXXkAAJ8Hi.jpg)
 
 # C++
 * https://www.ossblog.org/master-c-programming-with-open-source-books/
@@ -56,7 +57,7 @@ Developpement
 * The python graph gallery https://t.co/dOOetYLZxG
 * The R graph gallery http://www.r-graph-gallery.com/ 
 * [Apprenez à programmer en Python](https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python)
-* 
+* [Python 3 : des fondamentaux aux concepts avancés du langage ](https://www.fun-mooc.fr/courses/course-v1:UCA+107001+session02/about)
 
 # Backdoor software
 * Inject malicious code into .debs https://github.com/UndeadSec/Debinject

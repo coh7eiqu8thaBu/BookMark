@@ -1038,3 +1038,5 @@ https://www.marcolancini.it/2018/blog-hacker-playbook-mindmap/ | Red Teaming Min
 a "PoC or GTFO" mirror with extra article index, direct links and clean PDFs.
  https://github.com/angea/pocorgtfo
 
+* [Defcon 19: DIY Non-Destructive-Entry](https://www.youtube.com/watch?v=ChbyaXBKNY8)
+* [I'll Let Myself In: Tactics of Physical Pen Testers](https://www.youtube.com/watch?v=rnmcRTnTNC8)

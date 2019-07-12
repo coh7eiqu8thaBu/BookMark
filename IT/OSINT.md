@@ -14,6 +14,7 @@ OSINT
 
 # List of ressources
 * https://github.com/imuledx/OSINT_sources
+* https://github.com/thenaturalist/awesome-business-intelligence
 
 
 # Book and guide for OSINT
@@ -21,4 +22,5 @@ OSINT
 * A Pentester’s Guide - Part 1 (OSINT – Passive Recon and Discovery of Assets) - https://www.sequoiacybersolutions.com/a-pentesters-guide-part-1-osint-passive-recon-and-discovery-of-assets/
 * A Pentester’s Guide - Part 2 (OSINT – LinkedIn is Not Just for Jobs) - https://www.sequoiacybersolutions.com/a-pentesters-guide-part-2-osint-linkedin-is-not-just-for-jobs/
 
-
+# moteur et Meta moteur
+* [_IntelligenceX](https://intelx.io/tools)

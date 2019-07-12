@@ -4,8 +4,16 @@ Google Dork
 # Exploit Database
 * https://www.exploit-db.com/google-hacking-database
 
-# From Deep Web
+# Guide
+* http://www.google-dorking.com/
+* http://www.googleguide.com/advanced_operators_reference.html and in [PDF](http://www.googleguide.com/print/adv_op_ref.pdf)
 
+# Tools
+* Goohak 	https://github.com/1N3/Goohak/
+* GoogD0rker 	https://github.com/ZephrFish/GoogD0rker/
+
+# From Deep Web
+```
 filetype:htpasswd htpasswd
 intitle:"Index of” “.htpasswd” -intitle:"dist” -apache -htpasswd.c
 index.of.private (algo privado)
@@ -1830,3 +1838,4 @@ debate-detail.php?id=
 /calendar.php?pg= calendar.php?pg=
 /calendar.php?s= calendar.php?s=”
 /calendar.php?s= calendar.php?s=
+```
