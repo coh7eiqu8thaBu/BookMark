@@ -5,7 +5,7 @@ Google Dork
 * https://www.exploit-db.com/google-hacking-database
 
 # From Deep Web
-
+```
 filetype:htpasswd htpasswd
 intitle:"Index of” “.htpasswd” -intitle:"dist” -apache -htpasswd.c
 index.of.private (algo privado)
@@ -1830,3 +1830,4 @@ debate-detail.php?id=
 /calendar.php?pg= calendar.php?pg=
 /calendar.php?s= calendar.php?s=”
 /calendar.php?s= calendar.php?s=
+```

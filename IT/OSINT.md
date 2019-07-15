@@ -11,14 +11,15 @@ OSINT
 * [Datasploit](https://www.kitploit.com/2018/09/datasploit-osint-framework-to-perform.html) - An OSINT Framework To Perform Various Recon Techniques On Companies, People, Phone Number, Bitcoin Addresses, Etc., Aggregate All The Raw Data, And Give Data In Multiple Formats. Download at [GitHub](https://github.com/DataSploit/datasploit)
 * [Offline OSINT: Using Public Data Sources for Network Enumeration](https://www.ubeeri.com/blog/2018/3/27/offline-osint-using-public-data-sources-for-network-enumeration)
 * [H8Mail](https://www.kitploit.com/2019/01/h8mail-email-osint-and-password-breach.html) - Email OSINT And Password Breach Hunting - KitPloit - PenTest & Hacking Tools for your CyberSecurity Kit ☣ - [GitHub link](https://github.com/khast3x/h8mail)
+* [Some OSINT scripts](https://github.com/ShrewkRoot/OSINT-SCRIPTS)
+* [Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application](https://github.com/apache/incubator-superset/)
+* [A curated list of awesome tools to interact with data. ToC split by SaaS and OSS (Open Source Software)](https://github.com/thenaturalist/awesome-business-intelligence)
 
 # List of ressources
 * https://github.com/imuledx/OSINT_sources
-
 
 # Book and guide for OSINT
 * [NATO OpenSource Intelligence HandBook](http://www.au.af.mil/au/awc/awcgate/nato/osint_hdbk.pdf)
 * A Pentester’s Guide - Part 1 (OSINT – Passive Recon and Discovery of Assets) - https://www.sequoiacybersolutions.com/a-pentesters-guide-part-1-osint-passive-recon-and-discovery-of-assets/
 * A Pentester’s Guide - Part 2 (OSINT – LinkedIn is Not Just for Jobs) - https://www.sequoiacybersolutions.com/a-pentesters-guide-part-2-osint-linkedin-is-not-just-for-jobs/
-
 
