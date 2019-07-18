@@ -14,6 +14,12 @@ OSINT
 * [Some OSINT scripts](https://github.com/ShrewkRoot/OSINT-SCRIPTS)
 * [Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application](https://github.com/apache/incubator-superset/)
 * [A curated list of awesome tools to interact with data. ToC split by SaaS and OSS (Open Source Software)](https://github.com/thenaturalist/awesome-business-intelligence)
+* [Subdomain Enumeration: 2019 Workflow](https://0xpatrik.com/subdomain-enumeration-2019/)
+* [Aquatone - A Tool for Domain Flyovers](https://github.com/michenriksen/aquatone) and https://michenriksen.com/blog/aquatone-now-in-go/
+* [Find Subdomains Instantly](https://findsubdomains.com/)
+* [Find Subdomains is an online tool to discover subdomains of a target domain. Find the list of subdomains and discover the attack surface of a company.](https://pentest-tools.com/information-gathering/find-subdomains-of-domain)
+* [MegaSearch.co - Best file search engine on the web (uptobox, mega, uploaded, uplea, mediafire...)](http://megasearch.co/)
+* [Leak-Lookup | Database Search Engine](https://leak-lookup.com/databases) - Leak - Lookup makes searching database leaks easy and fast. Offering username, email, ipaddress look-ups over thousands of data breaches / dumps, it's easy to stay on top of credentials compromised in the wild.
 
 # List of ressources
 * https://github.com/imuledx/OSINT_sources
@@ -22,4 +28,10 @@ OSINT
 * [NATO OpenSource Intelligence HandBook](http://www.au.af.mil/au/awc/awcgate/nato/osint_hdbk.pdf)
 * A Pentester’s Guide - Part 1 (OSINT – Passive Recon and Discovery of Assets) - https://www.sequoiacybersolutions.com/a-pentesters-guide-part-1-osint-passive-recon-and-discovery-of-assets/
 * A Pentester’s Guide - Part 2 (OSINT – LinkedIn is Not Just for Jobs) - https://www.sequoiacybersolutions.com/a-pentesters-guide-part-2-osint-linkedin-is-not-just-for-jobs/
+
+# Website with ton of leak
+* [OK at 20190718](http://185.197.30.221/?dir=down%2Fpasswds)
+* [OK at 20190718](https://b4ckdoorarchive.host/HELL-ARCHIVE/)
+* [OK at 20190718](http://www.flashteam.xyz/c/)
+* [OK at 20190718](https://192.169.136.87/)
 
