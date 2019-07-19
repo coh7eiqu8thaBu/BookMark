@@ -20,6 +20,7 @@ OSINT
 * [Find Subdomains is an online tool to discover subdomains of a target domain. Find the list of subdomains and discover the attack surface of a company.](https://pentest-tools.com/information-gathering/find-subdomains-of-domain)
 * [MegaSearch.co - Best file search engine on the web (uptobox, mega, uploaded, uplea, mediafire...)](http://megasearch.co/)
 * [Leak-Lookup | Database Search Engine](https://leak-lookup.com/databases) - Leak - Lookup makes searching database leaks easy and fast. Offering username, email, ipaddress look-ups over thousands of data breaches / dumps, it's easy to stay on top of credentials compromised in the wild.
+* [Semi-automated, feedback-driven tool to rapidly search through troves of public data on GitHub for sensitive secrets.](https://github.com/BishopFox/GitGot)
 
 # List of ressources
 * https://github.com/imuledx/OSINT_sources
@@ -34,4 +35,10 @@ OSINT
 * [OK at 20190718](https://b4ckdoorarchive.host/HELL-ARCHIVE/)
 * [OK at 20190718](http://www.flashteam.xyz/c/)
 * [OK at 20190718](https://192.169.136.87/)
+
+# Good sources of Leaks
+* https://pastebeen.com/last_ten_dumps
+* https://scylla.sh/
+* https://cracked.to/Thread-Leak-Collection-1-5-Zabagur-AntiPublic-Latest-120GB-1TB-TOTAL-Leaked-Download
+* https://xss.is/
 
