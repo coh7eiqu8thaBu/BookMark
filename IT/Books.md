@@ -42,6 +42,7 @@ open sources to design personalised cyber attacks.
 * https://www.hackthebox.eu/ Hack The Box :: Penetration Testing Labs
 * 34C3 Junior CTF pwnables https://github.com/tharina/34c3ctf
 * Ten Immutable Laws Of Security (Version 2.0) https://technet.microsoft.com/library/hh278941.aspx
+* [Guide de crochetage](https://intrusion.eu/wp-content/uploads/2019/01/Guide_de_crochetage_ATS_Pentest.pdf)
 
 # Conferences
 * Many PDFs of #Botconf2017 slide decks have been uploaded https://www.botconf.eu/botconf-2017/programme/botconf-2017-talks/
