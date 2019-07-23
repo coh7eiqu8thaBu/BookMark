@@ -1038,3 +1038,12 @@ https://www.marcolancini.it/2018/blog-hacker-playbook-mindmap/ | Red Teaming Min
 a "PoC or GTFO" mirror with extra article index, direct links and clean PDFs.
  https://github.com/angea/pocorgtfo
 
+Getting Started with ATT&CK: Adversary Emulation and Red Teaming https://medium.com/mitre-attack/getting-started-with-attack-red-29f074ccf7e3
+
+Real-time detection of high-risk attacks leveraging Kerberos and SMB https://github.com/sisoc-tokyo/Real-timeDetectionAD_ver2
+
+API Penetration Testing -Checklist. https://twitter.com/Alra3ees/status/1143230535172546560
+
+CRC RevEng: arbitrary-precision CRC calculator and algorithm finder http://reveng.sourceforge.net/
+
+
