@@ -24,6 +24,7 @@ OSINT
 
 # List of ressources
 * https://github.com/imuledx/OSINT_sources
+* https://github.com/thenaturalist/awesome-business-intelligence
 
 # Book and guide for OSINT
 * [NATO OpenSource Intelligence HandBook](http://www.au.af.mil/au/awc/awcgate/nato/osint_hdbk.pdf)
@@ -35,6 +36,12 @@ OSINT
 * [OK at 20190718](https://b4ckdoorarchive.host/HELL-ARCHIVE/)
 * [OK at 20190718](http://www.flashteam.xyz/c/)
 * [OK at 20190718](https://192.169.136.87/)
+
+# moteur et Meta moteur
+* [_IntelligenceX](https://intelx.io/tools)
+* [FoFa](https://fofa.so) Chineese Shodan
+* [Shodan](https://shodan.io)
+* [Facebook graph search workaround](https://mtg-bi.com/content/facebook-graph-search-workaround)
 
 # Good sources of Leaks
 * https://pastebeen.com/last_ten_dumps

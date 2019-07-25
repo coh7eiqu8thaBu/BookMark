@@ -4,33 +4,41 @@ Google Dork
 # Exploit Database
 * https://www.exploit-db.com/google-hacking-database
 
+# Guide
+* http://www.google-dorking.com/
+* http://www.googleguide.com/advanced_operators_reference.html and in [PDF](http://www.googleguide.com/print/adv_op_ref.pdf)
+
+# Tools
+* Goohak 	https://github.com/1N3/Goohak/
+* GoogD0rker 	https://github.com/ZephrFish/GoogD0rker/
+
 # From Deep Web
 ```
 filetype:htpasswd htpasswd
-intitle:"Index of” “.htpasswd” -intitle:"dist” -apache -htpasswd.c
+intitle:"Index ofï¿½ ï¿½.htpasswdï¿½ -intitle:"distï¿½ -apache -htpasswd.c
 index.of.private (algo privado)
 intitle:index.of master.passwd
 inurlasslist.txt
-intitle:"Index of..etc” passwd
+intitle:"Index of..etcï¿½ passwd
 intitle:admin intitle:login
-“Incorrect syntax near” (SQL script error)
-intitle:"the page cannot be found” inetmgr
+ï¿½Incorrect syntax nearï¿½ (SQL script error)
+intitle:"the page cannot be foundï¿½ inetmgr
 intitle:index.of ws_ftp.ini
-“Supplied arguments is not a valid PostgreSQL result” (possible debilidad SQL)
+ï¿½Supplied arguments is not a valid PostgreSQL resultï¿½ (possible debilidad SQL)
 _vti_pvt password intitle:index.of (Frontpage)
 inurl:backup intitle:index.of inurl:admin
-“Index of /backup”
+ï¿½Index of /backupï¿½
 index.of.password
 index.of.winnt
-inurl:"auth_user_file.txt”
-“Index of /admin”
-“Index of /password”
-“Index of /mail”
-“Index of /” +passwd
-Index of /” +.htaccess
+inurl:"auth_user_file.txtï¿½
+ï¿½Index of /adminï¿½
+ï¿½Index of /passwordï¿½
+ï¿½Index of /mailï¿½
+ï¿½Index of /ï¿½ +passwd
+Index of /ï¿½ +.htaccess
 Index of ftp +.mdb allinurl:/cgi-bin/ +mailto
-allintitle: “index of/admin”
-allintitle: “index of/root”
+allintitle: ï¿½index of/adminï¿½
+allintitle: ï¿½index of/rootï¿½
 allintitle: sensitive filetype:doc
 allintitle: restricted filetype :mail
 allintitle: restricted filetype:doc site:gov
@@ -42,21 +50,21 @@ gobal.asax index
 inurlasswd filetype:txt
 inurl:admin filetype:db
 inurl:iisadmin
-inurl:"auth_user_file.txt”
-inurl:"wwwroot/*.”
+inurl:"auth_user_file.txtï¿½
+inurl:"wwwroot/*.ï¿½
 allinurl: winnt/system32/ (get cmd.exe)
 allinurl:/bash_history
-intitle:"Index of” .sh_history
-intitle:"Index of” .bash_history
-intitle:"Index of” passwd
-intitle:"Index of” people.1st
-intitle:"Index of” pwd.db
-intitle:"Index of” etc/shadow
-intitle:"Index of” spwd
-intitle:"Index of” master.passwd
-intitle:"Index of” htpasswd
-intitle:"Index of” members OR accounts
-intitle:"Index of” user_carts OR user _cart
+intitle:"Index ofï¿½ .sh_history
+intitle:"Index ofï¿½ .bash_history
+intitle:"Index ofï¿½ passwd
+intitle:"Index ofï¿½ people.1st
+intitle:"Index ofï¿½ pwd.db
+intitle:"Index ofï¿½ etc/shadow
+intitle:"Index ofï¿½ spwd
+intitle:"Index ofï¿½ master.passwd
+intitle:"Index ofï¿½ htpasswd
+intitle:"Index ofï¿½ members OR accounts
+intitle:"Index ofï¿½ user_carts OR user _cart
 
 view_items.php?id=
 home.php?cat=
@@ -1651,145 +1659,145 @@ newsItem.php?newsId=
 site/en/list_service.php?cat=
 page.php?area_id=
 product.php?ProductID=
-.php?subd=”
-.php?subdir=”
-.php?category=”
-.php?choice=”
-.php?class=”
-.php?club_id=”
-.php?cod.tipo=”
-.php?cod=”
-.php?conf=”
-.php?configFile=”
-.php?cont=”
-.php?corpo=”
-.php?cvsroot=”
-.php?d=”
-.php?da=”
-.php?date=”
-.php?debug=”
-.php?debut=”
-.php?default=”
-.php?destino=”
-.php?dir=”
-.php?display=”
-.php?file_id=”
-.php?file=”
-.php?filepath=”
-.php?flash=”
-.php?folder=”
-.php?for=”
-.php?form=”
-.php?formatword=”
-.php?funcao=”
-.php?function=”
-.php?g=”
-.php?get=”
-.php?go=”
-.php?gorumDir=”
-.php?goto=”
-.php?h=”
-.php?headline=”
-.php?i=”
-.php?inc=”
-.php?include=”
-.php?includedir=”
-.php?inter=”
-.php?itemid=”
-.php?j=”
-.php?join=”
-.php?jojo=”
-.php?l=”
-.php?lan=”
-.php?lang=”
-.php?link=”
-.php?load=”
-.php?loc=”
-.php?m=”
-.php?main=”
-.php?meio.php=”
-.php?meio=”
-.php?menu=”
-.php?menuID=”
-.php?mep=”
-.php?month=”
-.php?mostra=”
-.php?n=”
-.php?name=”
-.php?nav=”
-.php?new=”
-.php?news=”
-.php?next=”
-.php?nextpage=”
-.php?o=”
-.php?op=”
-.php?open=”
-.php?option=”
-.php?origem=”
-.php?Page_ID=”
-.php?pageurl=”
-.php?para=”
-.php?part=”
-.php?pg=”
-.php?pid=”
-.php?place=”
-.php?play=”
-.php?plugin=”
-.php?pm_path=”
-.php?pollname=”
-.php?post=”
-.php?pr=”
-.php?prefix=”
-.php?prefixo=”
-.php?q=”
-.php?redirect=”
-.php?ref=”
-.php?refid=”
-.php?regionId=”
-.php?release_id=”
-.php?release=”
-.php?return=”
-.php?root=”
-.php?S=”
-.php?searchcode_id=”
-.php?sec=”
-.php?secao=”
-.php?sect=”
-.php?sel=”
-.php?server=”
-.php?servico=”
-.php?sg=”
-.php?shard=”
-.php?show=”
-.php?sid=”
-.php?site=”
-.php?sourcedir=”
-.php?start=”
-.php?storyid=”
-.php?str=”
-.php?subject=”
-.php?sufixo=”
-.php?systempath=”
-.php?t=”
-.php?task=”
-.php?teste=”
-.php?theme_dir=”
-.php?thread_id=”
-.php?tid=”
-.php?title=”
-.php?to=”
-.php?topic_id=”
-.php?type=”
-.php?u=”
-.php?url=”
-.php?urlFrom=”
-.php?v=”
-.php?var=”
-.php?vi=”
-.php?view=”
-.php?visual=”
-.php?wPage=”
-.php?y=”
+.php?subd=ï¿½
+.php?subdir=ï¿½
+.php?category=ï¿½
+.php?choice=ï¿½
+.php?class=ï¿½
+.php?club_id=ï¿½
+.php?cod.tipo=ï¿½
+.php?cod=ï¿½
+.php?conf=ï¿½
+.php?configFile=ï¿½
+.php?cont=ï¿½
+.php?corpo=ï¿½
+.php?cvsroot=ï¿½
+.php?d=ï¿½
+.php?da=ï¿½
+.php?date=ï¿½
+.php?debug=ï¿½
+.php?debut=ï¿½
+.php?default=ï¿½
+.php?destino=ï¿½
+.php?dir=ï¿½
+.php?display=ï¿½
+.php?file_id=ï¿½
+.php?file=ï¿½
+.php?filepath=ï¿½
+.php?flash=ï¿½
+.php?folder=ï¿½
+.php?for=ï¿½
+.php?form=ï¿½
+.php?formatword=ï¿½
+.php?funcao=ï¿½
+.php?function=ï¿½
+.php?g=ï¿½
+.php?get=ï¿½
+.php?go=ï¿½
+.php?gorumDir=ï¿½
+.php?goto=ï¿½
+.php?h=ï¿½
+.php?headline=ï¿½
+.php?i=ï¿½
+.php?inc=ï¿½
+.php?include=ï¿½
+.php?includedir=ï¿½
+.php?inter=ï¿½
+.php?itemid=ï¿½
+.php?j=ï¿½
+.php?join=ï¿½
+.php?jojo=ï¿½
+.php?l=ï¿½
+.php?lan=ï¿½
+.php?lang=ï¿½
+.php?link=ï¿½
+.php?load=ï¿½
+.php?loc=ï¿½
+.php?m=ï¿½
+.php?main=ï¿½
+.php?meio.php=ï¿½
+.php?meio=ï¿½
+.php?menu=ï¿½
+.php?menuID=ï¿½
+.php?mep=ï¿½
+.php?month=ï¿½
+.php?mostra=ï¿½
+.php?n=ï¿½
+.php?name=ï¿½
+.php?nav=ï¿½
+.php?new=ï¿½
+.php?news=ï¿½
+.php?next=ï¿½
+.php?nextpage=ï¿½
+.php?o=ï¿½
+.php?op=ï¿½
+.php?open=ï¿½
+.php?option=ï¿½
+.php?origem=ï¿½
+.php?Page_ID=ï¿½
+.php?pageurl=ï¿½
+.php?para=ï¿½
+.php?part=ï¿½
+.php?pg=ï¿½
+.php?pid=ï¿½
+.php?place=ï¿½
+.php?play=ï¿½
+.php?plugin=ï¿½
+.php?pm_path=ï¿½
+.php?pollname=ï¿½
+.php?post=ï¿½
+.php?pr=ï¿½
+.php?prefix=ï¿½
+.php?prefixo=ï¿½
+.php?q=ï¿½
+.php?redirect=ï¿½
+.php?ref=ï¿½
+.php?refid=ï¿½
+.php?regionId=ï¿½
+.php?release_id=ï¿½
+.php?release=ï¿½
+.php?return=ï¿½
+.php?root=ï¿½
+.php?S=ï¿½
+.php?searchcode_id=ï¿½
+.php?sec=ï¿½
+.php?secao=ï¿½
+.php?sect=ï¿½
+.php?sel=ï¿½
+.php?server=ï¿½
+.php?servico=ï¿½
+.php?sg=ï¿½
+.php?shard=ï¿½
+.php?show=ï¿½
+.php?sid=ï¿½
+.php?site=ï¿½
+.php?sourcedir=ï¿½
+.php?start=ï¿½
+.php?storyid=ï¿½
+.php?str=ï¿½
+.php?subject=ï¿½
+.php?sufixo=ï¿½
+.php?systempath=ï¿½
+.php?t=ï¿½
+.php?task=ï¿½
+.php?teste=ï¿½
+.php?theme_dir=ï¿½
+.php?thread_id=ï¿½
+.php?tid=ï¿½
+.php?title=ï¿½
+.php?to=ï¿½
+.php?topic_id=ï¿½
+.php?type=ï¿½
+.php?u=ï¿½
+.php?url=ï¿½
+.php?urlFrom=ï¿½
+.php?v=ï¿½
+.php?var=ï¿½
+.php?vi=ï¿½
+.php?view=ï¿½
+.php?visual=ï¿½
+.php?wPage=ï¿½
+.php?y=ï¿½
 
 releases_headlines_details.php?id=
 store_bycat.php?id=
@@ -1822,12 +1830,12 @@ product.php?prd=
 cat/?catid=
 products/product-list.php?id=
 debate-detail.php?id=
-/calendar.php?l= calendar.php?l=”
+/calendar.php?l= calendar.php?l=ï¿½
 /calendar.php?l= calendar.php?l=
-/calendar.php?p= calendar.php?p=”
+/calendar.php?p= calendar.php?p=ï¿½
 /calendar.php?p= calendar.php?p=
-/calendar.php?pg= calendar.php?pg=”
+/calendar.php?pg= calendar.php?pg=ï¿½
 /calendar.php?pg= calendar.php?pg=
-/calendar.php?s= calendar.php?s=”
+/calendar.php?s= calendar.php?s=ï¿½
 /calendar.php?s= calendar.php?s=
 ```

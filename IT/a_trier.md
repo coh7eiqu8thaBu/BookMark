@@ -1039,6 +1039,8 @@ a "PoC or GTFO" mirror with extra article index, direct links and clean PDFs.
  https://github.com/angea/pocorgtfo
 
 Getting Started with ATT&CK: Adversary Emulation and Red Teaming https://medium.com/mitre-attack/getting-started-with-attack-red-29f074ccf7e3
+* [Defcon 19: DIY Non-Destructive-Entry](https://www.youtube.com/watch?v=ChbyaXBKNY8)
+* [I'll Let Myself In: Tactics of Physical Pen Testers](https://www.youtube.com/watch?v=rnmcRTnTNC8)
 
 Real-time detection of high-risk attacks leveraging Kerberos and SMB https://github.com/sisoc-tokyo/Real-timeDetectionAD_ver2
 
