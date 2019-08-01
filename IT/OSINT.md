@@ -21,6 +21,7 @@ OSINT
 * [MegaSearch.co - Best file search engine on the web (uptobox, mega, uploaded, uplea, mediafire...)](http://megasearch.co/)
 * [Leak-Lookup | Database Search Engine](https://leak-lookup.com/databases) - Leak - Lookup makes searching database leaks easy and fast. Offering username, email, ipaddress look-ups over thousands of data breaches / dumps, it's easy to stay on top of credentials compromised in the wild.
 * [Semi-automated, feedback-driven tool to rapidly search through troves of public data on GitHub for sensitive secrets.](https://github.com/BishopFox/GitGot)
+* [Blockchain Transactions Investigation Tool](https://github.com/s0md3v/Orbit)
 
 # List of ressources
 * https://github.com/imuledx/OSINT_sources
@@ -30,6 +31,10 @@ OSINT
 * [NATO OpenSource Intelligence HandBook](http://www.au.af.mil/au/awc/awcgate/nato/osint_hdbk.pdf)
 * A Pentester’s Guide - Part 1 (OSINT – Passive Recon and Discovery of Assets) - https://www.sequoiacybersolutions.com/a-pentesters-guide-part-1-osint-passive-recon-and-discovery-of-assets/
 * A Pentester’s Guide - Part 2 (OSINT – LinkedIn is Not Just for Jobs) - https://www.sequoiacybersolutions.com/a-pentesters-guide-part-2-osint-linkedin-is-not-just-for-jobs/
+* [Scraping - L'OSINT au service des entreprises](https://docs.google.com/presentation/d/1OFGNnvTpfVs9uL4oLf53THdxC1UVh7B8drXl7b5aciE/mobilepresent#slide=id.p)
+* [Estimating the success of re-identifications in incomplete datasets using generative models](https://www.nature.com/articles/s41467-019-10933-3)
+* [Robust De-anonymization of Large Sparse Datasets](https://www.cs.cornell.edu/~shmat/shmat_oak08netflix.pdf)
+* IppSec - https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA
 
 # Website with ton of leak
 * [OK at 20190718](http://185.197.30.221/?dir=down%2Fpasswds)
