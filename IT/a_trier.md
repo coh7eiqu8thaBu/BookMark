@@ -1036,3 +1036,11 @@ CRC RevEng: arbitrary-precision CRC calculator and algorithm finder http://reven
 [Bit.do URL Shortener - Shorten, customize and track your links. Make a long URL short, easy to remember and to share. With traffic stats.](https://bit.do/) - Add a dash at the end of the shortened url to win acces to stats and real destination.
 [Les réductions d'URLs et la sécurité](https://www.malekal.com/reductions-urls-securite/) Les problèmes de sécurité que posent les réductions d'URLs. Comment révéler/voir l'URL finale sans avoir à cliquer dessus
 
+# BlockList URL
+* https://firebog.net/
+* https://discourse.pi-hole.net/t/update-the-best-blocking-lists-for-the-pi-hole-alternative-dns-servers-2019/13620
+* Light @ 327KB (~20,000 domains): Chad Mayfield (from Top 1M) https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list
+* Heavy @ ~45MB (~1.7m domains): Chad Mayfield (All) https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_all.list
+* https://chadmayfield.com/2017/06/29/blocking-porn-with-pihole/
+
+
