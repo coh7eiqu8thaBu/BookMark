@@ -1011,6 +1011,7 @@ https://twitter.com/Benazdia/status/1110814927768481792
  * https://www.kitploit.com/2019/05/brutedum-brute-force-attacks-ssh-ftp.html | BruteDum - Brute Force Attacks SSH, FTP, Telnet, PostgreSQL, RDP, VNC With Hydra, Medusa And Ncrack
  * https://www.sneakymonkey.net/2018/01/21/laps/ | Blue Team Basics - Local Admin Password Administration
  * https://www.marcolancini.it/2018/blog-hacker-playbook-mindmap/ | Red Teaming Mind Map from The Hacker Playbook 3 – Marco Lancini
+ * [Draw.io for threat modeling](https://michenriksen.com/blog/drawio-for-threat-modeling/)
 
 ## Collision MD5
 * https://www.win.tue.nl/hashclash/

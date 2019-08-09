@@ -58,3 +58,4 @@ Forensic and Incident Response
 	1 `qemu-arm-static -L /usr/arm-linux-gnueabi/ -g 1234 ../vuln &`
 	2 Install pwndbg (https://github.com/bkerler/pwndbg  for add. fixes) or gef 
 	3 `gdb-multiarch ../vuln` In GDB: set endian little, set architecture arm, target remote :1234
+* [Bruteforce the Android Passcode given the hash and salt.](https://github.com/pentesteres/androidpincrack)

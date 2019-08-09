@@ -22,6 +22,9 @@ OSINT
 * [Leak-Lookup | Database Search Engine](https://leak-lookup.com/databases) - Leak - Lookup makes searching database leaks easy and fast. Offering username, email, ipaddress look-ups over thousands of data breaches / dumps, it's easy to stay on top of credentials compromised in the wild.
 * [Semi-automated, feedback-driven tool to rapidly search through troves of public data on GitHub for sensitive secrets.](https://github.com/BishopFox/GitGot)
 * [Blockchain Transactions Investigation Tool](https://github.com/s0md3v/Orbit)
+* [A toolkit for CDX indices such as Common Crawl and the Internet Archive's Wayback Machine](https://github.com/cocrawler/cdx_toolkit)
+* [Project iKy is a tool that collects information from an email and shows results in a nice visual interface.](https://gitlab.com/kennbroorg/iKy/)
+* [CHNSTATCC - RealTime Satelite position](http://8.9.36.135/track/track.php)
 
 # List of ressources
 * https://github.com/imuledx/OSINT_sources
@@ -35,6 +38,8 @@ OSINT
 * [Estimating the success of re-identifications in incomplete datasets using generative models](https://www.nature.com/articles/s41467-019-10933-3)
 * [Robust De-anonymization of Large Sparse Datasets](https://www.cs.cornell.edu/~shmat/shmat_oak08netflix.pdf)
 * IppSec - https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA
+* [A Beginner’s Guide to OSINT Investigation with Maltego](https://medium.com/@raebaker/a-beginners-guide-to-osint-investigation-with-maltego-6b195f7245cc)
+* [WorkShop LeHack 2019](https://github.com/shrewkroot/workshop)
 
 # Website with ton of leak
 * [OK at 20190718](http://185.197.30.221/?dir=down%2Fpasswds)
@@ -43,10 +48,11 @@ OSINT
 * [OK at 20190718](https://192.169.136.87/)
 
 # moteur et Meta moteur
-* [_IntelligenceX](https://intelx.io/tools)
+* [IntelligenceX](https://intelx.io/tools)
 * [FoFa](https://fofa.so) Chineese Shodan
 * [Shodan](https://shodan.io)
 * [Facebook graph search workaround](https://mtg-bi.com/content/facebook-graph-search-workaround)
+* [Onyphe](https://www.onyphe.io/search/)
 
 # Good sources of Leaks
 * https://pastebeen.com/last_ten_dumps
@@ -54,3 +60,9 @@ OSINT
 * https://cracked.to/Thread-Leak-Collection-1-5-Zabagur-AntiPublic-Latest-120GB-1TB-TOTAL-Leaked-Download
 * https://xss.is/
 
+# Physical Pentest
+## Lockpicking
+
+## Biometric
+* [Cloning Fingerprints Like A Boss: 101 Edition](https://medium.com/@LucaBongiorni/cloning-fingerprints-like-a-boss-101-edition-893468ecc826)
+* [Clone a voice in 5 seconds to generate arbitrary speech in real-time](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
