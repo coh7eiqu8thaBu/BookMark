@@ -33,7 +33,7 @@ open sources to design personalised cyber attacks.
 * http://www.computersecuritystudent.com/HOME/index.html ComputerSecurityStudent (CSS)
 * Blue Team Training Toolkit https://www.bt3.no/
 * This repository is to make life of the pentester easy as it is a collection of the websites that can be used by pentesters for day to day studies and to remain updated. https://github.com/HSIS007/Useful_Websites_For_Pentester
-* A collection of various awesome lists for hackers, pentesters and security researchers https://github.com/Hack-with-Github/Awesome-Hacking 
+* A collection of various awesome lists for hackers, pentesters and security researchers https://github.com/Hack-with-Github/Awesome-Hacking
 * How to solve the Malwarebytes CrackMe: a step-by-step tutorial : https://blog.malwarebytes.com/malwarebytes-news/2017/11/how-to-solve-the-malwarebytes-crackme-a-step-by-step-tutorial/
 * A penetration tester�s guide to sub-domain enumeration https://blog.appsecco.com/a-penetration-testers-guide-to-sub-domain-enumeration-7d842d5570f6
 * How to use GIT like a pro https://github.com/k88hudson/git-flight-rules
@@ -42,7 +42,8 @@ open sources to design personalised cyber attacks.
 * https://www.hackthebox.eu/ Hack The Box :: Penetration Testing Labs
 * 34C3 Junior CTF pwnables https://github.com/tharina/34c3ctf
 * Ten Immutable Laws Of Security (Version 2.0) https://technet.microsoft.com/library/hh278941.aspx
-* [Guide de crochetage](https://intrusion.eu/wp-content/uploads/2019/01/Guide_de_crochetage_ATS_Pentest.pdf)
+* [Références Infosec de FuraxFox](https://github.com/FuraxFox/references-infosec)
+* [A Top 10 Reading List if You’re Getting Started in Cyber Threat Intelligence](https://medium.com/katies-five-cents/a-top-10-reading-list-if-youre-getting-started-in-cyber-threat-intelligence-c11a18fc9798)
 
 # Conferences
 * Many PDFs of #Botconf2017 slide decks have been uploaded https://www.botconf.eu/botconf-2017/programme/botconf-2017-talks/

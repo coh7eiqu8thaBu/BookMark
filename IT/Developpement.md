@@ -7,6 +7,7 @@ Developpement
 * [Why is storing a plain-text password bad](http://plaintextoffenders.com/faq/devs)
 * [Learn language X in Y minutes](https://learnxinyminutes.com/)
 * The importance of knowing how to correctly use the while loop ![Image](https://pbs.twimg.com/media/D_Sq6qXXkAAJ8Hi.jpg)
+* [The Rule Of 2](https://chromium.googlesource.com/chromium/src/+/master/docs/security/rule-of-2.md) and more [here](https://chromium.googlesource.com/chromium/src/+/master/docs/security/)
 
 # C++
 * https://www.ossblog.org/master-c-programming-with-open-source-books/
@@ -55,19 +56,19 @@ Developpement
 * Learning Python - https://learn-anything.xyz/programming/programming-languages/python
 * Python2/3 library providing an easy interface to the Bitcoin data structures and protocol. https://github.com/petertodd/python-bitcoinlib
 * The python graph gallery https://t.co/dOOetYLZxG
-* The R graph gallery http://www.r-graph-gallery.com/ 
+* The R graph gallery http://www.r-graph-gallery.com/
 * [Apprenez à programmer en Python](https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python)
 * [Python 3 : des fondamentaux aux concepts avancés du langage ](https://www.fun-mooc.fr/courses/course-v1:UCA+107001+session02/about)
 
 # Backdoor software
 * Inject malicious code into .debs https://github.com/UndeadSec/Debinject
-* PE Backdoor 
+* PE Backdoor
   * Part 1 : https://www.exploit-db.com/docs/40900.pdf
   * Part 2 : https://www.exploit-db.com/docs/41129.pdf
-* "Hiding Registry keys" or "Add autorun entry unreadeable by user" : 
+* "Hiding Registry keys" or "Add autorun entry unreadeable by user" :
 	* https://posts.specterops.io/hiding-registry-keys-with-psreflect-b18ec5ac8353
 	* https://gist.github.com/brianreitz/feb4e14bd45dd2e4394c225b17df5741
-	* https://github.com/brianreitz/PSReflect-Functions 
+	* https://github.com/brianreitz/PSReflect-Functions
 * [Reflective DLL Injection](https://0x00sec.org/t/reflective-dll-injection/3080)
 * Cloak generates a python payload via msfvenom and then intelligently injects it into the python script you specify. https://github.com/UltimateHackers/Cloak
 

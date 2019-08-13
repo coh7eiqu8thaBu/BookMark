@@ -41,6 +41,29 @@ OSINT
 * [A Beginner’s Guide to OSINT Investigation with Maltego](https://medium.com/@raebaker/a-beginners-guide-to-osint-investigation-with-maltego-6b195f7245cc)
 * [WorkShop LeHack 2019](https://github.com/shrewkroot/workshop)
 
+# Recherches sur twitter
+* -mot : exclusion de mot
+* OR : ou inclusif, recherche l'un ou l'autre des mots clés.
+## Le temps
+* since:2015-02-24 -  depuis le 24 février 2015
+* until:2015-02-24 - jusqu'au 24 février 2015
+## Les comptes
+* from:machin - uniquement les tweets de machin.
+* @tartempion - tweets de tartempion et tweets dans lesquels il est mentionné.
+* to:bidule - uniquement les tweets qui s'adressent à bidule.
+* filter:follows - filtre les résultats et n'affiche que ceux de nos abonnements
+## La popularité
+* min_retweets:n - les tweets qui ont été retweetés au moins n fois
+* min_faves:n
+* min_replies:n
+## others
+* filter: - n'affiche que ce qui est voulu
+* exclude: - exclut ce qui n'est pas désiré s'appliquent sur : vidéos / images / medias / retweets / replies... (Ex: from:bidule filter:replies exclude:medias)
+## localisation
+near:toulouse, within:nkm - tweets localisés dans un rayon de n km autour de Toulouse.
+## La langue
+* lang:fr - tweets en francais.
+
 # Website with ton of leak
 * [OK at 20190718](http://185.197.30.221/?dir=down%2Fpasswds)
 * [OK at 20190718](https://b4ckdoorarchive.host/HELL-ARCHIVE/)
@@ -62,6 +85,7 @@ OSINT
 
 # Physical Pentest
 ## Lockpicking
+* [Guide de crochetage](https://intrusion.eu/wp-content/uploads/2019/01/Guide_de_crochetage_ATS_Pentest.pdf)
 
 ## Biometric
 * [Cloning Fingerprints Like A Boss: 101 Edition](https://medium.com/@LucaBongiorni/cloning-fingerprints-like-a-boss-101-edition-893468ecc826)
