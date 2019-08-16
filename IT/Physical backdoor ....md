@@ -22,7 +22,8 @@ Physical backdoor ...
 * https://hakshop.com/products/usb-rubber-ducky-deluxe
 * http://usbrubberducky.com/#!index.md
 * https://github.com/hak5darren/USB-Rubber-Ducky
-* https://www.sc0tfree.com/sc0tfree-blog/optimizing-rubber-ducky-attacks-with-empire-stagers 
+* https://www.sc0tfree.com/sc0tfree-blog/optimizing-rubber-ducky-attacks-with-empire-stagers
+
 ## clef USB <--> USB Rubber Ducky
   * https://www.pentestingshop.com/pentesting/make-your-own-usb-rubber-ducky-using-a-normal-usb-stick/
   * https://www.pentestingshop.com/recover-a-usb-stick/
@@ -30,6 +31,7 @@ Physical backdoor ...
   * SDCC (Small Device C Compiler) http://sourceforge.net/projects/sdcc/files/sdcc-win64/3.4.0/
   * The Burner image and firmware for flashing the USB stick : http://www.usbdev.ru/?wpfb_dl=777 (Dead Link) backup : https://www.efflam.net/owncloud/index.php/s/ScY6tyZnHfMNkfF
   * Official Tools to flash phison chips : https://www.efflam.net/owncloud/index.php/s/495CXvaV86Dk8AM
+
 ## Slides
 * https://docs.google.com/presentation/d/1UfmKjahtzzaBHQIXCr3G0DZl7X6UOyfsczkqPTNY99s/edit#slide=id.p4
 * https://prezi.com/bzc4zqloekmm/rubber-ducky/
@@ -66,6 +68,7 @@ Physical backdoor ...
 	* http://www.diymalls.com/files/FZ2835-FZ2836-FZ2837-ESP32-ESP8266.zip
 * A hardware-backdoor for CAN bus - by @UnaPibaGeek & @holesec https://github.com/UnaPibaGeek/CBM
 * [How to Build Your Own Penetration Testing Dropbox Using a Raspberry Pi 4](https://artificesecurity.com/blog/2019/8/6/how-to-build-your-own-penetration-testing-drop-box-using-a-raspberry-pi-4)
+* [P4wnP1 A.L.O.A.](https://github.com/mame82/P4wnP1_aloa) by MaMe82 is a framework which turns a Rapsberry Pi Zero W into a flexible, low-cost platform for pentesting, red teaming and physical engagements ... or into "A Little Offensive Appliance".
 
 # Bunny Bash
 * https://hakshop.com/products/bash-bunny

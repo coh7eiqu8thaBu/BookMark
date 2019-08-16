@@ -25,6 +25,8 @@ OSINT
 * [A toolkit for CDX indices such as Common Crawl and the Internet Archive's Wayback Machine](https://github.com/cocrawler/cdx_toolkit)
 * [Project iKy is a tool that collects information from an email and shows results in a nice visual interface.](https://gitlab.com/kennbroorg/iKy/)
 * [CHNSTATCC - RealTime Satelite position](http://8.9.36.135/track/track.php)
+* [LeakLooker](https://github.com/woj-ciech/LeakLooker) Find open databases - Powered by Binaryedge.io
+
 
 # List of ressources
 * https://github.com/imuledx/OSINT_sources

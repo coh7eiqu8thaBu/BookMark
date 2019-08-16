@@ -34,15 +34,9 @@ a_trier
  * OsmocomBB is an Free Software / Open Source GSM Baseband software implementation. It intends to completely replace the need for a proprietary GSM baseband software, such as https://bb.osmocom.org/trac/
  * A 500 GB of Programming languages tutorial collection ranges from - C - C++ - Citrix - Go - Android - Javascript - Linux - Php - Python - Ruby And general Stuff https://drive.google.com/drive/folders/0ByWO0aO1eI_MN1BEd3VNRUZENkU?direction=a_
 
-Cacher un formulaire avec un CSS :
 
-```
-input {
-    margin: 0;
-    background-color: #fff;
-    border: 1px solid #fff;
-}
-```
+Software to [monitor streams of BGP data](https://github.com/nttgin/BGPalerter). Pre-configured for real-time visibility loss and hijacks detection.
+
 
  Simple shell script to debugging http/https traffic tracing, response headers and mixed-content. Support external security tools: Mozilla Observatory and SSL Labs API.
 https://github.com/trimstray/htrace.sh
@@ -1026,6 +1020,16 @@ CRC RevEng: arbitrary-precision CRC calculator and algorithm finder http://reven
 
 [Bit.do URL Shortener - Shorten, customize and track your links. Make a long URL short, easy to remember and to share. With traffic stats.](https://bit.do/) - Add a dash at the end of the shortened url to win acces to stats and real destination.
 [Les réductions d'URLs et la sécurité](https://www.malekal.com/reductions-urls-securite/) Les problèmes de sécurité que posent les réductions d'URLs. Comment révéler/voir l'URL finale sans avoir à cliquer dessus
+
+* [AADInternals PowerShell module for administering Azure AD and Office 365](https://github.com/Gerenios/AADInternals) http://o365blog.com/aadinternals
+* [U.S. Govt Issues Microsoft Office 365 Security Best Practices](https://www.bleepingcomputer.com/news/security/us-govt-issues-microsoft-office-365-security-best-practices/)
+
+* [CPH:SEC - How to Build a Covert Pentesting Infrastructure Almost Free](https://github.com/CPH-SEC/CPH-SEC.github.io/blob/master/pentestinfra.md)
+* [BADministration](https://github.com/ThunderGunExpress/BADministration) - Tool Which Interfaces with Management or Administration Applications from an Offensive Standpoint
+* DEFCON 27 workshop - [Modern Debugging with WinDbg Preview](https://github.com/hugsy/defcon_27_windbg_workshop/)
+* Contrôles de cybersécurité de base pour les petites et moyennes organisations (Canada) - https://cyber.gc.ca/fr/orientation/controles-de-cybersecurite-de-base-pour-les-petites-et-moyennes-organisations
+* DEFCON - [Hunting Certificates & Servers](https://github.com/erbbysam/Hunting-Certificates-And-Servers/blob/master/Hunting%20Certificates%20%26%20Servers.pdf)
+* [SilkETW & SilkService](https://github.com/FuzzySecurity/BH-Arsenal-2019) - The BlackHat Arsenal abstract is available here: https://www.blackhat.com/us-19/arsenal/schedule/index.html#silketw-collecting-actionable-etw-data-16729
 
 
 # BlockList URL

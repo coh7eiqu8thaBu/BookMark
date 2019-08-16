@@ -42,6 +42,8 @@ Developpement
 # JAVA
 * A modern Java bytecode editor https://github.com/Col-E/Recaf
 * [How to Debug HTTP(S) Traffic for Android Apps with Burp Proxy](https://android.jlelse.eu/how-to-debug-http-s-traffic-for-android-apps-with-burp-proxy-73f906821283)
+* [Labeled code examples from Stack Overflow that apply cryptographic APIs](https://github.com/fischerfel/TUM-Crypto). We'll update documentation for this repo soon. Please refer to our paper for further info - https://www.usenix.org/system/files/sec19-fischer.pdf
+
 
 # Linux Kernel
 * Writing a Linux Kernel Module
