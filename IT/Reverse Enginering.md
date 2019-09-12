@@ -5,10 +5,12 @@ Reverse Enginering
 * https://github.com/michalmalik/linux-re-101
 
 # Live Analysis
-*  Memory scanner for Linux https://github.com/scanmem/scanmem
+* Memory scanner for Linux https://github.com/scanmem/scanmem
+* [Sysinternals Sysmon suspicious activity guide](https://blogs.technet.microsoft.com/motiba/2017/12/07/sysinternals-sysmon-suspicious-activity-guide/)
 
-## SSL Proxy
+## SSL Proxy or Crypto
 * Decrypts and logs a process's SSL traffic. - https://github.com/google/ssl_logger
+* Solving RE tasks the crypto way - https://bitsdeep.com/posts/solving-re-tasks-the-crypto-way/
 
 ## VM Analysis
 * https://github.com/Cisco-Talos/pyrebox PyREBox is a Python scriptable Reverse Engineering sandbox. It is based on QEMU, and its goal is to aid reverse engineering by providing dynamic analysis and debugging capabilities from a different perspective. PyREBox allows to inspect a running QEMU VM, modify its memory or registers, and to instrument its execution, by creating simple scripts in python to automate any kind of analysis. QEMU (when working as a whole-system-emulator) emulates a complete system (CPU, memory, devices...). By using VMI techniques, it does not require to perform any modification into the guest operating system, as it transparently retrieves information from its memory at run-time.
@@ -36,6 +38,7 @@ Reverse Enginering
 * Reversing iBank Trojan [Injection Phase] https://secrary.com/ReversingMalware/iBank/
 * ClrGuard is a proof of concept project to explore instrumenting the Common Language Runtime (CLR) for security purposes. ClrGuard leverages a simple appInit DLL (ClrHook32/64.dll) in order to load into all CLR/.NET processes. From there, it performs an in-line hook of security critical functions. Currently, the only implemented hook is on the native LoadImage() function. When events are observed, they are sent over a named pipe to a monitoring process for further introspection and mitigation decision. [GitHub](https://github.com/endgameinc/ClrGuard)
 * [Diaphora](https://github.com/joxeankoret/diaphora), the most advanced Free and Open Source program diffing tool. [Diaphora](http://diaphora.re) (διαφορά, Greek for ‘difference’) is a program diffing plugin for IDA Pro and Radare2, similar to Zynamics Bindiff or the FOSS counterparts DarunGrim, TurboDiff, etc… It was released during SyScan 2015.
+* [Iris](https://github.com/fdiskyou/iris) - WinDbg Extension To Perform Basic Detection Of Common Windows Exploit Mitigations
 
 
 # Hardware

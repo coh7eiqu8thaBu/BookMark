@@ -26,7 +26,8 @@ OSINT
 * [Project iKy is a tool that collects information from an email and shows results in a nice visual interface.](https://gitlab.com/kennbroorg/iKy/)
 * [CHNSTATCC - RealTime Satelite position](http://8.9.36.135/track/track.php)
 * [LeakLooker](https://github.com/woj-ciech/LeakLooker) Find open databases - Powered by Binaryedge.io
-
+* Top 10 Browser Extensions for Hackers & OSINT Researchers https://medium.com/@NullByteWht/top-10-browser-extensions-for-hackers-osint-researchers-fca19b469158
+* [pwnedOrNot](https://github.com/thewhiteh4t/pwnedOrNot) - OSINT Tool to Find Passwords for Compromised Email Addresses
 
 # List of ressources
 * https://github.com/imuledx/OSINT_sources
