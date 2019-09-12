@@ -1031,6 +1031,7 @@ CRC RevEng: arbitrary-precision CRC calculator and algorithm finder http://reven
 * DEFCON - [Hunting Certificates & Servers](https://github.com/erbbysam/Hunting-Certificates-And-Servers/blob/master/Hunting%20Certificates%20%26%20Servers.pdf)
 * [SilkETW & SilkService](https://github.com/FuzzySecurity/BH-Arsenal-2019) - The BlackHat Arsenal abstract is available here: https://www.blackhat.com/us-19/arsenal/schedule/index.html#silketw-collecting-actionable-etw-data-16729
 
+* [OpenDrop](https://github.com/seemoo-lab/opendrop): an Open Source AirDrop Implementation
 
 # BlockList URL
 * https://firebog.net/

@@ -6,6 +6,7 @@ Radio
 * Using an RTL-SDR as a Simple IMSI Catcher http://www.rtl-sdr.com/using-an-rtl-sdr-as-a-simple-imsi-catcher/ https://github.com/Oros42/IMSI-catcher
 * Dissecting GSM encryption and Location update process http://payatu.com/dissecting-gsm-encryption-location-update-process/
 * GSM Hacking: Topguw https://github.com/bastienjalbert/topguw
+* [Awesome-Cellular-Hacking (4G and 5G)](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/README.md)
 
 # Tetra
 * Tetra Live https://github.com/sq5bpf/telive/ and https://www.rtl-sdr.com/rtl-sdr-tutorial-listening-tetra-radio-channels/
@@ -15,7 +16,7 @@ Radio
 *  GPS-SDR-SIM generates GPS baseband signal data streams, which can be converted to RF using software-defined radio (SDR) platforms, such as bladeRF, HackRF, and USRP. http://www.kitploit.com/2017/07/gps-sdr-sim-software-defined-gps-signal.html & https://github.com/osqzss/gps-sdr-sim
 
 # Tempest
-* TEMPEST with an SDR / Remote video eavesdropping using a software-defined radio platform 
+* TEMPEST with an SDR / Remote video eavesdropping using a software-defined radio platform
 	* [GitHub](https://github.com/rtlsdrblog/TempestSDR) and [Original GitHub](https://github.com/martinmarinov/TempestSDR)
 	* [Presentation](https://www.rtl-sdr.com/tempestsdr-a-sdr-tool-for-eavesdropping-on-computer-screens-via-unintentionally-radiated-rf/)
 
@@ -49,4 +50,3 @@ Radio
 # Other
 * Game of Drones - Detecting Streamed POI from Encrypted FPV Channel https://arxiv.org/pdf/1801.03074.pdf
 * [wifi-txpower-unlocker](https://github.com/hiruna/wifi-txpower-unlocker) A bash script that generates a modified regulatory.bin from Central Regulatory Domain Agent and Wireles Regulatory Database sources and patches the kernel. This unlocks the maximum WiFi TX power (on 2.4 Ghz) of the region BO according to the dBm value you specify in the script.
-

@@ -8,6 +8,7 @@ Developpement
 * [Learn language X in Y minutes](https://learnxinyminutes.com/)
 * The importance of knowing how to correctly use the while loop ![Image](https://pbs.twimg.com/media/D_Sq6qXXkAAJ8Hi.jpg)
 * [The Rule Of 2](https://chromium.googlesource.com/chromium/src/+/master/docs/security/rule-of-2.md) and more [here](https://chromium.googlesource.com/chromium/src/+/master/docs/security/)
+* [Truegaze](https://github.com/nightwatchcybersecurity/truegaze) - Static Analysis Tool For Android/iOS Apps Focusing On Security Issues Outside The Source Code
 
 # C++
 * https://www.ossblog.org/master-c-programming-with-open-source-books/

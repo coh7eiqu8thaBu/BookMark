@@ -69,6 +69,7 @@ Physical backdoor ...
 * A hardware-backdoor for CAN bus - by @UnaPibaGeek & @holesec https://github.com/UnaPibaGeek/CBM
 * [How to Build Your Own Penetration Testing Dropbox Using a Raspberry Pi 4](https://artificesecurity.com/blog/2019/8/6/how-to-build-your-own-penetration-testing-drop-box-using-a-raspberry-pi-4)
 * [P4wnP1 A.L.O.A.](https://github.com/mame82/P4wnP1_aloa) by MaMe82 is a framework which turns a Rapsberry Pi Zero W into a flexible, low-cost platform for pentesting, red teaming and physical engagements ... or into "A Little Offensive Appliance".
+* [BadUSB](https://github.com/joelsernamoreno/BadUSB-Cable) cable based on Attiny85 microcontroller (gerbers, design and schematic).
 
 # Bunny Bash
 * https://hakshop.com/products/bash-bunny

@@ -32,6 +32,9 @@ Cheat Sheet
 * [The Windows ATT&CK Logging Cheat Sheet](https://www.malwarearchaeology.com/s/Windows-ATTCK_Logging-Cheat-Sheet_ver_Sept_2018.pdf)
 * [The Windows LOG-MD ATT&CK Cheat Sheet](https://www.malwarearchaeology.com/s/Windows_LOG-MD_ATTCK_Cheat_Sheet_ver_Sept_2018.pdf)
 
+# Databases
+* [SQL Server Detective](https://github.com/NetSPI/PowerUpSQL/wiki/SQL-Server-Detective-Control-Cheat-Sheet) Control Cheat Sheet
+
 # Divers
 * Modern JavaScript Cheatsheet https://github.com/mbeaudru/modern-js-cheatsheet
 * TLS/SSL Vulnerabilities Sheet Cheat : https://www.gracefulsecurity.com/tls-ssl-vulnerabilities/

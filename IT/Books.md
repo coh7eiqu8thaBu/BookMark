@@ -25,6 +25,9 @@ open sources to design personalised cyber attacks.
 * Browser Security White Paper https://browser-security.x41-dsec.de/X41-Browser-Security-White-Paper.pdf
 * http://index-of.es/ and http://index-of.co.uk/
 
+# Blogs
+* [Applied Security Research](https://blog.menasec.net/)
+
 # Zines
 * International Journal of PoC||GTFO https://www.sultanik.com/pocorgtfo/ (English)
 * Rafale http://rafale.org/ (French)
@@ -44,6 +47,7 @@ open sources to design personalised cyber attacks.
 * Ten Immutable Laws Of Security (Version 2.0) https://technet.microsoft.com/library/hh278941.aspx
 * [Références Infosec de FuraxFox](https://github.com/FuraxFox/references-infosec)
 * [A Top 10 Reading List if You’re Getting Started in Cyber Threat Intelligence](https://medium.com/katies-five-cents/a-top-10-reading-list-if-youre-getting-started-in-cyber-threat-intelligence-c11a18fc9798)
+* [A Blue Team guide to Azure & Office 365 monitoring](https://0x00sec.org/t/a-blue-team-guide-to-azure-office-365-monitoring/14411)
 
 # Conferences
 * Many PDFs of #Botconf2017 slide decks have been uploaded https://www.botconf.eu/botconf-2017/programme/botconf-2017-talks/

@@ -47,7 +47,7 @@ EOF)
 * [Attacking encrypted systems with qemu and volatility](https://diablohorn.com/2017/12/12/attacking-encrypted-systems-with-qemu-and-volatility/)
 
 # Hide my Shell
-*  Encrypted exploit delivery for the masses https://github.com/Mrgeffitas/Ironsquirrel
+* Encrypted exploit delivery for the masses https://github.com/Mrgeffitas/Ironsquirrel
 
 # Stegano
 * Stego in TCP/IP made easy (Part-1): https://www.exploit-db.com/docs/40891.pdf  (pdf)
@@ -61,10 +61,11 @@ EOF)
 	* [img4lib](https://github.com/xerub/img4lib)
 	* [SEP firmware split tool](https://gist.github.com/xerub/0161aacd7258d31c6a27584f90fa2e8c)
 
-# Miselianous
+# Miscellaneous
 * [list of useful commands, shells and notes related to OSCP](https://github.com/crsftw/OSCP-cheat-sheet)
 
 # Crypto Money
+* [particl.io](https://particl.io/) - Privacy-focused & Decentralized Ecosystem Untraceable currency • Decentralized Marketplace - Private Dapps
 ## Ether
 * https://etherscripter.com/0-5-1/ EtherScripter
 
@@ -73,3 +74,6 @@ EOF)
 * https://github.com/nneonneo/sha1collider
 * https://shattered.io/
 * https://github.com/corkami/collisions
+
+# Hashes
+* [Hashes.org](https://www.hashes.org/) - Shared Community Password Recovery
