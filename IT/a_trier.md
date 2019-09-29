@@ -34,6 +34,8 @@ a_trier
  * OsmocomBB is an Free Software / Open Source GSM Baseband software implementation. It intends to completely replace the need for a proprietary GSM baseband software, such as https://bb.osmocom.org/trac/
  * A 500 GB of Programming languages tutorial collection ranges from - C - C++ - Citrix - Go - Android - Javascript - Linux - Php - Python - Ruby And general Stuff https://drive.google.com/drive/folders/0ByWO0aO1eI_MN1BEd3VNRUZENkU?direction=a_
 
+ph0neutria is a malware zoo builder that sources samples straight from the wild. Everything is stored in Viper for ease of access and manageability.
+https://github.com/phage-nz/ph0neutria
 
 Software to [monitor streams of BGP data](https://github.com/nttgin/BGPalerter). Pre-configured for real-time visibility loss and hijacks detection.
 
@@ -917,6 +919,39 @@ https://github.com/KeepWannabe/Remot3d Remot3d v2.0 - Tool Created For Large Pen
 
 Savez-vous à quand remonte la première cyber-attaque ? 1980 ? Non avant. 1950 ? Non, encore avant ! 1920 ? Toujours pas ! C'était en 1834 ! Et cette première cyber-attaque n'a pas eu lieu aux Etats-Unis, mais en France !
 https://twitter.com/Benazdia/status/1110814927768481792
+ 
+ * https://github.com/besimorhino/powercat | besimorhino/powercat: netshell features all in version 2 powershell
+ * https://www.kitploit.com/2018/01/snmp-brute-fast-snmp-brute-force.html?amp=0 | SNMP-Brute - Fast SNMP brute force, enumeration, CISCO config downloader and password cracking script - KitPloit - PenTest & Hacking Tools for your CyberSecurity Kit ☣
+ * https://ngailong.wordpress.com/2019/04/07/old-but-gold-dot-dot-slash-to-get-the-flag-uber-microservice/ | Old but GOLD Dot Dot Slash to Get the Flag — Uber Microservice – Ron Chan
+ * https://projetsdiy.fr/comment-installer-raspbian-raspberry-pi-zero-sans-ecran-clavier/#Activer_la_connexion_SSH | Installer Raspbian Stretch sur Raspberry Pi Zero W sans écran ni clavier, configuration WiFi - Domotique et objets connectés à faire soi-même
+ * https://projetsdiy.fr/decouverte-test-configuration-raspberry-pi-3/#Premier_demarrage_du_Rasperry_Pi_sous_Noobs | Débuter avec le Raspberry Pi 3, installer et configurer Raspbian sur la carte SD (Wi-Fi, clavier, Bluetooth...) - Domotique et objets connectés à faire soi-même
+ * https://www.balena.io/blog/build-an-environment-and-air-quality-monitor-with-raspberry-pi/ | Build an air quality monitor with InfluxDB, Grafana, and Docker on a Raspberry Pi
+ * https://www.kitploit.com/2019/03/ffm-freedom-fighting-mode-open-source.html | FFM (Freedom Fighting Mode) - Open Source Hacking Harness - KitPloit - PenTest & Hacking Tools for your CyberSecurity Kit ☣
+ * https://www.kitploit.com/2019/03/winpwn-automation-for-internal-windows.html | WinPwn - Automation For Internal Windows Penetrationtest - KitPloit - PenTest & Hacking Tools for your CyberSecurity Kit ☣
+ * https://www.kitploit.com/2019/03/reconerator-c-targeted-attack.html | Reconerator - C# Targeted Attack Reconnaissance Tools - KitPloit - PenTest & Hacking Tools for your CyberSecurity Kit ☣
+ * https://www.kitploit.com/2019/04/xanxss-simple-xss-finding-tool.html | XanXSS - A Simple XSS Finding Tool - KitPloit - PenTest & Hacking Tools for your CyberSecurity Kit ☣
+ * Disable defender remotely (temp) to execute code :) Invoke-WmiMethod -ComputerName 10.0.1.2 -Class Win32_Process -Name Create -ArgumentList "powershell.exe -C `Set-MpPreference -DisableRealtimeMonitoring $true`"
+ * https://github.com/paralax/awesome-honeypots | paralax/awesome-honeypots: an awesome list of honeypot resources
+ * https://www.bareos.com/en/company_news/whitepaper-bareos-nextcloud-en.html | New Whitepaper published - Bareos
+ * https://nextcloud.com/blog/the-issue-with-public-cloud/ | The issue with Public Cloud – Nextcloud
+ * https://github.com/The-Cracker-Technology/ANDRAX-Mobile-Pentest/ | The-Cracker-Technology/ANDRAX-Mobile-Pentest: ANDRAX The first and unique Penetration Testing platform for Android smartphones
+ * https://www.youtube.com/watch?v=951CzoJoSn4 | Decorative Concrete Melbourne - Flake Flooring - YouTube
+ * https://blog.hackster.io/atto-is-or-will-be-the-worlds-smallest-arduino-compatible-board-daff705e0ad2 | ATTO Is — or Will Be — the World’s Smallest Arduino-Compatible Board
+ * https://medium.com/@jeanmichel.amblat/abusing-certificates-for-data-exfiltration-d6bff2533cd0 | Abusing certificates for data exfiltration – Jean-Michel Amblat – Medium
+ * https://giammaiot.blogspot.com/2019/06/various-sdr-os-distro-liveos-vitual.html | GiamMa-based researchers SDR R&D IoT: Various SDR OS / Distro / LiveOS / Virtual Machine / Bootable Linux image
+ * https://github.com/xFreed0m/RDPassSpray | xFreed0m/RDPassSpray: Python3 tool to perform password spraying using RDP
+ * https://medium.com/@chawdamrunal/penetration-testing-approach-and-methodology-87a196aabe26 | Penetration Testing — Approach and Methodology – Lulzsec -hacking era – Medium
+ * https://github.com/nolze/msoffcrypto-tool | nolze/msoffcrypto-tool: Python tool and library for decrypting MS Office files with passwords or other keys
+ * https://www.kitploit.com/2019/06/pcapxray-v25-network-forensics-tool-to.html | PcapXray v2.5 - A Network Forensics Tool To Visualize A Packet Capture Offline As A Network Diagram
+ * https://0xpatrik.com/subdomain-enumeration-2019/ | Subdomain Enumeration: 2019 Workflow
+ * https://hal.inria.fr/hal-01575519v2/document | Does disabling Wi-Fi prevent my smartphone from sending Wi-Fi frames? - document
+ * https://twitter.com/bettercap/status/1135963393633005569 | bettercap sur Twitter : "reminder: bettercap has a very convenient web ui that makes everything way easier, especially when running on mobile or headless on a RPI. Install: > sudo bettercap -eval "caplets.update; ui.update; q" Run: > sudo bettercap -caplet https-ui https://t.co/Z8ZoNwXLXl… https://t.co/OdOrTzKUj9"
+ * https://pastebin.com/i8Ans4d4 | https://abc.com?a=<a+HREF='javascrip%26%239t:alert%26lpar;document.domain)'>test - Pastebin.com
+ * https://www.tarlogic.com/en/blog/how-to-attack-kerberos/ | Kerberos (II): How to attack Kerberos? - Tarlogic Security - Cyber Security and Ethical hacking
+ * https://github.com/algo7/bluekeep_CVE-2019-0708_poc_to_exploit | algo7/bluekeep_CVE-2019-0708_poc_to_exploit: Porting BlueKeep PoC from @Ekultek to actual exploits
+ * https://www.ostechnix.com/sslh-share-port-https-ssh/ | SSLH - Share A Same Port For HTTPS And SSH - OSTechNix
+ * http://www.rutschle.net/tech/sslh/download | Download
+ * https://github.com/sq5bpf/telive | sq5bpf/telive: Tetra live monitor
 
  * https://github.com/besimorhino/powercat | besimorhino/powercat: netshell features all in version 2 powershell
  * https://www.kitploit.com/2018/01/snmp-brute-fast-snmp-brute-force.html?amp=0 | SNMP-Brute - Fast SNMP brute force, enumeration, CISCO config downloader and password cracking script - KitPloit - PenTest & Hacking Tools for your CyberSecurity Kit ☣
@@ -1031,6 +1066,201 @@ CRC RevEng: arbitrary-precision CRC calculator and algorithm finder http://reven
 * DEFCON - [Hunting Certificates & Servers](https://github.com/erbbysam/Hunting-Certificates-And-Servers/blob/master/Hunting%20Certificates%20%26%20Servers.pdf)
 * [SilkETW & SilkService](https://github.com/FuzzySecurity/BH-Arsenal-2019) - The BlackHat Arsenal abstract is available here: https://www.blackhat.com/us-19/arsenal/schedule/index.html#silketw-collecting-actionable-etw-data-16729
 
+https://www.kitploit.com/2019/09/scoutsuite-multi-cloud-security.html | ScoutSuite - Multi-Cloud Security Auditing Tool
+https://gist.github.com/whid-injector/cbebd861a73451fe995766d2b6aaea21 | Windows stager for Empire 2.3. Place in lib/stagers/windows directory. P.S. It is old thingy I accidentally found on my VPS. Not sure still works. · GitHub
+https://github.com/axi0mX/ipwndfu | GitHub - axi0mX/ipwndfu: open-source jailbreaking tool for many iOS devices
+https://amp.kitploit.com/2019/09/mitaka-browser-extension-for-osint.html?amp=1&m=1 | Mitaka - A Browser Extension For OSINT Search
+https://github.com/secfigo/Awesome-Fuzzing | GitHub - secfigo/Awesome-Fuzzing: A curated list of fuzzing resources ( Books, courses - free and paid, videos, tools, tutorials and vulnerable applications to practice on ) for learning Fuzzing and initial phases of Exploit Development like root cause analysis.
+https://tech.margula.pl/security/2019/02/19/solokey.html#disqus_thread | Using SoloKey on vanilla Ubuntu
+https://github.com/Patrowl/PatrowlManager | GitHub - Patrowl/PatrowlManager: PatrOwl - Open Source, Smart and Scalable Security Operations Orchestration Platform
+https://www.aliexpress.com/item/32912588688.html | Kitchen cabinet manual double body storage lifting basket hanging cabinet shelf linkage lift-in Kitchen Cabinet Parts & Accessories from Home Improvement on Aliexpress.com | Alibaba Group
+https://www.kitploit.com/2019/09/pixload-image-payload-creatinginjecting.html | Pixload - Image Payload Creating/Injecting Tools
+https://twitter.com/Viss/status/1174302914082496512 | D̒͂̕ᵈăᵃn̕ᶰ Ť̾̾̓͐͒͠ᵗe͗̑́̋̂́͡ᵉn̅ᶰtᵗl̀̓͘ᶫe̓̒̂̚ᵉrʳ sur Twitter : "shamelessly stolen from imgur. because relevant. https://t.co/f0ipYQ6tUl" / Twitter
+https://www.kitploit.com/2019/09/aura-botnet-super-portable-botnet.html | Aura-Botnet - A Super Portable Botnet Framework With A Django-based C2 Server
+https://twitter.com/absolutez3/status/1174045388736794624 | ChillyBot 🌨️ sur Twitter : "Some of my favorite Linux networking sheets @nixcraft https://t.co/4yawfi8nNo" / Twitter
+https://lambda.grofers.com/credentials-leaked-in-public-heres-what-grofers-implemented-to-prevent-such-mishaps-66a40b5743af | Credentials leaked in public? Here’s what Grofers implemented to prevent such mishaps!
+https://www.kitploit.com/2019/09/shodan-eye-tool-that-collects-all.html | Shodan-Eye - Tool That Collects All The Information About All Devices Directly Connected To The Internet Using The Specified Keywords That You Enter
+https://github.com/bojanisc/Presentations | GitHub - bojanisc/Presentations: This repository contains presentations from various events
+https://www.zdnet.com/article/new-simjacker-attack-exploited-in-the-wild-to-track-users-for-at-least-two-years/ | Simjacker attack exploited in the wild to track users for at least two years | ZDNet
+https://www.absolomb.com/2018-01-26-Windows-Privilege-Escalation-Guide/ | Windows Privilege Escalation Guide
+https://www.kitploit.com/2019/09/pyfuscation-obfuscate-powershell.html | PyFuscation - Obfuscate Powershell Scripts By Replacing Function Names, Variables And Parameters
+https://www.kitploit.com/2019/09/bluespawn-windows-based-active-defense.html | BLUESPAWN - Windows Based Active Defense Tool To Empower Blue Teams
+https://www.kitploit.com/2019/09/emagnet-tool-for-find-leaked-databases.html | EMAGNET - Tool For Find Leaked Databases With 97.1% Accurate To Grab Mail + Password Together From Pastebin Leaks
+https://pypi.org/project/donut-shellcode/ | donut-shellcode · PyPI
+https://www.kitploit.com/2019/09/ehtools-framework-of-serious-wi-fi.html | Ehtools - Framework Of Serious Wi-Fi Penetration Tools
+https://www.root9b.com/sites/default/files/whitepapers/R9B_blog_003_whitepaper_01.pdf | R9B_blog_003_whitepaper_01.pdf
+https://github.com/poweradminllc/PAExec | poweradminllc/PAExec: Remote execution, like PsExec
+https://catonmat.net/cookbooks/curl | Curl Cookbook
+https://www.zdnet.com/article/cisco-releases-guides-for-incident-responders-handling-hacked-cisco-gear/ | Cisco releases guides for incident responders handling hacked Cisco gear | ZDNet
+https://www.kitploit.com/2019/08/0xsp-mongoose-v17-linuxwindows.html | 0xsp Mongoose v1.7 - Linux/Windows Privilege Escalation intelligent Enumeration Toolkit
+https://observablehq.com/@tmcw/enigma-machine | Enigma machine / Tom MacWright / Observable
+https://github.com/constellation-app/constellation | constellation-app/constellation: A graph-focused data visualisation and interactive analysis application.
+https://github.com/v1s1t0r1sh3r3/airgeddon | v1s1t0r1sh3r3/airgeddon: This is a multi-use bash script for Linux systems to audit wireless networks.
+https://github.com/abhi-r3v0/EVABS | abhi-r3v0/EVABS: An open source Android application that is intentionally vulnerable so as to act as a learning platform for Android application security beginners. The effort is to introduce beginners with very limited or zero knowledge to some of the major and commonly found real-world based Android application vulnerabilities in a story-based, interactive model. EVABS follows a level-wise difficulty approach and in each level, the player learns a new concept. This project is still under progress and aims at incorporating as many levels as possible.
+https://0verfl0w.podia.com/beginner-analysis-course-vb-access | The Beginner Malware Analysis Course + VirusBay Access
+https://www.kitploit.com/2019/08/hashcatch-capture-handshakes-of-nearby.html | Hashcatch - Capture Handshakes Of Nearby WiFi Networks Automatically
+https://github.com/dukebarman/ghidra-builder | dukebarman/ghidra-builder: Docker image for building ghidra RE framework from source
+https://osandamalith.com/2019/08/27/running-shellcode-directly-in-c/ | Running Shellcode Directly in C | 🔐Blog of Osanda
+https://osandamalith.com/2019/08/26/converting-an-exe-to-a-dll/ | Converting an EXE to a DLL | 🔐Blog of Osanda
+https://www.webdavsystem.com/server/access/windows | Connecting to WebDAV server on Microsoft Windows
+https://www.kitploit.com/2019/09/ska-simple-karma-attack.html | SKA - Simple Karma Attack
+https://github.com/DFIR-ORC/dfir-orc | GitHub - DFIR-ORC/dfir-orc: Forensics artefact collection tool for systems running Microsoft Windows
+https://github.com/zeek/zeek | GitHub - zeek/zeek: Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
+
+https://wiki.wireshark.org/CaptureSetup/USB | CaptureSetup/USB - The Wireshark Wiki
+https://www.ncsc.gov.uk/blog-post/let-them-paste-passwords | Let them paste passwords - NCSC
+https://www.managedsentinel.com/2019/05/28/on-prem-vs-cloud/ | Mapping of On-Premises Security Controls vs Major Cloud Providers | Managed Sentinel
+https://www.darknet.org.uk/2019/08/zigdiggity-zigbee-hacking-toolkit/ | ZigDiggity - ZigBee Hacking Toolkit
+https://medium.com/mitre-attack/attack-sub-techniques-preview-b79ff0ba669a | ATT&CK Sub-Techniques Preview - MITRE ATT&CK™ - Medium
+https://www.tindie.com/products/lspoplove/dstike-wifi-deauther-monster-v4/ | DSTIKE WiFi Deauther Monster V4 from Travis Lin on Tindie
+https://www.tindie.com/products/lspoplove/dstike-wifi-deauther-oled-v5/ | DSTIKE WiFi Deauther OLED V5 from Travis Lin on Tindie
+https://github.com/thewhiteh4t/pwnedOrNot | thewhiteh4t/pwnedOrNot: OSINT Tool for Finding Passwords of Compromised Email Addresses
+https://www.lumendatabase.org/notices/19004090# | DMCA (Copyright) Complaint to Google :: Notices :: Lumen
+https://github.com/SpiderMate/B-XSSRF | SpiderMate/B-XSSRF: Toolkit to detect and keep track on Blind XSS, XXE & SSRF
+https://github.com/JoelGMSec/AutoRDPwn | JoelGMSec/AutoRDPwn: The Shadow Attack Framework
+https://thehackernews.com/2019/02/ethical-hacker-training.html | Learn Ethical Hacking From Scratch — 2019 Training Bundle
+https://github.com/triw0lf/hybridanalysis_scripts/blob/master/hybridanalysis_interesting.sh | hybridanalysis_scripts/hybridanalysis_interesting.sh at master · triw0lf/hybridanalysis_scripts
+https://twitter.com/_ayoubfathi_/status/1164536885244583941 | Ayoub FATHI sur Twitter : "Exfiltration through FTP using OOB XXE Upload accepts .xlsx files --&gt; Unzip sample .xlsx file -&gt; add payload in workbook.xml/[Content_Types].xml after xml declaration --&gt; DTD file send data via ftp://remote-ip/%data --&gt; run ftp server using xxe-ftp-server.rb --&gt; /etc/passwd https://t.co/E9vCwXuTEy" / Twitter
+https://github.com/Jsitech/relayer | Jsitech/relayer: SMB Relay Attack Script
+https://www.kitploit.com/2019/08/hacktronian-all-in-one-hacking-tool-for.html | Hacktronian - All In One Hacking Tool For Linux & Android
+https://linc.cnil.fr/fr/une-cartographie-des-outils-et-pratiques-de-protection-de-la-vie-privee | Une cartographie des outils et pratiques de protection de la vie privée | LINC
+https://decoder.cloud/2019/07/04/creating-windows-access-tokens/ | Creating Windows Access Tokens – Decoder's Blog
+https://www.kitploit.com/2019/08/wifibroot-wifi-pentest-cracking-tool.html | WiFiBroot - A WiFi Pentest Cracking Tool For WPA/WPA2 (Handshake, PMKID, Cracking, EAPOL, Deauthentication)
+https://threatvector.cylance.com/en_us/home/an-introduction-to-code-analysis-with-ghidra.html | An Introduction To Code Analysis With Ghidra
+https://www.kitploit.com/2019/08/memguard-secure-software-enclave-for.html | MemGuard - Secure Software Enclave For Storage Of Sensitive Information In Memory
+https://www.kitploit.com/2019/08/usbrip-simple-command-line-forensics.html | Usbrip - Simple Command Line Forensics Tool For Tracking USB Device Artifacts (History Of USB Events) On GNU/Linux
+https://securityonline.info/netset-security-utility/ | NetSet v1.1.0 releases: Operational Security utility and Automator • Penetration Testing
+
+https://github.com/sqshq/sampler | sqshq/sampler: A tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
+https://github.com/s0md3v/goop | s0md3v/goop: Google Search Scraper
+https://www.kitploit.com/2019/07/wdextract-extract-windows-defender.html | WDExtract - Extract Windows Defender Database From Vdm Files And Unpack It
+https://www.kitploit.com/2019/07/buster-find-emails-of-person-and-return.html | Buster - Find Emails Of A Person And Return Info Associated With Them
+https://syllab.fr/projets/experiments/xcharsjs/index.html | Xchars.js compilers
+http://aem1k.com/five/ | $five - Write JS with 5 different characters: $+=[]
+https://github.com/fboldewin/MacGyver-s-return---An-EMV-Chip-cloning-case/blob/master/MacGyver's%20return%20-%20An%20EMV%20Chip%20cloning%20case.pdf | MacGyver-s-return---An-EMV-Chip-cloning-case/MacGyver's return - An EMV Chip cloning case.pdf at master · fboldewin/MacGyver-s-return---An-EMV-Chip-cloning-case
+https://github.com/ProfessionallyEvil/harpoon | GitHub - ProfessionallyEvil/harpoon: A collection post-exploitation scripts for determining if that shell you just got is in a container, what kind, and ways to escape.
+https://maxkersten.nl/binary-analysis-course/assembly-basics/practical-case-crack-me-0x01/ | Practical case: Crack Me 0x01 – Max Kersten
+https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-17.pdf | Multifactor Authentication for E-Commerce: Risk-Based, FIDO Universal Second Factor Implementations for Purchasers - NIST.SP.1800-17.pdf
+https://github.com/rk700/uniFuzzer | GitHub - rk700/uniFuzzer: A fuzzing tool for closed-source binaries based on Unicorn and LibFuzzer
+https://www.kitploit.com/2019/08/xspear-powerfull-xss-scanning-and.html | XSpear - Powerfull XSS Scanning And Parameter Analysis Tool
+https://www.kitploit.com/2019/07/recon-ng-v500-open-source-intelligence.html | Recon-ng v5.0.0 - Open Source Intelligence Gathering Tool Aimed At Reducing The Time Spent Harvesting Information From Open Sources
+https://www.kitploit.com/2019/07/redghost-v30-linux-post-exploitation.html | RedGhost v3.0 - Linux Post Exploitation Framework Written In Bash Designed To Assist Red Teams In Persistence, Reconnaissance, Privilege Escalation And Leaving No Trace
+https://twitter.com/lambdaprog/status/1157613030269693952 | (4) prog' sur Twitter : "Do you see what I see? https://t.co/NaMs6ZDQec" / Twitter
+
+https://medium.com/@tomnomnom/making-a-blind-sql-injection-a-little-less-blind-428dcb614ba8 | Making a Blind SQL Injection a Little Less Blind - TomNomNom - Medium
+https://www.kitploit.com/2019/07/o365-attack-toolkit-toolkit-to-attack.html | O365-Attack-Toolkit - A Toolkit To Attack Office365
+https://www.kitploit.com/2019/07/osxcollector-forensic-evidence.html | OSXCollector - A Forensic Evidence Collection & Analysis Toolkit For OS X
+https://www.youtube.com/watch?v=b-T8vx_LUKQ&feature=youtu.be | Bypass 2FA with Gophish and Evilginx2!! - YouTube
+https://www.kitploit.com/2019/07/uncompyle6-cross-version-python.html | Uncompyle6 - A Cross-Version Python Bytecode Decompiler
+https://github.com/bellaj/speech_recognition | GitHub - bellaj/speech_recognition: Speech recognition module for Python, supporting several engines and APIs, online and offline.
+https://www.kitploit.com/2018/10/takeover-v1-extracts-cname-record-of.html?epik=dj0yJnU9Zi1HVGVIWHJOTFo1N19uN0VPVTR6QkhXVURmTWNFb0Mmbj0teUZFOVE5bnVieGY4Y3pIX18yMzdRJm09MyZ0PUFBQUFBRjA5a3B3 | TakeOver v1 - Extracts CNAME Record Of All Subdomains At Once
+https://gist.github.com/darkk/8356d84eabeb472120a92b7e10626cf4 | facebook cert signed by Qaznet (Kaznet) certificate · GitHub
+https://www.mapillary.com/app/user/atabaraud?lat=48.83723798296146&lng=2.3695206254563894&z=17&pKey=K8xp9XbYO7h6KpnKI6QMXg&focus=photo&x=0.49681200296168043&y=0.41820225690668583&zoom=0 | Mapillary - Street-level imagery, powered by collaboration and computer vision
+https://www.gofundme.com/f/kgb-training-manuals-project | Collecte de fonds organisée par Michael Weiss : The Lubyanka Files: Textbooks for Putin's Spies
+https://medium.com/@0x4d31/rdp-client-fingerprinting-9e7ac219f7f4 | RDP Fingerprinting - Adel K. - Medium
+https://github.com/justadudewhohacks/face-api.js | GitHub - justadudewhohacks/face-api.js: JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
+https://www.contextis.com/en/blog/a-beginners-guide-to-windows-shellcode-execution-techniques | A Beginner's Guide to Windows Shellcode Execution Techniques | Context Information Security UK
+https://www.kitploit.com/2019/07/cloudcheck-checks-using-test-string-if.html | Cloudcheck - Checks Using A Test String If A Cloudflare DNS Bypass Is Possible Using CloudFail
+https://jakecreps.com/2019/05/16/osint-tools-for-the-dark-web/ | OSINT Tools for the Dark Web – Jake Creps
+
+https://github.com/lc/secretz | GitHub - lc/secretz: secretz, minimizing the large attack surface of Travis CI
+https://github.com/xqtr/null | GitHub - xqtr/null: Null diskmag
+https://anotherdroidbbs.wordpress.com/ | Another Droid BBS | Don't Be Another Droid of the System
+https://hackernoon.com/50-popular-python-open-source-projects-on-github-in-2018-c750f9bf56a0 | 50 Popular Python open-source projects on GitHub in 2018 - By
+https://github.com/zulip/zulip | GitHub - zulip/zulip: Zulip server - powerful open source team chat
+https://zulipchat.com/plans/ | Zulip
+https://github.com/Neo23x0/signature-base/blob/master/yara/gen_powershell_obfuscation.yar#L41 | signature-base/gen_powershell_obfuscation.yar at master · Neo23x0/signature-base · GitHub
+https://docs.google.com/spreadsheets/d/1ywzx3YPLDI__NMDgn5j6VVBFOvSA0wXuUiqPe8fkMbY/edit#gid=1668018166 | SUSP_PowerShell_Caret_Obfuscation_2 - Google Sheets
+https://medium.com/@huykha/create-a-backdoor-to-take-over-an-object-in-ad-d5df682a4022 | Create a backdoor to take-over an object in AD - Huy - Medium
+https://blog.trailofbits.com/2019/07/19/understanding-docker-container-escapes/ | Understanding Docker container escapes | Trail of Bits Blog
+https://github.com/everdox/InfinityHook | GitHub - everdox/InfinityHook: Hook system calls, context switches, page faults and more.
+https://github.com/decoxviii/userrecon-py | GitHub - decoxviii/userrecon-py: Recognition usernames in 187 social networks.
+https://github.com/hfiref0x/UACME | GitHub - hfiref0x/UACME: Defeating Windows User Account Control
+https://github.com/sisoc-tokyo/Real-timeDetectionAD_ver2 | GitHub - sisoc-tokyo/Real-timeDetectionAD_ver2
+https://speakerdeck.com/heirhabarov/hunting-for-privilege-escalation-in-windows-environment | Hunting for Privilege Escalation in Windows Environment - Speaker Deck
+https://github.com/joyent/pivy | GitHub - joyent/pivy: Tools for using PIV tokens (like Yubikeys) as an SSH agent, for encrypting data at rest, and more
+https://www.synacktiv.com/ressources/leHack2019-Return_of_FAIFA_and_HomePlugPWN-dudek.pdf | The return of FAIFA and HomePlugPWN - Make Power-Line Communication hacks great again! - leHack2019-Return_of_FAIFA_and_HomePlugPWN-dudek.pdf
+https://www.kitploit.com/2019/06/backbox-linux-60-ubuntu-based-linux.html | BackBox Linux 6.0 - Ubuntu-based Linux Distribution Penetration Test and Security Assessment
+https://www.ilovefreesoftware.com/30/featured/free-online-email-header-analyzer-websites.html | 4 Free Online Email Header Analyzer Websites
+https://b4ckdoorarchive.host/HELL-ARCHIVE/?C=M;O=A | Index of /HELL-ARCHIVE
+
+https://github.com/ismailtasdelen/redteam-hardware-toolkit | GitHub - ismailtasdelen/redteam-hardware-toolkit: 🔺 Red Team Hardware Toolkit 🔺
+https://www.kitploit.com/2019/07/ghostfuscator-python-password-protected.html | Ghostfuscator - The Python Password-Protected Obfuscator Using AES Encryption
+https://github.com/threatexpress/red-team-scripts | GitHub - threatexpress/red-team-scripts: A collection of Red Team focused tools, scripts, and notes
+https://boingboing.net/2019/07/11/hesse-nein-danke.html | After Microsoft moves its servers back to the USA, German state's privacy commissioner advises schools not to use Office 365 / Boing Boing
+https://www.zdnet.com/google-amp/article/academics-steal-data-from-air-gapped-systems-via-a-keyboards-leds/?__twitter_impression=true | Academics steal data from air-gapped systems via a keyboard's LEDs | ZDNet
+https://revers.engineering/day-0-virtual-environment-setup-scripts-and-windbg/ | Day 0: Virtual Environment Setup, Scripts, and WinDbg - Reverse Engineering
+https://revers.engineering/day-1-introduction-to-virtualization/ | Day 1: Introduction to Virtualization, Type Definitions, and Support Testing - Reverse Engineering
+https://revers.engineering/day-2-entering-vmx-operation/ | Day 2: Entering VMX Operation, Explaining Implementation Requirements - Reverse Engineering
+https://revers.engineering/day-3-multiprocessor-initialization-error-handling-the-vmcs/ | Day 3: The VMCS, Component Encoding, and Multiprocessor Initialization - Reverse Engineering
+https://0x00sec.org/t/a-blue-team-guide-to-azure-office-365-monitoring/14411 | A Blue Team guide to Azure & Office 365 monitoring - Blue-Team - 0x00sec - The Home of the Hacker
+https://www.mczerniawski.pl/activedirectory/active-directory-health-checklist/ | Active Directory Health Checklist - Mateusz Czerniawski
+https://medium.com/blue-team/preventing-mimikatz-attacks-ed283e7ebdd5 | Preventing Mimikatz Attacks - Blue Team - Medium
+https://labs.p1sec.com/2019/07/09/presenting-qcsuper-a-tool-for-capturing-your-2g-3g-4g-air-traffic-on-qualcomm-based-phones/ | P1 Labs » Presenting QCSuper: a tool for capturing your 2G/3G/4G air traffic on Qualcomm-based phones
+https://homepages.laas.fr/rcayre/mirage-documentation/ | Mirage documentation — Mirage 1.0 documentation
+https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/README.md | Awesome-Cellular-Hacking/README.md at master · W00t3k/Awesome-Cellular-Hacking · GitHub
+https://www.interieur.gouv.fr/Actualites/Communiques/L-etat-de-la-menace-liee-au-numerique-en-2019 | L’état de la menace liée au numérique en 2019 / Communiqués / Actualités - Ministère de l'Intérieur
+https://howdns.works/ | How DNS works
+https://www.bugcrowd.com/blog/discovering-subdomains/ | Discovering Subdomains | Bugcrowd
+https://github.com/TheRook/subbrute | GitHub - TheRook/subbrute: A DNS meta-query spider that enumerates DNS records, and subdomains.
+
+http://www.larevuedudigital.com/les-dsi-du-cigref-fatigues-des-pratiques-de-certains-de-leurs-grands-fournisseurs-de-logiciels/ | Les DSI du Cigref fatigués des pratiques de certains de leurs grands fournisseurs de logiciels | La Revue du Digital
+https://twitter.com/ethicalhackx | Ethical Hacking (@ETHICALHACKX) | Twitter
+https://github.com/l0ss/Grouper2 | GitHub - l0ss/Grouper2: Find vulnerabilities in AD Group Policy
+https://www.undernews.fr/malwares-virus-antivirus/ta505-lance-le-logiciel-malveillant-andromut.html | TA505 lance le logiciel malveillant AndroMut | UnderNews
+https://www.sciencesetavenir.fr/nature-environnement/nucleaire/quand-l-atome-prend-la-mer_134120 | Une centrale nucléaire flottante en route pour la Tchoukotka - Sciences et Avenir
+https://www.kitploit.com/2017/07/cloudfail-utilize-misconfigured-dns-and.html?amp=0 | CloudFail - Utilize misconfigured DNS and old database records to find hidden IP's behind the CloudFlare network
+https://medium.com/@aml_toolbox/financial-crimes-osint-tools-banking-5ede7edbc14f | Financial Crimes OSINT Tools: Banking - Travis Birch - Medium
+https://github.com/0xdevalias/wordlists | GitHub - 0xdevalias/wordlists: A place to store my own wordlists, and link to others that are useful
+https://www.nytimes.com/2019/07/01/opinion/slack-chat-hackers-encryption.html | Opinion | What if All Your Slack Chats Were Leaked? - The New York Times
+https://trade.aliexpress.com/orderList.htm?spm=a2g0o.8153825.0.0.6cb87b37NQ2e2m | My AliExpress : Manage Orders
+https://daita.github.io/social-alpha-2/ | Social alpha 2
+https://www.zdnet.com/google-amp/article/7-eleven-japanese-customers-lose-500000-due-to-mobile-app-flaw/?__twitter_impression=true | 7-Eleven Japanese customers lose $500,000 due to mobile app flaw | ZDNet
+https://www.slideshare.net/MichaelFelch/red-team-tactics-for-cracking-the-gsuite-perimeter | Red Team Tactics for Cracking the GSuite Perimeter
+https://github.com/niemand-sec/AntiCheat-Testing-Framework | GitHub - niemand-sec/AntiCheat-Testing-Framework: Framework for testing any Anti-Cheat
+https://gist.github.com/roycewilliams/68d7db44b60abddb707172b818d3b643 | A survey of the last string tried by hashcat's Markov for standard masks · GitHub
+https://www.cybermalveillance.gouv.fr/quiz-mots-de-passe/ | quiz-mots-de-passe - CYBERMALVEILLANCE.GOUV.FR
+https://forum.turris.cz/t/turris-os-4-0-beta5-is-out/10472 | Turris OS 4.0 beta5 is out! - Community office - Turris forum
+https://www.aaflalo.me/2018/10/tutorial-setup-dns-over-https-server/ | Tutorial to setup your own DNS-over-HTTPS (DoH) server - Antoine Aflalo
+https://github.com/m13253/dns-over-https/blob/master/doh-server/doh-server.conf | dns-over-https/doh-server.conf at master · m13253/dns-over-https · GitHub
+
+https://speakerdeck.com/ange/colltris | Colltris - Speaker Deck
+https://twitter.com/Akamai/status/1145472095998152706 | Akamai Technologies sur Twitter : "Akamai found that SQL injection attacks represent two-third of all web app attacks. Read more about our latest report on @DarkReading: https://t.co/C9R2GG0B9c… https://t.co/JZDfEXmtVj"
+https://twitter.com/DanielMiessler/status/1145123124930863104 | Daniel Miessler ☕📚 sur Twitter : "[ TUTORIAL ] amass — Automated Attack Surface Mapping The first in my new tutorial series on OSINT/Recon tools, and this one is on amass! https://t.co/ulCBNOa7zV #infosec #tutorials"
+https://bohops.com/2017/12/02/trust-direction-an-enabler-for-active-directory-enumeration-and-trust-exploitation/ | Trust Direction: An Enabler for Active Directory Enumeration and Trust Exploitation – | bohops |
+https://www.heibai.org/post/1268.html | 浅谈 GSM 网络的安全性，实战截取用户身份信息丨信安之路_安全文摘_黑白网
+https://speakerdeck.com/heirhabarov/hunting-for-powershell-abuse | Hunting for PowerShell Abuse - Speaker Deck
+https://danielmiessler.com/study/amass/ | amass — Automated Attack Surface Mapping | Daniel Miessler
+https://sequoia-pgp.org/blog/2019/06/14/20190614-hagrid/ | Blog - Hagrid: A New Verifying Key Server Built on Sequoia
+https://github.com/dhaval17/awsome-security-write-ups-and-POCs | GitHub - dhaval17/awsome-security-write-ups-and-POCs: Awesome Writeups and POCs
+https://www.sstic.org/2019/presentation/challenge_2019/ | SSTIC2019 » Présentation » Résultats et solution du challenge - sstic
+https://www.kitploit.com/2019/06/vxscan-comprehensive-scanning-tool.html | Vxscan - Comprehensive Scanning Tool
+https://medium.com/@DebugActiveProcess/anti-vm-techniques-with-msacpi-thermalzonetemperature-32cfeecda802 | Anti-VM Techniques with MSAcpi_ThermalZoneTemperature
+https://www.kitploit.com/2019/06/rapidscan-multi-tool-web-vulnerability.html | RapidScan - The Multi-Tool Web Vulnerability Scanner
+https://matrix.org/blog/2019/06/11/introducing-matrix-1-0-and-the-matrix-org-foundation | https://matrix.org/blog/2019/06/11/introducing-matrix-1-0-and-the-matrix-org-foundation/
+https://www.bleepingcomputer.com/news/security/twitter-urls-can-be-manipulated-to-spread-fake-news-and-scams/ | Twitter URLs Can Be Manipulated to Spread Fake News and Scams
+https://www.bleepingcomputer.com/news/security/microsoft-ntlm-flaws-expose-all-windows-machines-to-rce-attacks/ | Microsoft NTLM Flaws Expose All Windows Machines to RCE Attacks
+https://d4stiny.github.io/Remote-Code-Execution-on-most-Dell-computers/ | Remote Code Execution on most Dell computers – Bill Demirkapi's Blog – The adventures of a 17 year old security researcher.
+https://github.com/D4stiny/Dell-Support-Assist-RCE-PoC | D4stiny/Dell-Support-Assist-RCE-PoC
+https://pbs.twimg.com/media/D8tWseUXUAAi0s8.jpg:large | D8tWseUXUAAi0s8.jpg:large (JPEG Image, 1167 × 1107 pixels) - Scaled (81%)
+https://github.com/Veil-Framework/Veil | Veil-Framework/Veil: Veil 3.1.X (Check version info in Veil at runtime)
+https://github.com/trustedsec/unicorn | trustedsec/unicorn: Unicorn is a simple tool for using a PowerShell downgrade attack and inject shellcode straight into memory. Based on Matthew Graeber's powershell attacks and the powershell bypass technique presented by David Kennedy (TrustedSec) and Josh Kelly at Defcon 18.
+https://www.youtube.com/watch?v=NuUcJCzaZ5E&feature=youtu.be | J'ai filmé LA ZONE 51 (donc la vidéo va se faire supprimer LOL) - YouTube
+https://fofa.so/ | FOFA Pro - The Cyberspace Search Engine, Security Situation Awareness
+https://github.com/jesseduffield/lazydocker | GitHub - jesseduffield/lazydocker: The lazier way to manage everything docker
+https://www.findmyshadow.com/ | FindMyShadow.com - sun position calculator and bespoke scene shadow plotting - v3.5
+
+
+
+
+
+
+## Collision MD5
+* https://www.win.tue.nl/hashclash/
+* https://github.com/nneonneo/sha1collider
+* https://shattered.io/
+* https://github.com/corkami/collisions
+
 * [OpenDrop](https://github.com/seemoo-lab/opendrop): an Open Source AirDrop Implementation
 
 # BlockList URL
@@ -1039,3 +1269,6 @@ CRC RevEng: arbitrary-precision CRC calculator and algorithm finder http://reven
 * Light @ 327KB (~20,000 domains): Chad Mayfield (from Top 1M) https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list
 * Heavy @ ~45MB (~1.7m domains): Chad Mayfield (All) https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_all.list
 * https://chadmayfield.com/2017/06/29/blocking-porn-with-pihole/
+
+* [Defcon 19: DIY Non-Destructive-Entry](https://www.youtube.com/watch?v=ChbyaXBKNY8)
+* [I'll Let Myself In: Tactics of Physical Pen Testers](https://www.youtube.com/watch?v=rnmcRTnTNC8)
