@@ -16,6 +16,10 @@ Reverse Enginering
 * https://github.com/Cisco-Talos/pyrebox PyREBox is a Python scriptable Reverse Engineering sandbox. It is based on QEMU, and its goal is to aid reverse engineering by providing dynamic analysis and debugging capabilities from a different perspective. PyREBox allows to inspect a running QEMU VM, modify its memory or registers, and to instrument its execution, by creating simple scripts in python to automate any kind of analysis. QEMU (when working as a whole-system-emulator) emulates a complete system (CPU, memory, devices...). By using VMI techniques, it does not require to perform any modification into the guest operating system, as it transparently retrieves information from its memory at run-time.
 * This project provides baseline virtual machines for creation of testing environments requiring primarily windows based targets. https://github.com/rapid7/metasploit-baseline-builder
 
+# Bot and Malware Analysis
+* [Corona DDoS bot](https://maxkersten.nl/binary-analysis-course/malware-analysis/corona-ddos-bot/)
+
+
 # Network
 * [Malcolm](https://github.com/idaholab/malcolm) is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files) and Zeek logs.
 
